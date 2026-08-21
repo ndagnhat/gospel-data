@@ -1,0 +1,24 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "HAB",
+  "name": "Kha-ba-cúc",
+  "abbreviation": "Kb",
+  "sortOrder": 42,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 19
+    }
+  ]
+}

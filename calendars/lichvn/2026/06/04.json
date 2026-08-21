@@ -1,0 +1,47 @@
+{
+  "id": "2026-06-04",
+  "date": "2026-06-04",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IX Thường Niên",
+  "weekNumber": 9,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Chín Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "2TM",
+      "startChapter": 2,
+      "startVerse": 8,
+      "endChapter": 2,
+      "endVerse": 15,
+      "displayReference": "2Tm 2, 8-15",
+      "sourceCitation": "2 Timothy 2:8-15",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 8,
+      "endChapter": 1,
+      "endVerse": 9,
+      "displayReference": "Tv 1, 8-9",
+      "sourceCitation": "Psalm 25:4-5ab, 8-9, 10 and 14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 12,
+      "startVerse": 28,
+      "endChapter": 12,
+      "endVerse": 34,
+      "displayReference": "Mc 12, 28-34",
+      "sourceCitation": "Mark 12:28-34",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "2026-01-27",
+  "date": "2026-01-27",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần III Thường Niên",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh An-giê-la Mê-ri-si, trinh nữ",
+  "saintOfDay": "Thánh An-giê-la Mê-ri-si, trinh nữ",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Ba Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 6,
+      "startVerse": 12,
+      "endChapter": 6,
+      "endVerse": 19,
+      "displayReference": "2Sm 6, 12-15.17-19",
+      "sourceCitation": "2 Samuel 6:12b-15, 17-19",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 24,
+      "startVerse": 7,
+      "endChapter": 24,
+      "endVerse": 10,
+      "displayReference": "Tv 24, 7-10",
+      "sourceCitation": "Psalm 24:7, 8, 9, 10",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 3,
+      "startVerse": 31,
+      "endChapter": 3,
+      "endVerse": 35,
+      "displayReference": "Mc 3, 31-35",
+      "sourceCitation": "Mark 3:31-35",
+      "type": "gospel"
+    }
+  ]
+}

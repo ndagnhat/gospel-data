@@ -1,0 +1,73 @@
+{
+  "id": "2026-09-20",
+  "date": "2026-09-20",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIV Thường Niên",
+  "weekNumber": 24,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Hai Mươi-Năm Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 55,
+      "startVerse": 6,
+      "endChapter": 55,
+      "endVerse": 9,
+      "displayReference": "Is 55, 6-9",
+      "sourceCitation": "Isaiah 55:6-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 145,
+      "startVerse": 2,
+      "endChapter": 145,
+      "endVerse": 18,
+      "displayReference": "Tv 145, 2-3.8-9.17-18",
+      "sourceCitation": "Psalm 145:2-3, 8-9, 17-18",
+      "selectedVerses": [
+        2,
+        3,
+        8,
+        9,
+        17,
+        18
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "PHP",
+      "startChapter": 1,
+      "startVerse": 20,
+      "endChapter": 1,
+      "endVerse": 27,
+      "displayReference": "Pl 1, 20-24.27",
+      "sourceCitation": "Philippians 1:20c-24, 27a",
+      "selectedVerses": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        27
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 20,
+      "startVerse": 1,
+      "endChapter": 20,
+      "endVerse": 16,
+      "displayReference": "Mt 20, 1-16",
+      "sourceCitation": "Matthew 20:1-16a",
+      "type": "gospel"
+    }
+  ]
+}

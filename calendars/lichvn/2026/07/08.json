@@ -1,0 +1,55 @@
+{
+  "id": "2026-07-08",
+  "date": "2026-07-08",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIV Thường Niên",
+  "weekNumber": 14,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Mười Bốn Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "HOS",
+      "startChapter": 10,
+      "startVerse": 1,
+      "endChapter": 10,
+      "endVerse": 12,
+      "displayReference": "Hs 10, 1-3.7-8.12",
+      "sourceCitation": "Hosea 10:1-3, 7-8, 12",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        7,
+        8,
+        12
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 105,
+      "startVerse": 2,
+      "endChapter": 105,
+      "endVerse": 7,
+      "displayReference": "Tv 105, 2-7",
+      "sourceCitation": "Psalm 105:2-3, 4-5, 6-7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 10,
+      "startVerse": 1,
+      "endChapter": 10,
+      "endVerse": 7,
+      "displayReference": "Mt 10, 1-7",
+      "sourceCitation": "Matthew 10:1-7",
+      "type": "gospel"
+    }
+  ]
+}

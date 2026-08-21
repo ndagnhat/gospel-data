@@ -1,0 +1,55 @@
+{
+  "id": "2026-08-24",
+  "date": "2026-08-24",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXI Thường Niên",
+  "weekNumber": 21,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Ba-tô-lô-mê-ô, tông đồ",
+  "saintOfDay": "Thánh Ba-tô-lô-mê-ô, tông đồ",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "REV",
+      "startChapter": 21,
+      "startVerse": 9,
+      "endChapter": 21,
+      "endVerse": 14,
+      "displayReference": "Kh 21, 9-14",
+      "sourceCitation": "Revelation 21:9b-14",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 145,
+      "startVerse": 10,
+      "endChapter": 145,
+      "endVerse": 18,
+      "displayReference": "Tv 145, 10-13.17-18",
+      "sourceCitation": "Psalm 145:10-11, 12-13, 17-18",
+      "selectedVerses": [
+        10,
+        11,
+        12,
+        13,
+        17,
+        18
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 1,
+      "startVerse": 45,
+      "endChapter": 1,
+      "endVerse": 51,
+      "displayReference": "Ga 1, 45-51",
+      "sourceCitation": "John 1:45-51",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-12",
+  "date": "2026-10-12",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVIII Thường Niên",
+  "weekNumber": 28,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "GAL",
+      "startChapter": 4,
+      "startVerse": 22,
+      "endChapter": 5,
+      "endVerse": 1,
+      "displayReference": "Gl 4, 22 – 5, 1",
+      "sourceCitation": "Galatians 4:22-24, 26-27, 31—5:1",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 113,
+      "startVerse": 1,
+      "endChapter": 113,
+      "endVerse": 7,
+      "displayReference": "Tv 113, 1-7",
+      "sourceCitation": "Psalm 113:1b-2, 3-4, 5a, 6-7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 29,
+      "endChapter": 11,
+      "endVerse": 32,
+      "displayReference": "Lc 11, 29-32",
+      "sourceCitation": "Luke 11:29-32",
+      "type": "gospel"
+    }
+  ]
+}

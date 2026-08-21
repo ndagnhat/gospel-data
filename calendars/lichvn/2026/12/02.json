@@ -1,0 +1,47 @@
+{
+  "id": "2026-12-02",
+  "date": "2026-12-02",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần I Mùa Vọng",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Nhất Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 25,
+      "startVerse": 6,
+      "endChapter": 25,
+      "endVerse": 10,
+      "displayReference": "Is 25, 6-10",
+      "sourceCitation": "Isaiah 25:6-10a",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 23,
+      "startVerse": 1,
+      "endChapter": 23,
+      "endVerse": 6,
+      "displayReference": "Tv 23, 1-6",
+      "sourceCitation": "Psalm 23:1-3a, 3b-4, 5, 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 15,
+      "startVerse": 29,
+      "endChapter": 15,
+      "endVerse": 37,
+      "displayReference": "Mt 15, 29-37",
+      "sourceCitation": "Matthew 15:29-37",
+      "type": "gospel"
+    }
+  ]
+}

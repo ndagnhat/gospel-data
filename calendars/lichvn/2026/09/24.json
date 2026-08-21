@@ -1,0 +1,57 @@
+{
+  "id": "2026-09-24",
+  "date": "2026-09-24",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXV Thường Niên",
+  "weekNumber": 25,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Hai Mươi-Năm Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ECC",
+      "startChapter": 1,
+      "startVerse": 2,
+      "endChapter": 1,
+      "endVerse": 11,
+      "displayReference": "Gv 1, 2-11",
+      "sourceCitation": "Ecclesiastes 1:2-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 90,
+      "startVerse": 3,
+      "endChapter": 90,
+      "endVerse": 17,
+      "displayReference": "Tv 90, 3-6.12-14.17",
+      "sourceCitation": "Psalm 90:3-4, 5-6, 12-13, 14, 17bc",
+      "selectedVerses": [
+        3,
+        4,
+        5,
+        6,
+        12,
+        13,
+        14,
+        17
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 9,
+      "startVerse": 7,
+      "endChapter": 9,
+      "endVerse": 9,
+      "displayReference": "Lc 9, 7-9",
+      "sourceCitation": "Luke 9:7-9",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2026-07-24",
+  "date": "2026-07-24",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVI Thường Niên",
+  "weekNumber": 16,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Sa-ben Mac-lup, linh mục",
+  "saintOfDay": "Thánh Sa-ben Mac-lup, linh mục",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Mười Sáu Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 3,
+      "startVerse": 14,
+      "endChapter": 3,
+      "endVerse": 17,
+      "displayReference": "Gr 3, 14-17",
+      "sourceCitation": "Jeremiah 3:14-17",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "JER",
+      "startChapter": 31,
+      "startVerse": 10,
+      "endChapter": 31,
+      "endVerse": 13,
+      "displayReference": "Gr 31, 10.13",
+      "sourceCitation": "Jeremiah 31:10, 11-12abcd, 13",
+      "selectedVerses": [
+        10,
+        13
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 18,
+      "endChapter": 13,
+      "endVerse": 23,
+      "displayReference": "Mt 13, 18-23",
+      "sourceCitation": "Matthew 13:18-23",
+      "type": "gospel"
+    }
+  ]
+}

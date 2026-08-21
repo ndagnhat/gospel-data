@@ -1,0 +1,64 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "NEH",
+  "name": "Nơ-khe-mi-a",
+  "abbreviation": "Nkm",
+  "sortOrder": 16,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 13,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 72
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 47
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 31
+    }
+  ]
+}

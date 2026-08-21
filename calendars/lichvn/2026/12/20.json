@@ -1,0 +1,79 @@
+{
+  "id": "2026-12-20",
+  "date": "2026-12-20",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần IV Mùa Vọng",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Tư Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 7,
+      "startVerse": 1,
+      "endChapter": 7,
+      "endVerse": 16,
+      "displayReference": "2Sm 7, 1-5.8-12.14.16",
+      "sourceCitation": "2 Samuel 7:1-5, 8b-12, 14a, 16",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        16
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 2,
+      "endChapter": 89,
+      "endVerse": 29,
+      "displayReference": "Tv 89, 2-5.27.29",
+      "sourceCitation": "Psalm 89:2-3, 4-5, 27, 29",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        5,
+        27,
+        29
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 16,
+      "startVerse": 25,
+      "endChapter": 16,
+      "endVerse": 27,
+      "displayReference": "Rm 16, 25-27",
+      "sourceCitation": "Romans 16:25-27",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 26,
+      "endChapter": 1,
+      "endVerse": 38,
+      "displayReference": "Lc 1, 26-38",
+      "sourceCitation": "Luke 1:26-38",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "TIT",
+  "name": "Thư Ti-tô",
+  "abbreviation": "Tt",
+  "sortOrder": 63,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 15
+    }
+  ]
+}

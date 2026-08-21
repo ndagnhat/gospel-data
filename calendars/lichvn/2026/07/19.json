@@ -1,0 +1,75 @@
+{
+  "id": "2026-07-19",
+  "date": "2026-07-19",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XV Thường Niên",
+  "weekNumber": 15,
+  "psalterWeek": 4,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Mười Sáu Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "WIS",
+      "startChapter": 12,
+      "startVerse": 13,
+      "endChapter": 12,
+      "endVerse": 19,
+      "displayReference": "Kn 12, 13.16-19",
+      "sourceCitation": "Wisdom 12:13, 16-19",
+      "selectedVerses": [
+        13,
+        16,
+        17,
+        18,
+        19
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 86,
+      "startVerse": 5,
+      "endChapter": 86,
+      "endVerse": 16,
+      "displayReference": "Tv 86, 5-6.9-10.15-16",
+      "sourceCitation": "Psalm 86:5-6, 9-10, 15-16",
+      "selectedVerses": [
+        5,
+        6,
+        9,
+        10,
+        15,
+        16
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 8,
+      "startVerse": 26,
+      "endChapter": 8,
+      "endVerse": 27,
+      "displayReference": "Rm 8, 26-27",
+      "sourceCitation": "Romans 8:26-27",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 24,
+      "endChapter": 13,
+      "endVerse": 43,
+      "displayReference": "Mt 13, 24-43",
+      "sourceCitation": "Matthew 13:24-43",
+      "type": "gospel",
+      "alternatives": [
+        "Mt 13, 24-30"
+      ]
+    }
+  ]
+}

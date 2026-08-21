@@ -1,0 +1,36 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "GAL",
+  "name": "Thư Ga-lát",
+  "abbreviation": "Gl",
+  "sortOrder": 55,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 6,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 18
+    }
+  ]
+}

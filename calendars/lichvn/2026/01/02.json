@@ -1,0 +1,47 @@
+{
+  "id": "2026-01-02",
+  "date": "2026-01-02",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Ba-xi-li-ô Cả và thánh Ghê-gô-ri-ô Na-di-en, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Ba-xi-li-ô Cả và thánh Ghê-gô-ri-ô Na-di-en, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1JN",
+      "startChapter": 2,
+      "startVerse": 22,
+      "endChapter": 2,
+      "endVerse": 28,
+      "displayReference": "1Ga 2, 22-28",
+      "sourceCitation": "1 John 2:22-28",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 98,
+      "startVerse": 1,
+      "endChapter": 98,
+      "endVerse": 1,
+      "displayReference": "Tv 98, 1",
+      "sourceCitation": "Psalm 98:1, 2-3ab, 3cd-4",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 1,
+      "startVerse": 19,
+      "endChapter": 1,
+      "endVerse": 28,
+      "displayReference": "Ga 1, 19-28",
+      "sourceCitation": "John 1:19-28",
+      "type": "gospel"
+    }
+  ]
+}

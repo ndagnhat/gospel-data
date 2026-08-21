@@ -1,0 +1,57 @@
+{
+  "id": "2026-03-24",
+  "date": "2026-03-24",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần V Mùa Chay",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Năm Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "NUM",
+      "startChapter": 21,
+      "startVerse": 4,
+      "endChapter": 21,
+      "endVerse": 9,
+      "displayReference": "Ds 21, 4-9",
+      "sourceCitation": "Numbers 21:4-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 102,
+      "startVerse": 2,
+      "endChapter": 102,
+      "endVerse": 21,
+      "displayReference": "Tv 102, 2-3.16-21",
+      "sourceCitation": "Psalm 102:2-3, 16-18, 19-21",
+      "selectedVerses": [
+        2,
+        3,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 8,
+      "startVerse": 21,
+      "endChapter": 8,
+      "endVerse": 30,
+      "displayReference": "Ga 8, 21-30",
+      "sourceCitation": "John 8:21-30",
+      "type": "gospel"
+    }
+  ]
+}

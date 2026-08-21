@@ -1,0 +1,57 @@
+{
+  "id": "2026-06-09",
+  "date": "2026-06-09",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần X Thường Niên",
+  "weekNumber": 10,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Ép-rem, phó tế, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Ép-rem, phó tế, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Mười Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 17,
+      "startVerse": 7,
+      "endChapter": 17,
+      "endVerse": 16,
+      "displayReference": "1V 17, 7-16",
+      "sourceCitation": "1 Kings 17:7-16",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 4,
+      "startVerse": 2,
+      "endChapter": 4,
+      "endVerse": 8,
+      "displayReference": "Tv 4, 2-5.7-8",
+      "sourceCitation": "Psalm 4:2-3, 4-5, 7b-8",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 5,
+      "startVerse": 13,
+      "endChapter": 5,
+      "endVerse": 16,
+      "displayReference": "Mt 5, 13-16",
+      "sourceCitation": "Matthew 5:13-16",
+      "type": "gospel"
+    }
+  ]
+}

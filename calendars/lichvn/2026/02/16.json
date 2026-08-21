@@ -1,0 +1,55 @@
+{
+  "id": "2026-02-16",
+  "date": "2026-02-16",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần VI Thường Niên",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Sáu Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JAS",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 11,
+      "displayReference": "Gc 1, 1-11",
+      "sourceCitation": "James 1:1-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 67,
+      "endChapter": 119,
+      "endVerse": 76,
+      "displayReference": "Tv 119, 67-68.71-72.75-76",
+      "sourceCitation": "Psalm 119:67, 68, 71, 72, 75, 76",
+      "selectedVerses": [
+        67,
+        68,
+        71,
+        72,
+        75,
+        76
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 8,
+      "startVerse": 11,
+      "endChapter": 8,
+      "endVerse": 13,
+      "displayReference": "Mc 8, 11-13",
+      "sourceCitation": "Mark 8:11-13",
+      "type": "gospel"
+    }
+  ]
+}

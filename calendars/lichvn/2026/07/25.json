@@ -1,0 +1,47 @@
+{
+  "id": "2026-07-25",
+  "date": "2026-07-25",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVI Thường Niên",
+  "weekNumber": 16,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Gia-cô-bê, tông đồ",
+  "saintOfDay": "Thánh Gia-cô-bê, tông đồ",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "2CO",
+      "startChapter": 4,
+      "startVerse": 7,
+      "endChapter": 4,
+      "endVerse": 15,
+      "displayReference": "2Cr 4, 7-15",
+      "sourceCitation": "2 Corinthians 4:7-15",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 4,
+      "endChapter": 1,
+      "endVerse": 6,
+      "displayReference": "Tv 1, 4-6",
+      "sourceCitation": "Psalm 126:1bc-2ab, 2cd-3, 4-5, 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 20,
+      "startVerse": 20,
+      "endChapter": 20,
+      "endVerse": 28,
+      "displayReference": "Mt 20, 20-28",
+      "sourceCitation": "Matthew 20:20-28",
+      "type": "gospel"
+    }
+  ]
+}

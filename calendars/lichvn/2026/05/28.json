@@ -1,0 +1,57 @@
+{
+  "id": "2026-05-28",
+  "date": "2026-05-28",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần VIII Thường Niên",
+  "weekNumber": 8,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Tám Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1PE",
+      "startChapter": 2,
+      "startVerse": 2,
+      "endChapter": 2,
+      "endVerse": 12,
+      "displayReference": "1Pr 2, 2-5.9-12",
+      "sourceCitation": "1 Peter 2:2-5, 9-12",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 100,
+      "startVerse": 2,
+      "endChapter": 100,
+      "endVerse": 5,
+      "displayReference": "Tv 100, 2-5",
+      "sourceCitation": "Psalm 100:2, 3, 4, 5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 10,
+      "startVerse": 46,
+      "endChapter": 10,
+      "endVerse": 52,
+      "displayReference": "Mc 10, 46-52",
+      "sourceCitation": "Mark 10:46-52",
+      "type": "gospel"
+    }
+  ]
+}

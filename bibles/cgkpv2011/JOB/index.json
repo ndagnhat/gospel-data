@@ -1,0 +1,180 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "JOB",
+  "name": "Gióp",
+  "abbreviation": "G",
+  "sortOrder": 22,
+  "testament": "old",
+  "category": "wisdom",
+  "totalChapters": 42,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 25,
+      "totalVerses": 6
+    },
+    {
+      "chapterNumber": 26,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 27,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 28,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 29,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 30,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 31,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 32,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 33,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 34,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 35,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 36,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 37,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 38,
+      "totalVerses": 41
+    },
+    {
+      "chapterNumber": 39,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 40,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 41,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 42,
+      "totalVerses": 17
+    }
+  ]
+}

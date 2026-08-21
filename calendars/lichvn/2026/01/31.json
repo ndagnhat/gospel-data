@@ -1,0 +1,64 @@
+{
+  "id": "2026-01-31",
+  "date": "2026-01-31",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần III Thường Niên",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Gio-an Bốt-cô, linh mục",
+  "saintOfDay": "Thánh Gio-an Bốt-cô, linh mục",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 12,
+      "startVerse": 1,
+      "endChapter": 12,
+      "endVerse": 17,
+      "displayReference": "2Sm 12, 1-7.10-17",
+      "sourceCitation": "2 Samuel 12:1-7a, 10-17",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 51,
+      "startVerse": 12,
+      "endChapter": 51,
+      "endVerse": 17,
+      "displayReference": "Tv 51, 12-17",
+      "sourceCitation": "Psalm 51:12-13, 14-15, 16-17",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 4,
+      "startVerse": 35,
+      "endChapter": 4,
+      "endVerse": 41,
+      "displayReference": "Mc 4, 35-41",
+      "sourceCitation": "Mark 4:35-41",
+      "type": "gospel"
+    }
+  ]
+}

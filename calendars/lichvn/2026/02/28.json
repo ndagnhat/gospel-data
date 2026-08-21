@@ -1,0 +1,55 @@
+{
+  "id": "2026-02-28",
+  "date": "2026-02-28",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần I Mùa Chay",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thứ Bảy trong tuần thứ Nhất Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "DEU",
+      "startChapter": 26,
+      "startVerse": 16,
+      "endChapter": 26,
+      "endVerse": 19,
+      "displayReference": "Đnl 26, 16-19",
+      "sourceCitation": "Deuteronomy 26:16-19",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 1,
+      "endChapter": 119,
+      "endVerse": 8,
+      "displayReference": "Tv 119, 1-2.4-5.7-8",
+      "sourceCitation": "Psalm 119:1-2, 4-5, 7-8",
+      "selectedVerses": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 5,
+      "startVerse": 43,
+      "endChapter": 5,
+      "endVerse": 48,
+      "displayReference": "Mt 5, 43-48",
+      "sourceCitation": "Matthew 5:43-48",
+      "type": "gospel"
+    }
+  ]
+}

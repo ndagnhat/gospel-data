@@ -1,0 +1,82 @@
+{
+  "id": "2026-04-19",
+  "date": "2026-04-19",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần III Mùa Phục Sinh",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Ba Mùa Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 2,
+      "startVerse": 14,
+      "endChapter": 2,
+      "endVerse": 33,
+      "displayReference": "Cv 2, 14.22-33",
+      "sourceCitation": "Acts 2:14, 22-33",
+      "selectedVerses": [
+        14,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 16,
+      "startVerse": 1,
+      "endChapter": 16,
+      "endVerse": 11,
+      "displayReference": "Tv 16, 1-2.5.7-11",
+      "sourceCitation": "Psalm 16:1-2, 5, 7-8, 9-10, 11",
+      "selectedVerses": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1PE",
+      "startChapter": 1,
+      "startVerse": 17,
+      "endChapter": 1,
+      "endVerse": 21,
+      "displayReference": "1Pr 1, 17-21",
+      "sourceCitation": "1 Peter 1:17-21",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 24,
+      "startVerse": 13,
+      "endChapter": 24,
+      "endVerse": 35,
+      "displayReference": "Lc 24, 13-35",
+      "sourceCitation": "Luke 24:13-35",
+      "type": "gospel"
+    }
+  ]
+}

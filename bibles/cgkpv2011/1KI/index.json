@@ -1,0 +1,100 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1KI",
+  "name": "Các Vua 1",
+  "abbreviation": "1V",
+  "sortOrder": 11,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 22,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 53
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 46
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 51
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 66
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 42
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 46
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 43
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 54
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "2026-02-23",
+  "date": "2026-02-23",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần I Mùa Chay",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Pô-li-cáp, giám mục, tử đạo",
+  "saintOfDay": "Thánh Pô-li-cáp, giám mục, tử đạo",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Nhất Mùa Chay"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "LEV",
+      "startChapter": 19,
+      "startVerse": 1,
+      "endChapter": 19,
+      "endVerse": 18,
+      "displayReference": "Lv 19, 1-2.11-18",
+      "sourceCitation": "Leviticus 19:1-2, 11-18",
+      "selectedVerses": [
+        1,
+        2,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 19,
+      "startVerse": 8,
+      "endChapter": 19,
+      "endVerse": 15,
+      "displayReference": "Tv 19, 8-10.15",
+      "sourceCitation": "Psalm 19:8, 9, 10, 15",
+      "selectedVerses": [
+        8,
+        9,
+        10,
+        15
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 25,
+      "startVerse": 31,
+      "endChapter": 25,
+      "endVerse": 46,
+      "displayReference": "Mt 25, 31-46",
+      "sourceCitation": "Matthew 25:31-46",
+      "type": "gospel"
+    }
+  ]
+}

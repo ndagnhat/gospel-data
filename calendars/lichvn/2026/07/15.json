@@ -1,0 +1,66 @@
+{
+  "id": "2026-07-15",
+  "date": "2026-07-15",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XV Thường Niên",
+  "weekNumber": 15,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Bô-na-ven-tu-ra, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Bô-na-ven-tu-ra, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 10,
+      "startVerse": 5,
+      "endChapter": 10,
+      "endVerse": 16,
+      "displayReference": "Is 10, 5-7.13-16",
+      "sourceCitation": "Isaiah 10:5-7, 13b-16",
+      "selectedVerses": [
+        5,
+        6,
+        7,
+        13,
+        14,
+        15,
+        16
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 94,
+      "startVerse": 5,
+      "endChapter": 94,
+      "endVerse": 15,
+      "displayReference": "Tv 94, 5-10.14-15",
+      "sourceCitation": "Psalm 94:5-6, 7-8, 9-10, 14-15",
+      "selectedVerses": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        14,
+        15
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 11,
+      "startVerse": 25,
+      "endChapter": 11,
+      "endVerse": 27,
+      "displayReference": "Mt 11, 25-27",
+      "sourceCitation": "Matthew 11:25-27",
+      "type": "gospel"
+    }
+  ]
+}

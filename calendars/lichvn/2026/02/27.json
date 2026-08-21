@@ -1,0 +1,49 @@
+{
+  "id": "2026-02-27",
+  "date": "2026-02-27",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần I Mùa Chay",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Ghê-gô-ri-ô thành Narek, viện phụ, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Ghê-gô-ri-ô thành Narek, viện phụ, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Nhất Mùa Chay"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 18,
+      "startVerse": 21,
+      "endChapter": 18,
+      "endVerse": 28,
+      "displayReference": "Ed 18, 21-28",
+      "sourceCitation": "Ezekiel 18:21-28",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 130,
+      "startVerse": 1,
+      "endChapter": 130,
+      "endVerse": 7,
+      "displayReference": "Tv 130, 1-7",
+      "sourceCitation": "Psalm 130:1-2, 3-4, 5-7a, 7bc-8",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 5,
+      "startVerse": 20,
+      "endChapter": 5,
+      "endVerse": 26,
+      "displayReference": "Mt 5, 20-26",
+      "sourceCitation": "Matthew 5:20-26",
+      "type": "gospel"
+    }
+  ]
+}

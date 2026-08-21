@@ -1,0 +1,77 @@
+{
+  "id": "2026-09-08",
+  "date": "2026-09-08",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIII Thường Niên",
+  "weekNumber": 23,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Sinh nhật Đức trinh nữ Maria",
+  "saintOfDay": "Sinh nhật Đức trinh nữ Maria",
+  "commemorations": [],
+  "color": "white",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "MIC",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 4,
+      "displayReference": "Mk 5, 1-4",
+      "sourceCitation": "Micah 5:1-4a",
+      "type": "first_reading",
+      "alternatives": [
+        "Rm 8, 28-30"
+      ]
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 6,
+      "endChapter": 1,
+      "endVerse": 6,
+      "displayReference": "Tv 1, 6",
+      "sourceCitation": "Psalm 13:6ab, 6c",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 23,
+      "displayReference": "Mt 1, 1-16.18-23",
+      "sourceCitation": "Matthew 1:1-16, 18-23",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "type": "gospel",
+      "alternatives": [
+        "Mt 1, 18-23"
+      ]
+    }
+  ]
+}

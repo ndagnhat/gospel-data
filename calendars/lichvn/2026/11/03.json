@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-03",
+  "date": "2026-11-03",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXI Thường Niên",
+  "weekNumber": 31,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Mác-ti-nô Po-rét, tu sĩ",
+  "saintOfDay": "Thánh Mác-ti-nô Po-rét, tu sĩ",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Ba Mươi-Nhất Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "PHP",
+      "startChapter": 2,
+      "startVerse": 5,
+      "endChapter": 2,
+      "endVerse": 11,
+      "displayReference": "Pl 2, 5-11",
+      "sourceCitation": "Philippians 2:5-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 22,
+      "startVerse": 26,
+      "endChapter": 22,
+      "endVerse": 32,
+      "displayReference": "Tv 22, 26-27.30-32",
+      "sourceCitation": "Psalm 22:26b-27, 28-30ab, 30e, 31-32",
+      "selectedVerses": [
+        26,
+        27,
+        30,
+        31,
+        32
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 14,
+      "startVerse": 15,
+      "endChapter": 14,
+      "endVerse": 24,
+      "displayReference": "Lc 14, 15-24",
+      "sourceCitation": "Luke 14:15-24",
+      "type": "gospel"
+    }
+  ]
+}

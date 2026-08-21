@@ -1,0 +1,47 @@
+{
+  "id": "2026-04-11",
+  "date": "2026-04-11",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần I Mùa Phục Sinh",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thứ Bảy trong tuần Bát Nhật Lễ Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 4,
+      "startVerse": 13,
+      "endChapter": 4,
+      "endVerse": 21,
+      "displayReference": "Cv 4, 13-21",
+      "sourceCitation": "Acts 4:13-21",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 16,
+      "endChapter": 1,
+      "endVerse": 21,
+      "displayReference": "Tv 1, 16-21",
+      "sourceCitation": "Psalm 118:1 and 14-15ab, 16-18, 19-21",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 16,
+      "startVerse": 9,
+      "endChapter": 16,
+      "endVerse": 15,
+      "displayReference": "Mc 16, 9-15",
+      "sourceCitation": "Mark 16:9-15",
+      "type": "gospel"
+    }
+  ]
+}

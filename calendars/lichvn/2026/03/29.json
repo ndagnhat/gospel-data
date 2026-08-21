@@ -1,0 +1,71 @@
+{
+  "id": "2026-03-29",
+  "date": "2026-03-29",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần VI Mùa Chay",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật Lễ Lá",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "red",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 50,
+      "startVerse": 4,
+      "endChapter": 50,
+      "endVerse": 7,
+      "displayReference": "Is 50, 4-7",
+      "sourceCitation": "Isaiah 50:4-7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 22,
+      "startVerse": 8,
+      "endChapter": 22,
+      "endVerse": 24,
+      "displayReference": "Tv 22, 8-9.17-20.23-24",
+      "sourceCitation": "Psalm 22:8-9, 17-18, 19-20, 23-24",
+      "selectedVerses": [
+        8,
+        9,
+        17,
+        18,
+        19,
+        20,
+        23,
+        24
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "PHP",
+      "startChapter": 2,
+      "startVerse": 6,
+      "endChapter": 2,
+      "endVerse": 11,
+      "displayReference": "Pl 2, 6-11",
+      "sourceCitation": "Philippians 2:6-11",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 21,
+      "startVerse": 1,
+      "endChapter": 21,
+      "endVerse": 11,
+      "displayReference": "Mt 21, 1-11",
+      "sourceCitation": "Matthew 21:1-11",
+      "type": "gospel",
+      "alternatives": [
+        "Mt 26, 14 – 27, 66",
+        "Mt 27, 11-54"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "2026-07-01",
+  "date": "2026-07-01",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIII Thường Niên",
+  "weekNumber": 13,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Mười Ba Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "AMO",
+      "startChapter": 5,
+      "startVerse": 14,
+      "endChapter": 5,
+      "endVerse": 24,
+      "displayReference": "Am 5, 14-15.21-24",
+      "sourceCitation": "Amos 5:14-15, 21-24",
+      "selectedVerses": [
+        14,
+        15,
+        21,
+        22,
+        23,
+        24
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 50,
+      "startVerse": 7,
+      "endChapter": 50,
+      "endVerse": 13,
+      "displayReference": "Tv 50, 7-13",
+      "sourceCitation": "Psalm 50:7, 8-9, 10-11, 12-13, 16bc-17",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 8,
+      "startVerse": 28,
+      "endChapter": 8,
+      "endVerse": 34,
+      "displayReference": "Mt 8, 28-34",
+      "sourceCitation": "Matthew 8:28-34",
+      "type": "gospel"
+    }
+  ]
+}

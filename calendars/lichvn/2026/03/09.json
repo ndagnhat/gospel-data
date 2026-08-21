@@ -1,0 +1,44 @@
+{
+  "id": "2026-03-09",
+  "date": "2026-03-09",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần III Mùa Chay",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Phan-xi-ca Rô-ma, nữ tu",
+  "saintOfDay": "Thánh Phan-xi-ca Rô-ma, nữ tu",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Ba Mùa Chay"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "PSA",
+      "startChapter": 42,
+      "startVerse": 2,
+      "endChapter": 43,
+      "endVerse": 4,
+      "displayReference": "Tv 42, 2 – 43, 4",
+      "sourceCitation": "Psalm 42:2, 3; 43:3, 4",
+      "selectedVerses": [
+        2,
+        3,
+        4
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 4,
+      "startVerse": 24,
+      "endChapter": 4,
+      "endVerse": 30,
+      "displayReference": "Lc 4, 24-30",
+      "sourceCitation": "Luke 4:24-30",
+      "type": "gospel"
+    }
+  ]
+}

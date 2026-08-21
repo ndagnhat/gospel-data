@@ -1,0 +1,55 @@
+{
+  "id": "2026-03-12",
+  "date": "2026-03-12",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần III Mùa Chay",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Ba Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 7,
+      "startVerse": 23,
+      "endChapter": 7,
+      "endVerse": 28,
+      "displayReference": "Gr 7, 23-28",
+      "sourceCitation": "Jeremiah 7:23-28",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 95,
+      "startVerse": 1,
+      "endChapter": 95,
+      "endVerse": 9,
+      "displayReference": "Tv 95, 1-2.6-9",
+      "sourceCitation": "Psalm 95:1-2, 6-7, 8-9",
+      "selectedVerses": [
+        1,
+        2,
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 14,
+      "endChapter": 11,
+      "endVerse": 23,
+      "displayReference": "Lc 11, 14-23",
+      "sourceCitation": "Luke 11:14-23",
+      "type": "gospel"
+    }
+  ]
+}

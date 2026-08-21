@@ -1,0 +1,64 @@
+{
+  "id": "2026-08-01",
+  "date": "2026-08-01",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVII Thường Niên",
+  "weekNumber": 17,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh An-phong Ma-ri-a Li-gô-ri, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh An-phong Ma-ri-a Li-gô-ri, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 26,
+      "startVerse": 11,
+      "endChapter": 26,
+      "endVerse": 24,
+      "displayReference": "Gr 26, 11-16.24",
+      "sourceCitation": "Jeremiah 26:11-16, 24",
+      "selectedVerses": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        24
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 69,
+      "startVerse": 15,
+      "endChapter": 69,
+      "endVerse": 34,
+      "displayReference": "Tv 69, 15-16.30-31.33-34",
+      "sourceCitation": "Psalm 69:15-16, 30-31, 33-34",
+      "selectedVerses": [
+        15,
+        16,
+        30,
+        31,
+        33,
+        34
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 14,
+      "startVerse": 1,
+      "endChapter": 14,
+      "endVerse": 12,
+      "displayReference": "Mt 14, 1-12",
+      "sourceCitation": "Matthew 14:1-12",
+      "type": "gospel"
+    }
+  ]
+}

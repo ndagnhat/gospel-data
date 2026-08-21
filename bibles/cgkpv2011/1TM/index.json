@@ -1,0 +1,36 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1TM",
+  "name": "Thư 1 Ti-mô-thê",
+  "abbreviation": "1Tm",
+  "sortOrder": 61,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 6,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 21
+    }
+  ]
+}

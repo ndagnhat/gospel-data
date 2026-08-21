@@ -1,0 +1,75 @@
+{
+  "id": "2026-06-17",
+  "date": "2026-06-17",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XI Thường Niên",
+  "weekNumber": 11,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Mười Một Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "2KI",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 14,
+      "displayReference": "2V 2, 1.6-14",
+      "sourceCitation": "2 Kings 2:1, 6-14",
+      "selectedVerses": [
+        1,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 31,
+      "startVerse": 20,
+      "endChapter": 31,
+      "endVerse": 24,
+      "displayReference": "Tv 31, 20-21.24",
+      "sourceCitation": "Psalm 31:20, 21, 24",
+      "selectedVerses": [
+        20,
+        21,
+        24
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 6,
+      "startVerse": 1,
+      "endChapter": 6,
+      "endVerse": 18,
+      "displayReference": "Mt 6, 1-6.16-18",
+      "sourceCitation": "Matthew 6:1-6, 16-18",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        16,
+        17,
+        18
+      ],
+      "type": "gospel"
+    }
+  ]
+}

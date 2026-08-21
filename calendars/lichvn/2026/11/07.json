@@ -1,0 +1,57 @@
+{
+  "id": "2026-11-07",
+  "date": "2026-11-07",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXI Thường Niên",
+  "weekNumber": 31,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Đức Mẹ ngày thứ bảy",
+  "saintOfDay": "Lễ Đức Mẹ ngày thứ bảy",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Ba Mươi-Nhất Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "PHP",
+      "startChapter": 4,
+      "startVerse": 10,
+      "endChapter": 4,
+      "endVerse": 19,
+      "displayReference": "Pl 4, 10-19",
+      "sourceCitation": "Philippians 4:10-19",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 112,
+      "startVerse": 1,
+      "endChapter": 112,
+      "endVerse": 9,
+      "displayReference": "Tv 112, 1-2.5-6.8-9",
+      "sourceCitation": "Psalm 112:1b-2, 5-6, 8a, 9",
+      "selectedVerses": [
+        1,
+        2,
+        5,
+        6,
+        8,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 16,
+      "startVerse": 9,
+      "endChapter": 16,
+      "endVerse": 15,
+      "displayReference": "Lc 16, 9-15",
+      "sourceCitation": "Luke 16:9-15",
+      "type": "gospel"
+    }
+  ]
+}

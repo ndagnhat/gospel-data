@@ -1,0 +1,60 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "ECC",
+  "name": "Giảng Viên",
+  "abbreviation": "Gv",
+  "sortOrder": 25,
+  "testament": "old",
+  "category": "wisdom",
+  "totalChapters": 12,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 4
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 7
+    }
+  ]
+}

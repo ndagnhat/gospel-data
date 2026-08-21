@@ -1,0 +1,53 @@
+{
+  "id": "2026-10-01",
+  "date": "2026-10-01",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVI Thường Niên",
+  "weekNumber": 26,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Tê-rê-xa Hài Đồng Giê-su, trinh nữ, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Tê-rê-xa Hài Đồng Giê-su, trinh nữ, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "JOB",
+      "startChapter": 19,
+      "startVerse": 21,
+      "endChapter": 19,
+      "endVerse": 27,
+      "displayReference": "G 19, 21-27",
+      "sourceCitation": "Job 19:21-27",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 27,
+      "startVerse": 7,
+      "endChapter": 27,
+      "endVerse": 14,
+      "displayReference": "Tv 27, 7-8.13-14",
+      "sourceCitation": "Psalm 27:7-8a, 8b-9abc, 13-14",
+      "selectedVerses": [
+        7,
+        8,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 10,
+      "startVerse": 1,
+      "endChapter": 10,
+      "endVerse": 12,
+      "displayReference": "Lc 10, 1-12",
+      "sourceCitation": "Luke 10:1-12",
+      "type": "gospel"
+    }
+  ]
+}

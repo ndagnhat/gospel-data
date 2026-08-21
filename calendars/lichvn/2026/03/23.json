@@ -1,0 +1,75 @@
+{
+  "id": "2026-03-23",
+  "date": "2026-03-23",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần V Mùa Chay",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Tu-ri-bi-ô Môn-rô-vê-khô, giám mục",
+  "saintOfDay": "Thánh Tu-ri-bi-ô Môn-rô-vê-khô, giám mục",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Năm Mùa Chay"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "DAN",
+      "startChapter": 13,
+      "startVerse": 1,
+      "endChapter": 13,
+      "endVerse": 30,
+      "displayReference": "Đn 13, 1-9.15-17.19-30",
+      "sourceCitation": "Daniel 13:1-9, 15-17, 19-30, 33-62 or 13:41c-62",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 23,
+      "startVerse": 1,
+      "endChapter": 23,
+      "endVerse": 6,
+      "displayReference": "Tv 23, 1-6",
+      "sourceCitation": "Psalm 23:1-3a, 3b-4, 5, 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 8,
+      "startVerse": 1,
+      "endChapter": 8,
+      "endVerse": 11,
+      "displayReference": "Ga 8, 1-11",
+      "sourceCitation": "John 8:1-11",
+      "type": "gospel"
+    }
+  ]
+}

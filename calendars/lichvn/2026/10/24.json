@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-24",
+  "date": "2026-10-24",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIX Thường Niên",
+  "weekNumber": 29,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh An-tôn Ma-ri-a Cơ-la-rét, giám mục",
+  "saintOfDay": "Thánh An-tôn Ma-ri-a Cơ-la-rét, giám mục",
+  "commemorations": [
+    "Lễ Đức Mẹ ngày thứ bảy",
+    "Thứ Bảy trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 4,
+      "startVerse": 7,
+      "endChapter": 4,
+      "endVerse": 16,
+      "displayReference": "Ep 4, 7-16",
+      "sourceCitation": "Ephesians 4:7-16",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 122,
+      "startVerse": 1,
+      "endChapter": 122,
+      "endVerse": 2,
+      "displayReference": "Tv 122, 1-2",
+      "sourceCitation": "Psalm 122:1-2, 3-4ab, 4cd-5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 13,
+      "startVerse": 1,
+      "endChapter": 13,
+      "endVerse": 9,
+      "displayReference": "Lc 13, 1-9",
+      "sourceCitation": "Luke 13:1-9",
+      "type": "gospel"
+    }
+  ]
+}

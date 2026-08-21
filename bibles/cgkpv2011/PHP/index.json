@@ -1,0 +1,28 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "PHP",
+  "name": "Thư Phi-líp-phê",
+  "abbreviation": "Pl",
+  "sortOrder": 57,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 23
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2026-09-02",
+  "date": "2026-09-02",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXII Thường Niên",
+  "weekNumber": 22,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm",
+  "saintOfDay": "Ngày Quốc Khánh",
+  "commemorations": [
+    "Ngày Quốc Khánh"
+  ],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 9,
+      "displayReference": "1Cr 3, 1-9",
+      "sourceCitation": "1 Corinthians 3:1-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 12,
+      "endChapter": 33,
+      "endVerse": 21,
+      "displayReference": "Tv 33, 12-15.20-21",
+      "sourceCitation": "Psalm 33:12-13, 14-15, 20-21",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        15,
+        20,
+        21
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 4,
+      "startVerse": 38,
+      "endChapter": 4,
+      "endVerse": 44,
+      "displayReference": "Lc 4, 38-44",
+      "sourceCitation": "Luke 4:38-44",
+      "type": "gospel"
+    }
+  ]
+}

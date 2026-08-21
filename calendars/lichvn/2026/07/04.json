@@ -1,0 +1,50 @@
+{
+  "id": "2026-07-04",
+  "date": "2026-07-04",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIII Thường Niên",
+  "weekNumber": 13,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh nữ Ê-li-sa-bét Bồ-đào-nha",
+  "saintOfDay": "Thánh nữ Ê-li-sa-bét Bồ-đào-nha",
+  "commemorations": [
+    "Lễ Đức Mẹ ngày thứ bảy",
+    "Thứ Bảy trong tuần thứ Mười Ba Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "AMO",
+      "startChapter": 9,
+      "startVerse": 11,
+      "endChapter": 9,
+      "endVerse": 15,
+      "displayReference": "Am 9, 11-15",
+      "sourceCitation": "Amos 9:11-15",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 11,
+      "endChapter": 1,
+      "endVerse": 14,
+      "displayReference": "Tv 1, 11-14",
+      "sourceCitation": "Psalm 85:9 and 10, 11-12, 13-14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 9,
+      "startVerse": 14,
+      "endChapter": 9,
+      "endVerse": 17,
+      "displayReference": "Mt 9, 14-17",
+      "sourceCitation": "Matthew 9:14-17",
+      "type": "gospel"
+    }
+  ]
+}

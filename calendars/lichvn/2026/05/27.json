@@ -1,0 +1,57 @@
+{
+  "id": "2026-05-27",
+  "date": "2026-05-27",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần VIII Thường Niên",
+  "weekNumber": 8,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Au-tinh thành Can-tơ-bơ-ri, giám mục",
+  "saintOfDay": "Thánh Au-tinh thành Can-tơ-bơ-ri, giám mục",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Tám Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1PE",
+      "startChapter": 1,
+      "startVerse": 18,
+      "endChapter": 1,
+      "endVerse": 25,
+      "displayReference": "1Pr 1, 18-25",
+      "sourceCitation": "1 Peter 1:18-25",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 147,
+      "startVerse": 12,
+      "endChapter": 147,
+      "endVerse": 20,
+      "displayReference": "Tv 147, 12-15.19-20",
+      "sourceCitation": "Psalm 147:12-13, 14-15, 19-20",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        15,
+        19,
+        20
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 10,
+      "startVerse": 32,
+      "endChapter": 10,
+      "endVerse": 45,
+      "displayReference": "Mc 10, 32-45",
+      "sourceCitation": "Mark 10:32-45",
+      "type": "gospel"
+    }
+  ]
+}

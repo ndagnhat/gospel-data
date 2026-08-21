@@ -1,0 +1,47 @@
+{
+  "id": "2026-06-13",
+  "date": "2026-06-13",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần X Thường Niên",
+  "weekNumber": 10,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Trái Tim Vô Nhiễm Đức Mẹ Ma-ri-a",
+  "saintOfDay": "Lễ Trái Tim Vô Nhiễm Đức Mẹ Ma-ri-a",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 19,
+      "startVerse": 19,
+      "endChapter": 19,
+      "endVerse": 21,
+      "displayReference": "1V 19, 19-21",
+      "sourceCitation": "1 Kings 19:19-21",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 7,
+      "endChapter": 1,
+      "endVerse": 10,
+      "displayReference": "Tv 1, 7-10",
+      "sourceCitation": "Psalm 16:1b-2a and 5, 7-8, 9-10",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 5,
+      "startVerse": 33,
+      "endChapter": 5,
+      "endVerse": 37,
+      "displayReference": "Mt 5, 33-37",
+      "sourceCitation": "Matthew 5:33-37",
+      "type": "gospel"
+    }
+  ]
+}

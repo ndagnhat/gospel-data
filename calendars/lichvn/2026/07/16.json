@@ -1,0 +1,59 @@
+{
+  "id": "2026-07-16",
+  "date": "2026-07-16",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XV Thường Niên",
+  "weekNumber": 15,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Đức Mẹ núi Cat-minh",
+  "saintOfDay": "Đức Mẹ núi Cat-minh",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Mười Lăm Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 26,
+      "startVerse": 7,
+      "endChapter": 26,
+      "endVerse": 19,
+      "displayReference": "Is 26, 7-9.12.16-19",
+      "sourceCitation": "Isaiah 26:7-9, 12, 16-19",
+      "selectedVerses": [
+        7,
+        8,
+        9,
+        12,
+        16,
+        17,
+        18,
+        19
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 16,
+      "endChapter": 1,
+      "endVerse": 21,
+      "displayReference": "Tv 1, 16-21",
+      "sourceCitation": "Psalm 102:13-14ab and 15, 16-18, 19-21",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 11,
+      "startVerse": 28,
+      "endChapter": 11,
+      "endVerse": 30,
+      "displayReference": "Mt 11, 28-30",
+      "sourceCitation": "Matthew 11:28-30",
+      "type": "gospel"
+    }
+  ]
+}

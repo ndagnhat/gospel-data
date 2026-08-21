@@ -1,0 +1,60 @@
+{
+  "id": "2026-12-17",
+  "date": "2026-12-17",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần III Mùa Vọng",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "17 tháng 12 Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "GEN",
+      "startChapter": 49,
+      "startVerse": 2,
+      "endChapter": 49,
+      "endVerse": 10,
+      "displayReference": "St 49, 2.8-10",
+      "sourceCitation": "Genesis 49:2, 8-10",
+      "selectedVerses": [
+        2,
+        8,
+        9,
+        10
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 72,
+      "startVerse": 1,
+      "endChapter": 72,
+      "endVerse": 17,
+      "displayReference": "Tv 72, 1-2.7-8.17",
+      "sourceCitation": "Psalm 72:1-2, 3-4ab, 7-8, 17",
+      "selectedVerses": [
+        1,
+        2,
+        7,
+        8,
+        17
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 17,
+      "displayReference": "Mt 1, 1-17",
+      "sourceCitation": "Matthew 1:1-17",
+      "type": "gospel"
+    }
+  ]
+}

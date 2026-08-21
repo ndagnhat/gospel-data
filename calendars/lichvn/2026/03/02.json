@@ -1,0 +1,47 @@
+{
+  "id": "2026-03-02",
+  "date": "2026-03-02",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần II Mùa Chay",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Hai Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "DAN",
+      "startChapter": 9,
+      "startVerse": 4,
+      "endChapter": 9,
+      "endVerse": 10,
+      "displayReference": "Đn 9, 4-10",
+      "sourceCitation": "Daniel 9:4b-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 79,
+      "startVerse": 8,
+      "endChapter": 79,
+      "endVerse": 9,
+      "displayReference": "Tv 79, 8-9",
+      "sourceCitation": "Psalm 79:8, 9, 11 and 13",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 6,
+      "startVerse": 36,
+      "endChapter": 6,
+      "endVerse": 38,
+      "displayReference": "Lc 6, 36-38",
+      "sourceCitation": "Luke 6:36-38",
+      "type": "gospel"
+    }
+  ]
+}

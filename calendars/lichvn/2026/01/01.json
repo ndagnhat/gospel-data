@@ -1,0 +1,64 @@
+{
+  "id": "2026-01-01",
+  "date": "2026-01-01",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Ma-ri-a, Đức Mẹ Chúa Trời",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "NUM",
+      "startChapter": 6,
+      "startVerse": 22,
+      "endChapter": 6,
+      "endVerse": 27,
+      "displayReference": "Ds 6, 22-27",
+      "sourceCitation": "Numbers 6:22-27",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 67,
+      "startVerse": 2,
+      "endChapter": 67,
+      "endVerse": 8,
+      "displayReference": "Tv 67, 2-3.5-6.8",
+      "sourceCitation": "Psalm 67:2-3, 5, 6, 8",
+      "selectedVerses": [
+        2,
+        3,
+        5,
+        6,
+        8
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "GAL",
+      "startChapter": 4,
+      "startVerse": 4,
+      "endChapter": 4,
+      "endVerse": 7,
+      "displayReference": "Gl 4, 4-7",
+      "sourceCitation": "Galatians 4:4-7",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 2,
+      "startVerse": 16,
+      "endChapter": 2,
+      "endVerse": 21,
+      "displayReference": "Lc 2, 16-21",
+      "sourceCitation": "Luke 2:16-21",
+      "type": "gospel"
+    }
+  ]
+}

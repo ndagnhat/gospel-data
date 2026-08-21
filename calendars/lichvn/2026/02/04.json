@@ -1,0 +1,66 @@
+{
+  "id": "2026-02-04",
+  "date": "2026-02-04",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IV Thường Niên",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Tư Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 24,
+      "startVerse": 2,
+      "endChapter": 24,
+      "endVerse": 17,
+      "displayReference": "2Sm 24, 2.9-17",
+      "sourceCitation": "2 Samuel 24:2, 9-17",
+      "selectedVerses": [
+        2,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 32,
+      "startVerse": 1,
+      "endChapter": 32,
+      "endVerse": 7,
+      "displayReference": "Tv 32, 1-2.5-7",
+      "sourceCitation": "Psalm 32:1-2, 5, 6, 7",
+      "selectedVerses": [
+        1,
+        2,
+        5,
+        6,
+        7
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 6,
+      "startVerse": 1,
+      "endChapter": 6,
+      "endVerse": 6,
+      "displayReference": "Mc 6, 1-6",
+      "sourceCitation": "Mark 6:1-6",
+      "type": "gospel"
+    }
+  ]
+}

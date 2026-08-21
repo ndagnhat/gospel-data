@@ -1,0 +1,58 @@
+{
+  "id": "2026-05-21",
+  "date": "2026-05-21",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VII Mùa Phục Sinh",
+  "weekNumber": 7,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Christôphê de Magallanes, linh mục, và các bạn, tử đạo",
+  "saintOfDay": "Thánh Christôphê de Magallanes, linh mục, và các bạn, tử đạo",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Bảy Mùa Phục Sinh"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 22,
+      "startVerse": 30,
+      "endChapter": 23,
+      "endVerse": 11,
+      "displayReference": "Cv 22, 30 – 23, 11",
+      "sourceCitation": "Acts 22:30; 23:6-11",
+      "selectedVerses": [
+        30,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 7,
+      "endChapter": 1,
+      "endVerse": 11,
+      "displayReference": "Tv 1, 7-11",
+      "sourceCitation": "Psalm 16:1-2a and 5, 7-8, 9-10, 11",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 17,
+      "startVerse": 20,
+      "endChapter": 17,
+      "endVerse": 26,
+      "displayReference": "Ga 17, 20-26",
+      "sourceCitation": "John 17:20-26",
+      "type": "gospel"
+    }
+  ]
+}

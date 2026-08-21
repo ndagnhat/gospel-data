@@ -1,0 +1,55 @@
+{
+  "id": "2026-12-18",
+  "date": "2026-12-18",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần III Mùa Vọng",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "18 tháng 12 Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 23,
+      "startVerse": 5,
+      "endChapter": 23,
+      "endVerse": 8,
+      "displayReference": "Gr 23, 5-8",
+      "sourceCitation": "Jeremiah 23:5-8",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 72,
+      "startVerse": 1,
+      "endChapter": 72,
+      "endVerse": 19,
+      "displayReference": "Tv 72, 1-2.12-13.18-19",
+      "sourceCitation": "Psalm 72:1-2, 12-13, 18-19",
+      "selectedVerses": [
+        1,
+        2,
+        12,
+        13,
+        18,
+        19
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 1,
+      "startVerse": 18,
+      "endChapter": 1,
+      "endVerse": 25,
+      "displayReference": "Mt 1, 18-25",
+      "sourceCitation": "Matthew 1:18-25",
+      "type": "gospel"
+    }
+  ]
+}

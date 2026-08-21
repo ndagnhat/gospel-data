@@ -1,0 +1,68 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "TOB",
+  "name": "Tô-bi-a",
+  "abbreviation": "Tb",
+  "sortOrder": 17,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 14,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 4
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 13
+    }
+  ]
+}

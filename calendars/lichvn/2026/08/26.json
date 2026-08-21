@@ -1,0 +1,63 @@
+{
+  "id": "2026-08-26",
+  "date": "2026-08-26",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXI Thường Niên",
+  "weekNumber": 21,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Hai Mươi-Nhất Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "2TH",
+      "startChapter": 3,
+      "startVerse": 6,
+      "endChapter": 3,
+      "endVerse": 18,
+      "displayReference": "2Tx 3, 6-10.16-18",
+      "sourceCitation": "2 Thessalonians 3:6-10, 16-18",
+      "selectedVerses": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        16,
+        17,
+        18
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 128,
+      "startVerse": 1,
+      "endChapter": 128,
+      "endVerse": 5,
+      "displayReference": "Tv 128, 1-2.4-5",
+      "sourceCitation": "Psalm 128:1-2, 4-5",
+      "selectedVerses": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 23,
+      "startVerse": 27,
+      "endChapter": 23,
+      "endVerse": 32,
+      "displayReference": "Mt 23, 27-32",
+      "sourceCitation": "Matthew 23:27-32",
+      "type": "gospel"
+    }
+  ]
+}

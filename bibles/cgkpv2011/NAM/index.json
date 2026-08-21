@@ -1,0 +1,24 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "NAM",
+  "name": "Na-khum",
+  "abbreviation": "Nk",
+  "sortOrder": 41,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 18
+    }
+  ]
+}

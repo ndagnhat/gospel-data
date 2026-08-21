@@ -1,0 +1,53 @@
+{
+  "id": "2026-08-05",
+  "date": "2026-08-05",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVIII Thường Niên",
+  "weekNumber": 18,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Cung hiến thánh đường Đức Ma-ri-a",
+  "saintOfDay": "Cung hiến thánh đường Đức Ma-ri-a",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Mười Tám Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 31,
+      "startVerse": 1,
+      "endChapter": 31,
+      "endVerse": 7,
+      "displayReference": "Gr 31, 1-7",
+      "sourceCitation": "Jeremiah 31:1-7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "JER",
+      "startChapter": 31,
+      "startVerse": 10,
+      "endChapter": 31,
+      "endVerse": 13,
+      "displayReference": "Gr 31, 10.13",
+      "sourceCitation": "Jeremiah 31:10, 11-12ab, 13",
+      "selectedVerses": [
+        10,
+        13
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 15,
+      "startVerse": 21,
+      "endChapter": 15,
+      "endVerse": 28,
+      "displayReference": "Mt 15, 21-28",
+      "sourceCitation": "Matthew 15:21-28",
+      "type": "gospel"
+    }
+  ]
+}

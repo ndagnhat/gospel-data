@@ -1,0 +1,47 @@
+{
+  "id": "2026-02-02",
+  "date": "2026-02-02",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IV Thường Niên",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Dâng Chúa Giê-su Trong Đền Thánh",
+  "saintOfDay": "Dâng Chúa Giê-su Trong Đền Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "MAL",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 4,
+      "displayReference": "Ml 3, 1-4",
+      "sourceCitation": "Malachi 3:1-4",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 24,
+      "startVerse": 7,
+      "endChapter": 24,
+      "endVerse": 10,
+      "displayReference": "Tv 24, 7-10",
+      "sourceCitation": "Psalm 24:7, 8, 9, 10",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "HEB",
+      "startChapter": 2,
+      "startVerse": 14,
+      "endChapter": 2,
+      "endVerse": 18,
+      "displayReference": "Dt 2, 14-18",
+      "sourceCitation": "Hebrews 2:14-18",
+      "type": "second_reading"
+    }
+  ]
+}

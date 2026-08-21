@@ -1,0 +1,55 @@
+{
+  "id": "2026-08-03",
+  "date": "2026-08-03",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVIII Thường Niên",
+  "weekNumber": 18,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Mười Tám Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 28,
+      "startVerse": 1,
+      "endChapter": 28,
+      "endVerse": 17,
+      "displayReference": "Gr 28, 1-17",
+      "sourceCitation": "Jeremiah 28:1-17",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 29,
+      "endChapter": 119,
+      "endVerse": 102,
+      "displayReference": "Tv 119, 29.43.79-80.95.102",
+      "sourceCitation": "Psalm 119:29, 43, 79, 80, 95, 102",
+      "selectedVerses": [
+        29,
+        43,
+        79,
+        80,
+        95,
+        102
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 14,
+      "startVerse": 22,
+      "endChapter": 14,
+      "endVerse": 36,
+      "displayReference": "Mt 14, 22-36",
+      "sourceCitation": "Matthew 14:22-36",
+      "type": "gospel"
+    }
+  ]
+}

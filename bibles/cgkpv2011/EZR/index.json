@@ -1,0 +1,52 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "EZR",
+  "name": "Ét-ra",
+  "abbreviation": "Er",
+  "sortOrder": 15,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 10,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 70
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 44
+    }
+  ]
+}

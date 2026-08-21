@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-04",
+  "date": "2026-11-04",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXI Thường Niên",
+  "weekNumber": 31,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Ca-rô-lô Bô-rô-mê-ô, giám mục",
+  "saintOfDay": "Thánh Ca-rô-lô Bô-rô-mê-ô, giám mục",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "PHP",
+      "startChapter": 2,
+      "startVerse": 12,
+      "endChapter": 2,
+      "endVerse": 18,
+      "displayReference": "Pl 2, 12-18",
+      "sourceCitation": "Phiippians 2:12-18",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 27,
+      "startVerse": 1,
+      "endChapter": 27,
+      "endVerse": 14,
+      "displayReference": "Tv 27, 1.4.13-14",
+      "sourceCitation": "Psalm 27:1, 4, 13-14",
+      "selectedVerses": [
+        1,
+        4,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 14,
+      "startVerse": 25,
+      "endChapter": 14,
+      "endVerse": 33,
+      "displayReference": "Lc 14, 25-33",
+      "sourceCitation": "Luke 14:25-33",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-02",
+  "date": "2026-11-02",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXI Thường Niên",
+  "weekNumber": 31,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Cầu Cho Các Tín Hữu Đã Qua Đời",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "WIS",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 9,
+      "displayReference": "Kn 3, 1-9",
+      "sourceCitation": "Wisdom 3:1-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 23,
+      "startVerse": 1,
+      "endChapter": 23,
+      "endVerse": 6,
+      "displayReference": "Tv 23, 1-6",
+      "sourceCitation": "Psalm 23:1-3a, 3b-4, 5, 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 5,
+      "startVerse": 5,
+      "endChapter": 5,
+      "endVerse": 11,
+      "displayReference": "Rm 5, 5-11",
+      "sourceCitation": "Romans 5:5-11",
+      "type": "second_reading",
+      "alternatives": [
+        "Rm 6, 3-9"
+      ]
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 6,
+      "startVerse": 37,
+      "endChapter": 6,
+      "endVerse": 40,
+      "displayReference": "Ga 6, 37-40",
+      "sourceCitation": "John 6:37-40",
+      "type": "gospel"
+    }
+  ]
+}

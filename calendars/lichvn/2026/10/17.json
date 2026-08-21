@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-17",
+  "date": "2026-10-17",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVIII Thường Niên",
+  "weekNumber": 28,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh I-nha-xi-ô thành An-ti-ô-khi-a, giám mục, tử đạo",
+  "saintOfDay": "Thánh I-nha-xi-ô thành An-ti-ô-khi-a, giám mục, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 1,
+      "startVerse": 15,
+      "endChapter": 1,
+      "endVerse": 23,
+      "displayReference": "Ep 1, 15-23",
+      "sourceCitation": "Ephesians 1:15-23",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 4,
+      "endChapter": 1,
+      "endVerse": 7,
+      "displayReference": "Tv 1, 4-7",
+      "sourceCitation": "Psalm 8:2-3ab, 4-5, 6-7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 12,
+      "startVerse": 8,
+      "endChapter": 12,
+      "endVerse": 12,
+      "displayReference": "Lc 12, 8-12",
+      "sourceCitation": "Luke 12:8-12",
+      "type": "gospel"
+    }
+  ]
+}

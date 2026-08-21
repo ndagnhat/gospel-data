@@ -1,0 +1,67 @@
+{
+  "id": "2026-12-27",
+  "date": "2026-12-27",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Thánh Gia Thất: Chúa Giê-su, Đức Maria và thánh Giu-se",
+  "saintOfDay": "Thánh Gia Thất: Chúa Giê-su, Đức Maria và thánh Giu-se",
+  "commemorations": [],
+  "color": "white",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "SIR",
+      "startChapter": 3,
+      "startVerse": 2,
+      "endChapter": 3,
+      "endVerse": 14,
+      "displayReference": "Hc 3, 2-6.12-14",
+      "sourceCitation": "Sirach 3:2-6, 12-14",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        12,
+        13,
+        14
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 128,
+      "startVerse": 1,
+      "endChapter": 128,
+      "endVerse": 5,
+      "displayReference": "Tv 128, 1-5",
+      "sourceCitation": "Psalm 128:1-2, 3, 4-5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "COL",
+      "startChapter": 3,
+      "startVerse": 12,
+      "endChapter": 3,
+      "endVerse": 21,
+      "displayReference": "Cl 3, 12-21",
+      "sourceCitation": "Colossians 3:12-21",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 2,
+      "startVerse": 22,
+      "endChapter": 2,
+      "endVerse": 40,
+      "displayReference": "Lc 2, 22-40",
+      "sourceCitation": "Luke 2:22-40",
+      "type": "gospel"
+    }
+  ]
+}

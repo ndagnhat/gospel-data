@@ -1,0 +1,16 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "JUD",
+  "name": "Thư Giu-đa",
+  "abbreviation": "Gđ",
+  "sortOrder": 72,
+  "testament": "new",
+  "category": "letters_general",
+  "totalChapters": 1,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 25
+    }
+  ]
+}

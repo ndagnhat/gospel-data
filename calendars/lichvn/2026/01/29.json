@@ -1,0 +1,68 @@
+{
+  "id": "2026-01-29",
+  "date": "2026-01-29",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần III Thường Niên",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Ba Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 7,
+      "startVerse": 18,
+      "endChapter": 7,
+      "endVerse": 29,
+      "displayReference": "2Sm 7, 18-19.24-29",
+      "sourceCitation": "2 Samuel 7:18-19, 24-29",
+      "selectedVerses": [
+        18,
+        19,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 132,
+      "startVerse": 1,
+      "endChapter": 132,
+      "endVerse": 14,
+      "displayReference": "Tv 132, 1-5.11-14",
+      "sourceCitation": "Psalm 132:1-2, 3-5, 11, 12, 13-14",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11,
+        12,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 4,
+      "startVerse": 21,
+      "endChapter": 4,
+      "endVerse": 25,
+      "displayReference": "Mc 4, 21-25",
+      "sourceCitation": "Mark 4:21-25",
+      "type": "gospel"
+    }
+  ]
+}

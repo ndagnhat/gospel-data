@@ -1,0 +1,65 @@
+{
+  "id": "2026-07-17",
+  "date": "2026-07-17",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XV Thường Niên",
+  "weekNumber": 15,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Mười Lăm Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 38,
+      "startVerse": 1,
+      "endChapter": 38,
+      "endVerse": 8,
+      "displayReference": "Is 38, 1-6.21-22.7-8",
+      "sourceCitation": "Isaiah 38:1-6, 21-22, 7-8",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        21,
+        22,
+        7,
+        8
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "ISA",
+      "startChapter": 38,
+      "startVerse": 10,
+      "endChapter": 38,
+      "endVerse": 16,
+      "displayReference": "Is 38, 10-12.16",
+      "sourceCitation": "Isaiah 38:10, 11, 12abcd, 16",
+      "selectedVerses": [
+        10,
+        11,
+        12,
+        16
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 12,
+      "startVerse": 1,
+      "endChapter": 12,
+      "endVerse": 8,
+      "displayReference": "Mt 12, 1-8",
+      "sourceCitation": "Matthew 12:1-8",
+      "type": "gospel"
+    }
+  ]
+}

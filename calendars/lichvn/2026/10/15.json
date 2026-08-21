@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-15",
+  "date": "2026-10-15",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVIII Thường Niên",
+  "weekNumber": 28,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Tê-rê-xa Giê-su, trinh nữ, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Tê-rê-xa Giê-su, trinh nữ, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 10,
+      "displayReference": "Ep 1, 1-10",
+      "sourceCitation": "Ephesians 1:1-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 98,
+      "startVerse": 1,
+      "endChapter": 98,
+      "endVerse": 6,
+      "displayReference": "Tv 98, 1.5-6",
+      "sourceCitation": "Psalm 98:1, 2-3ab, 3cd-4, 5-6",
+      "selectedVerses": [
+        1,
+        5,
+        6
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 47,
+      "endChapter": 11,
+      "endVerse": 54,
+      "displayReference": "Lc 11, 47-54",
+      "sourceCitation": "Luke 11:47-54",
+      "type": "gospel"
+    }
+  ]
+}

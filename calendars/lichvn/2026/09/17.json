@@ -1,0 +1,55 @@
+{
+  "id": "2026-09-17",
+  "date": "2026-09-17",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIV Thường Niên",
+  "weekNumber": 24,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Rô-be-tô Be-la-mi-nô, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Rô-be-tô Be-la-mi-nô, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thánh nữ Hildegard thành Bingen, trinh nữ, tiến sĩ Hội Thánh",
+    "Thứ Năm trong tuần thứ Hai Mươi-Tư Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 15,
+      "startVerse": 1,
+      "endChapter": 15,
+      "endVerse": 11,
+      "displayReference": "1Cr 15, 1-11",
+      "sourceCitation": "1 Corinthians 15:1-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 118,
+      "startVerse": 1,
+      "endChapter": 118,
+      "endVerse": 28,
+      "displayReference": "Tv 118, 1-2.28",
+      "sourceCitation": "Psalm 118:1b-2, 16ab-17, 28",
+      "selectedVerses": [
+        1,
+        2,
+        28
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 7,
+      "startVerse": 36,
+      "endChapter": 7,
+      "endVerse": 50,
+      "displayReference": "Lc 7, 36-50",
+      "sourceCitation": "Luke 7:36-50",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "2026-04-20",
+  "date": "2026-04-20",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần III Mùa Phục Sinh",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Ba Mùa Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 6,
+      "startVerse": 8,
+      "endChapter": 6,
+      "endVerse": 15,
+      "displayReference": "Cv 6, 8-15",
+      "sourceCitation": "Acts 6:8-15",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 23,
+      "endChapter": 119,
+      "endVerse": 30,
+      "displayReference": "Tv 119, 23-24.26-27.29-30",
+      "sourceCitation": "Psalm 119:23-24, 26-27, 29-30",
+      "selectedVerses": [
+        23,
+        24,
+        26,
+        27,
+        29,
+        30
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 6,
+      "startVerse": 22,
+      "endChapter": 6,
+      "endVerse": 29,
+      "displayReference": "Ga 6, 22-29",
+      "sourceCitation": "John 6:22-29",
+      "type": "gospel"
+    }
+  ]
+}

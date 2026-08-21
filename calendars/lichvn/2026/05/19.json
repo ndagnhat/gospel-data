@@ -1,0 +1,53 @@
+{
+  "id": "2026-05-19",
+  "date": "2026-05-19",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VII Mùa Phục Sinh",
+  "weekNumber": 7,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Bảy Mùa Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 20,
+      "startVerse": 17,
+      "endChapter": 20,
+      "endVerse": 27,
+      "displayReference": "Cv 20, 17-27",
+      "sourceCitation": "Acts 20:17-27",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 68,
+      "startVerse": 10,
+      "endChapter": 68,
+      "endVerse": 21,
+      "displayReference": "Tv 68, 10-11.20-21",
+      "sourceCitation": "Psalm 68:10-11, 20-21",
+      "selectedVerses": [
+        10,
+        11,
+        20,
+        21
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 17,
+      "startVerse": 1,
+      "endChapter": 17,
+      "endVerse": 11,
+      "displayReference": "Ga 17, 1-11",
+      "sourceCitation": "John 17:1-11a",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2026-05-30",
+  "date": "2026-05-30",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần VIII Thường Niên",
+  "weekNumber": 8,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Đức Mẹ ngày thứ bảy",
+  "saintOfDay": "Lễ Đức Mẹ ngày thứ bảy",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Tám Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "PSA",
+      "startChapter": 63,
+      "startVerse": 2,
+      "endChapter": 63,
+      "endVerse": 6,
+      "displayReference": "Tv 63, 2-6",
+      "sourceCitation": "Psalm 63:2, 3-4, 5-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 11,
+      "startVerse": 27,
+      "endChapter": 11,
+      "endVerse": 33,
+      "displayReference": "Mc 11, 27-33",
+      "sourceCitation": "Mark 11:27-33",
+      "type": "gospel"
+    }
+  ]
+}

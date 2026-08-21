@@ -1,0 +1,59 @@
+{
+  "id": "2026-06-03",
+  "date": "2026-06-03",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IX Thường Niên",
+  "weekNumber": 9,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Ca-rô-lô Loan-ga và các bạn, tử đạo",
+  "saintOfDay": "Thánh Ca-rô-lô Loan-ga và các bạn, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "2TM",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 12,
+      "displayReference": "2Tm 1, 1-3.6-12",
+      "sourceCitation": "2 Timothy 1:1-3, 6-12",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 2,
+      "endChapter": 1,
+      "endVerse": 2,
+      "displayReference": "Tv 1, 2",
+      "sourceCitation": "Psalm 123:1b-2ab, 2cdef",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 12,
+      "startVerse": 18,
+      "endChapter": 12,
+      "endVerse": 27,
+      "displayReference": "Mc 12, 18-27",
+      "sourceCitation": "Mark 12:18-27",
+      "type": "gospel"
+    }
+  ]
+}

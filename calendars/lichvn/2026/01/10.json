@@ -1,0 +1,47 @@
+{
+  "id": "2026-01-10",
+  "date": "2026-01-10",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thứ Bảy sau Lễ Hiển Linh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1JN",
+      "startChapter": 5,
+      "startVerse": 14,
+      "endChapter": 5,
+      "endVerse": 21,
+      "displayReference": "1Ga 5, 14-21",
+      "sourceCitation": "1 John 5:14-21",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 149,
+      "startVerse": 1,
+      "endChapter": 149,
+      "endVerse": 4,
+      "displayReference": "Tv 149, 1-4",
+      "sourceCitation": "Psalm 149:1-2, 3-4, 5-6a and 9b",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 3,
+      "startVerse": 22,
+      "endChapter": 3,
+      "endVerse": 30,
+      "displayReference": "Ga 3, 22-30",
+      "sourceCitation": "John 3:22-30",
+      "type": "gospel"
+    }
+  ]
+}

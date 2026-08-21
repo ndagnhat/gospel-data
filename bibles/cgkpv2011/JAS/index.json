@@ -1,0 +1,32 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "JAS",
+  "name": "Thư Gia-cô-bê",
+  "abbreviation": "Gc",
+  "sortOrder": 66,
+  "testament": "new",
+  "category": "letters_general",
+  "totalChapters": 5,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 20
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2026-09-30",
+  "date": "2026-09-30",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVI Thường Niên",
+  "weekNumber": 26,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Giê-rô-ni-mô, linh mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Giê-rô-ni-mô, linh mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "JOB",
+      "startChapter": 9,
+      "startVerse": 1,
+      "endChapter": 9,
+      "endVerse": 16,
+      "displayReference": "G 9, 1-12.14-16",
+      "sourceCitation": "Job 9:1-12, 14-16",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 12,
+      "endChapter": 1,
+      "endVerse": 15,
+      "displayReference": "Tv 1, 12-15",
+      "sourceCitation": "Psalm 88:10bc-11, 12-13, 14-15",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 9,
+      "startVerse": 57,
+      "endChapter": 9,
+      "endVerse": 62,
+      "displayReference": "Lc 9, 57-62",
+      "sourceCitation": "Luke 9:57-62",
+      "type": "gospel"
+    }
+  ]
+}

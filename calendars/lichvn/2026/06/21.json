@@ -1,0 +1,67 @@
+{
+  "id": "2026-06-21",
+  "date": "2026-06-21",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XI Thường Niên",
+  "weekNumber": 11,
+  "psalterWeek": 4,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Mười Hai Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 20,
+      "startVerse": 10,
+      "endChapter": 20,
+      "endVerse": 13,
+      "displayReference": "Gr 20, 10-13",
+      "sourceCitation": "Jeremiah 20:10-13",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 69,
+      "startVerse": 8,
+      "endChapter": 69,
+      "endVerse": 35,
+      "displayReference": "Tv 69, 8-10.14.17.33-35",
+      "sourceCitation": "Psalm 69:8-10, 14, 17, 33-35",
+      "selectedVerses": [
+        8,
+        9,
+        10,
+        14,
+        17,
+        33,
+        34,
+        35
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 5,
+      "startVerse": 12,
+      "endChapter": 5,
+      "endVerse": 15,
+      "displayReference": "Rm 5, 12-15",
+      "sourceCitation": "Romans 5:12-15",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 10,
+      "startVerse": 26,
+      "endChapter": 10,
+      "endVerse": 33,
+      "displayReference": "Mt 10, 26-33",
+      "sourceCitation": "Matthew 10:26-33",
+      "type": "gospel"
+    }
+  ]
+}

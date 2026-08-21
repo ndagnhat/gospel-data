@@ -1,0 +1,67 @@
+{
+  "id": "2026-10-04",
+  "date": "2026-10-04",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVI Thường Niên",
+  "weekNumber": 26,
+  "psalterWeek": 3,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Đức Mẹ Mân Côi",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 7,
+      "displayReference": "Is 5, 1-7",
+      "sourceCitation": "Isaiah 5:1-7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 80,
+      "startVerse": 9,
+      "endChapter": 80,
+      "endVerse": 20,
+      "displayReference": "Tv 80, 9.12-16.19-20",
+      "sourceCitation": "Psalm 80:9, 12, 13-14, 15-16, 19-20",
+      "selectedVerses": [
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        19,
+        20
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "PHP",
+      "startChapter": 4,
+      "startVerse": 6,
+      "endChapter": 4,
+      "endVerse": 9,
+      "displayReference": "Pl 4, 6-9",
+      "sourceCitation": "Philippians 4:6-9",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 21,
+      "startVerse": 33,
+      "endChapter": 21,
+      "endVerse": 43,
+      "displayReference": "Mt 21, 33-43",
+      "sourceCitation": "Matthew 21:33-43",
+      "type": "gospel"
+    }
+  ]
+}

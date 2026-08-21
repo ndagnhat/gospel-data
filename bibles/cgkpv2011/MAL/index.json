@@ -1,0 +1,24 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "MAL",
+  "name": "Ma-la-khi",
+  "abbreviation": "Ml",
+  "sortOrder": 46,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 24
+    }
+  ]
+}

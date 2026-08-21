@@ -1,0 +1,57 @@
+{
+  "id": "2026-12-25",
+  "date": "2026-12-25",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Chúa Giáng Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 52,
+      "startVerse": 7,
+      "endChapter": 52,
+      "endVerse": 10,
+      "displayReference": "Is 52, 7-10",
+      "sourceCitation": "Isaiah 52:7-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 98,
+      "startVerse": 1,
+      "endChapter": 98,
+      "endVerse": 6,
+      "displayReference": "Tv 98, 1-6",
+      "sourceCitation": "Psalm 98:1-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "HEB",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 6,
+      "displayReference": "Dt 1, 1-6",
+      "sourceCitation": "Hebrews 1:1-6",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 18,
+      "displayReference": "Ga 1, 1-18",
+      "sourceCitation": "John 1:1-18",
+      "type": "gospel"
+    }
+  ]
+}

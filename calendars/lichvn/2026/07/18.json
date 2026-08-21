@@ -1,0 +1,58 @@
+{
+  "id": "2026-07-18",
+  "date": "2026-07-18",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XV Thường Niên",
+  "weekNumber": 15,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Đức Mẹ ngày thứ bảy",
+  "saintOfDay": "Lễ Đức Mẹ ngày thứ bảy",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Mười Lăm Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "MIC",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 5,
+      "displayReference": "Mk 2, 1-5",
+      "sourceCitation": "Micah 2:1-5",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 10,
+      "startVerse": 1,
+      "endChapter": 10,
+      "endVerse": 14,
+      "displayReference": "Tv 10, 1-4.7-8.14",
+      "sourceCitation": "Psalm 10:1-2, 3-4, 7-8, 14",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 12,
+      "startVerse": 14,
+      "endChapter": 12,
+      "endVerse": 21,
+      "displayReference": "Mt 12, 14-21",
+      "sourceCitation": "Matthew 12:14-21",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2026-07-06",
+  "date": "2026-07-06",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIV Thường Niên",
+  "weekNumber": 14,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Ma-ri-a Go-rét-ti, trinh nữ, tử đạo",
+  "saintOfDay": "Thánh Ma-ri-a Go-rét-ti, trinh nữ, tử đạo",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Mười Bốn Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "HOS",
+      "startChapter": 2,
+      "startVerse": 16,
+      "endChapter": 2,
+      "endVerse": 22,
+      "displayReference": "Hs 2, 16-18.21-22",
+      "sourceCitation": "Hosea 2:16, 17c-18, 21-22",
+      "selectedVerses": [
+        16,
+        17,
+        18,
+        21,
+        22
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 145,
+      "startVerse": 2,
+      "endChapter": 145,
+      "endVerse": 9,
+      "displayReference": "Tv 145, 2-9",
+      "sourceCitation": "Psalm 145:2-3, 4-5, 6-7, 8-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 9,
+      "startVerse": 18,
+      "endChapter": 9,
+      "endVerse": 26,
+      "displayReference": "Mt 9, 18-26",
+      "sourceCitation": "Matthew 9:18-26",
+      "type": "gospel"
+    }
+  ]
+}

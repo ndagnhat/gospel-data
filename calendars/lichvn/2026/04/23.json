@@ -1,0 +1,57 @@
+{
+  "id": "2026-04-23",
+  "date": "2026-04-23",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần III Mùa Phục Sinh",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh A-đan-bét-tô, giám mục, tử đạo",
+  "saintOfDay": "Thánh A-đan-bét-tô, giám mục, tử đạo",
+  "commemorations": [
+    "Thánh Gio-gi-ô, tử đạo",
+    "Thứ Năm trong tuần thứ Ba Mùa Phục Sinh"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 8,
+      "startVerse": 26,
+      "endChapter": 8,
+      "endVerse": 40,
+      "displayReference": "Cv 8, 26-40",
+      "sourceCitation": "Acts 8:26-40",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 66,
+      "startVerse": 8,
+      "endChapter": 66,
+      "endVerse": 20,
+      "displayReference": "Tv 66, 8-9.16-17.20",
+      "sourceCitation": "Psalm 66:8-9, 16-17, 20",
+      "selectedVerses": [
+        8,
+        9,
+        16,
+        17,
+        20
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 6,
+      "startVerse": 44,
+      "endChapter": 6,
+      "endVerse": 51,
+      "displayReference": "Ga 6, 44-51",
+      "sourceCitation": "John 6:44-51",
+      "type": "gospel"
+    }
+  ]
+}

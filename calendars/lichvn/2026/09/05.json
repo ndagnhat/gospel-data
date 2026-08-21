@@ -1,0 +1,50 @@
+{
+  "id": "2026-09-05",
+  "date": "2026-09-05",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXII Thường Niên",
+  "weekNumber": 22,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Tê-rê-xa Cal-cut-ta, trinh nữ",
+  "saintOfDay": "Thánh Tê-rê-xa Cal-cut-ta, trinh nữ",
+  "commemorations": [
+    "Lễ Đức Mẹ ngày thứ bảy",
+    "Thứ Bảy trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 4,
+      "startVerse": 6,
+      "endChapter": 4,
+      "endVerse": 15,
+      "displayReference": "1Cr 4, 6-15",
+      "sourceCitation": "1 Corinthians 4:6b-15",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 145,
+      "startVerse": 17,
+      "endChapter": 145,
+      "endVerse": 21,
+      "displayReference": "Tv 145, 17-21",
+      "sourceCitation": "Psalm 145:17-18, 19-20, 21",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 6,
+      "startVerse": 1,
+      "endChapter": 6,
+      "endVerse": 5,
+      "displayReference": "Lc 6, 1-5",
+      "sourceCitation": "Luke 6:1-5",
+      "type": "gospel"
+    }
+  ]
+}

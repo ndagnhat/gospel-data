@@ -1,0 +1,55 @@
+{
+  "id": "2026-12-22",
+  "date": "2026-12-22",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần IV Mùa Vọng",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "22 tháng 12 Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1SA",
+      "startChapter": 1,
+      "startVerse": 24,
+      "endChapter": 1,
+      "endVerse": 28,
+      "displayReference": "1Sm 1, 24-28",
+      "sourceCitation": "1 Samuel 1:24-28",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "1SA",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 8,
+      "displayReference": "1Sm 2, 1.4-8",
+      "sourceCitation": "1 Samuel 2:1, 4-5, 6-7, 8abcd",
+      "selectedVerses": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 46,
+      "endChapter": 1,
+      "endVerse": 56,
+      "displayReference": "Lc 1, 46-56",
+      "sourceCitation": "Luke 1:46-56",
+      "type": "gospel"
+    }
+  ]
+}

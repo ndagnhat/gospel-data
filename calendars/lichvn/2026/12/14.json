@@ -1,0 +1,58 @@
+{
+  "id": "2026-12-14",
+  "date": "2026-12-14",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần III Mùa Vọng",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Gio-an Thánh Giá, linh mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Gio-an Thánh Giá, linh mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "NUM",
+      "startChapter": 24,
+      "startVerse": 2,
+      "endChapter": 24,
+      "endVerse": 17,
+      "displayReference": "Ds 24, 2-7.15-17",
+      "sourceCitation": "Numbers 24:2-7, 15-17a",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        15,
+        16,
+        17
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 8,
+      "endChapter": 1,
+      "endVerse": 9,
+      "displayReference": "Tv 1, 8-9",
+      "sourceCitation": "Psalm 25:4-5ab, 6 and 7bc, 8-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 21,
+      "startVerse": 23,
+      "endChapter": 21,
+      "endVerse": 27,
+      "displayReference": "Mt 21, 23-27",
+      "sourceCitation": "Matthew 21:23-27",
+      "type": "gospel"
+    }
+  ]
+}

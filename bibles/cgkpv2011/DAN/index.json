@@ -1,0 +1,68 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "DAN",
+  "name": "Đa-ni-en",
+  "abbreviation": "Đn",
+  "sortOrder": 34,
+  "testament": "old",
+  "category": "major_prophets",
+  "totalChapters": 14,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 49
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 45
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 64
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 42
+    }
+  ]
+}

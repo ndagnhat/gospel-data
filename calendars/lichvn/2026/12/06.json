@@ -1,0 +1,67 @@
+{
+  "id": "2026-12-06",
+  "date": "2026-12-06",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần II Mùa Vọng",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Hai Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 40,
+      "startVerse": 1,
+      "endChapter": 40,
+      "endVerse": 11,
+      "displayReference": "Is 40, 1-5.9-11",
+      "sourceCitation": "Isaiah 40:1-5, 9-11",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 13,
+      "endChapter": 1,
+      "endVerse": 14,
+      "displayReference": "Tv 1, 13-14",
+      "sourceCitation": "Psalm 85:9-10-11-12, 13-14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "2PE",
+      "startChapter": 3,
+      "startVerse": 8,
+      "endChapter": 3,
+      "endVerse": 14,
+      "displayReference": "2Pr 3, 8-14",
+      "sourceCitation": "2 Peter 3:8-14",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 8,
+      "displayReference": "Mc 1, 1-8",
+      "sourceCitation": "Mark 1:1-8",
+      "type": "gospel"
+    }
+  ]
+}

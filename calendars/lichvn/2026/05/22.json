@@ -1,0 +1,55 @@
+{
+  "id": "2026-05-22",
+  "date": "2026-05-22",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VII Mùa Phục Sinh",
+  "weekNumber": 7,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Ri-ta thành Ca-xi-a, Nữ tu",
+  "saintOfDay": "Thánh Ri-ta thành Ca-xi-a, Nữ tu",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Bảy Mùa Phục Sinh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 25,
+      "startVerse": 13,
+      "endChapter": 25,
+      "endVerse": 21,
+      "displayReference": "Cv 25, 13-21",
+      "sourceCitation": "Acts 25:13b-21",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 103,
+      "startVerse": 1,
+      "endChapter": 103,
+      "endVerse": 12,
+      "displayReference": "Tv 103, 1-2.11-12",
+      "sourceCitation": "Psalm 103:1-2, 11-12, 19-20ab",
+      "selectedVerses": [
+        1,
+        2,
+        11,
+        12
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 21,
+      "startVerse": 15,
+      "endChapter": 21,
+      "endVerse": 19,
+      "displayReference": "Ga 21, 15-19",
+      "sourceCitation": "John 21:15-19",
+      "type": "gospel"
+    }
+  ]
+}

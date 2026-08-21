@@ -1,0 +1,61 @@
+{
+  "id": "2026-08-07",
+  "date": "2026-08-07",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVIII Thường Niên",
+  "weekNumber": 18,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Ga-ê-ta-nô, linh mục",
+  "saintOfDay": "Thánh Ga-ê-ta-nô, linh mục",
+  "commemorations": [
+    "Thánh Xit-tô II, giáo hoàng và các bạn, tử đạo",
+    "Thứ Sáu trong tuần thứ Mười Tám Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "NAM",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 7,
+      "displayReference": "Nk 2, 1 – 3, 7",
+      "sourceCitation": "Nahum 2:1, 3; 3:1-3, 6-7",
+      "selectedVerses": [
+        1,
+        3,
+        2,
+        6,
+        7
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "DEU",
+      "startChapter": 1,
+      "startVerse": 39,
+      "endChapter": 1,
+      "endVerse": 41,
+      "displayReference": "Đnl 1, 39.41",
+      "sourceCitation": "Deuteronomy 32:35cd-36ab, 39abcd, 41",
+      "selectedVerses": [
+        39,
+        41
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 16,
+      "startVerse": 24,
+      "endChapter": 16,
+      "endVerse": 28,
+      "displayReference": "Mt 16, 24-28",
+      "sourceCitation": "Matthew 16:24-28",
+      "type": "gospel"
+    }
+  ]
+}

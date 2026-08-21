@@ -1,0 +1,49 @@
+{
+  "id": "2026-12-12",
+  "date": "2026-12-12",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần II Mùa Vọng",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Đức trinh nữ Ma-ri-a Goa-đa-lu-pê",
+  "saintOfDay": "Đức trinh nữ Ma-ri-a Goa-đa-lu-pê",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Hai Mùa Vọng"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ZEC",
+      "startChapter": 2,
+      "startVerse": 14,
+      "endChapter": 2,
+      "endVerse": 17,
+      "displayReference": "Dcr 2, 14-17",
+      "sourceCitation": "Zechariah 2:14-17",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "JDT",
+      "startChapter": 1,
+      "startVerse": 19,
+      "endChapter": 1,
+      "endVerse": 19,
+      "displayReference": "Gđt 1, 19",
+      "sourceCitation": "Judith 13:18bcde, 19",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 26,
+      "endChapter": 1,
+      "endVerse": 38,
+      "displayReference": "Lc 1, 26-38",
+      "sourceCitation": "Luke 1:26-38",
+      "type": "gospel"
+    }
+  ]
+}

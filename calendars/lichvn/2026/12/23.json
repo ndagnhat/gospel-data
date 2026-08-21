@@ -1,0 +1,57 @@
+{
+  "id": "2026-12-23",
+  "date": "2026-12-23",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần IV Mùa Vọng",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Gio-an thành Kê-ty, linh mục",
+  "saintOfDay": "Thánh Gio-an thành Kê-ty, linh mục",
+  "commemorations": [
+    "23 tháng 12 Mùa Vọng"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "MAL",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 24,
+      "displayReference": "Ml 3, 1-4.23-24",
+      "sourceCitation": "Malachi 3:1-4, 23-24",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        23,
+        24
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 8,
+      "endChapter": 1,
+      "endVerse": 9,
+      "displayReference": "Tv 1, 8-9",
+      "sourceCitation": "Psalm 25:4-5ab, 8-9, 10 and 14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 57,
+      "endChapter": 1,
+      "endVerse": 66,
+      "displayReference": "Lc 1, 57-66",
+      "sourceCitation": "Luke 1:57-66",
+      "type": "gospel"
+    }
+  ]
+}

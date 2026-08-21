@@ -1,0 +1,61 @@
+{
+  "id": "2026-06-30",
+  "date": "2026-06-30",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIII Thường Niên",
+  "weekNumber": 13,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Các thánh tử đạo tiên khởi của giáo đoàn Rô-ma",
+  "saintOfDay": "Các thánh tử đạo tiên khởi của giáo đoàn Rô-ma",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Mười Ba Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "AMO",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 4,
+      "endVerse": 12,
+      "displayReference": "Am 3, 1 – 4, 12",
+      "sourceCitation": "Amos 3:1-8; 4:11-12",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        12
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 5,
+      "startVerse": 4,
+      "endChapter": 5,
+      "endVerse": 8,
+      "displayReference": "Tv 5, 4-8",
+      "sourceCitation": "Psalm 5:4b-6a, 6b-7, 8",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 8,
+      "startVerse": 23,
+      "endChapter": 8,
+      "endVerse": 27,
+      "displayReference": "Mt 8, 23-27",
+      "sourceCitation": "Matthew 8:23-27",
+      "type": "gospel"
+    }
+  ]
+}

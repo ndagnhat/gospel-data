@@ -1,0 +1,49 @@
+{
+  "id": "2026-04-24",
+  "date": "2026-04-24",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần III Mùa Phục Sinh",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Phi-đên Dich-ma-rinh-gan, linh mục, tử đạo",
+  "saintOfDay": "Thánh Phi-đên Dich-ma-rinh-gan, linh mục, tử đạo",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Ba Mùa Phục Sinh"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 9,
+      "startVerse": 1,
+      "endChapter": 9,
+      "endVerse": 20,
+      "displayReference": "Cv 9, 1-20",
+      "sourceCitation": "Acts 9:1-20",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 2,
+      "endChapter": 1,
+      "endVerse": 2,
+      "displayReference": "Tv 1, 2",
+      "sourceCitation": "Psalm 117:1bc, 2",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 6,
+      "startVerse": 52,
+      "endChapter": 6,
+      "endVerse": 59,
+      "displayReference": "Ga 6, 52-59",
+      "sourceCitation": "John 6:52-59",
+      "type": "gospel"
+    }
+  ]
+}

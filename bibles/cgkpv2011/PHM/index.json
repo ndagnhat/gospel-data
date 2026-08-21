@@ -1,0 +1,16 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "PHM",
+  "name": "Thư Phi-lê-môn",
+  "abbreviation": "Plm",
+  "sortOrder": 64,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 1,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 25
+    }
+  ]
+}

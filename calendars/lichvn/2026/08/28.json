@@ -1,0 +1,55 @@
+{
+  "id": "2026-08-28",
+  "date": "2026-08-28",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXI Thường Niên",
+  "weekNumber": 21,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Âu-tinh, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Âu-tinh, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 1,
+      "startVerse": 17,
+      "endChapter": 1,
+      "endVerse": 25,
+      "displayReference": "1Cr 1, 17-25",
+      "sourceCitation": "1 Corinthians 1:17-25",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 1,
+      "endChapter": 33,
+      "endVerse": 11,
+      "displayReference": "Tv 33, 1-2.4-5.10-11",
+      "sourceCitation": "Psalm 33:1-2, 4-5, 10-11",
+      "selectedVerses": [
+        1,
+        2,
+        4,
+        5,
+        10,
+        11
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 25,
+      "startVerse": 1,
+      "endChapter": 25,
+      "endVerse": 13,
+      "displayReference": "Mt 25, 1-13",
+      "sourceCitation": "Matthew 25:1-13",
+      "type": "gospel"
+    }
+  ]
+}

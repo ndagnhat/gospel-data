@@ -1,0 +1,64 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "2CO",
+  "name": "Thư 2 Cô-rin-tô",
+  "abbreviation": "2Cr",
+  "sortOrder": 54,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 13,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 13
+    }
+  ]
+}

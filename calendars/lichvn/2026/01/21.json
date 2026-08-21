@@ -1,0 +1,70 @@
+{
+  "id": "2026-01-21",
+  "date": "2026-01-21",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần II Thường Niên",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh A-nê, trinh nữ, tử đạo",
+  "saintOfDay": "Thánh A-nê, trinh nữ, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1SA",
+      "startChapter": 17,
+      "startVerse": 32,
+      "endChapter": 17,
+      "endVerse": 51,
+      "displayReference": "1Sm 17, 32-33.37.40-51",
+      "sourceCitation": "1 Samuel 17:32-33, 37, 40-51",
+      "selectedVerses": [
+        32,
+        33,
+        37,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 144,
+      "startVerse": 1,
+      "endChapter": 144,
+      "endVerse": 10,
+      "displayReference": "Tv 144, 1-2.9-10",
+      "sourceCitation": "Psalm 144:1b, 2, 9-10",
+      "selectedVerses": [
+        1,
+        2,
+        9,
+        10
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 6,
+      "displayReference": "Mc 3, 1-6",
+      "sourceCitation": "Mark 3:1-6",
+      "type": "gospel"
+    }
+  ]
+}

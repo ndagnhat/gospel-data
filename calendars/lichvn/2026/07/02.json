@@ -1,0 +1,47 @@
+{
+  "id": "2026-07-02",
+  "date": "2026-07-02",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIII Thường Niên",
+  "weekNumber": 13,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Mười Ba Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "AMO",
+      "startChapter": 7,
+      "startVerse": 10,
+      "endChapter": 7,
+      "endVerse": 17,
+      "displayReference": "Am 7, 10-17",
+      "sourceCitation": "Amos 7:10-17",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 19,
+      "startVerse": 8,
+      "endChapter": 19,
+      "endVerse": 11,
+      "displayReference": "Tv 19, 8-11",
+      "sourceCitation": "Psalm 19:8, 9, 10, 11",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 9,
+      "startVerse": 1,
+      "endChapter": 9,
+      "endVerse": 8,
+      "displayReference": "Mt 9, 1-8",
+      "sourceCitation": "Matthew 9:1-8",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2026-04-13",
+  "date": "2026-04-13",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần II Mùa Phục Sinh",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Mác-ti-nô I, giáo hoàng, tử đạo",
+  "saintOfDay": "Thánh Mác-ti-nô I, giáo hoàng, tử đạo",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Hai Mùa Phục Sinh"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 4,
+      "startVerse": 23,
+      "endChapter": 4,
+      "endVerse": 31,
+      "displayReference": "Cv 4, 23-31",
+      "sourceCitation": "Acts 4:23-31",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 9,
+      "displayReference": "Tv 2, 1-9",
+      "sourceCitation": "Psalm 2:1-3, 4-7a, 7b-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 8,
+      "displayReference": "Ga 3, 1-8",
+      "sourceCitation": "John 3:1-8",
+      "type": "gospel"
+    }
+  ]
+}

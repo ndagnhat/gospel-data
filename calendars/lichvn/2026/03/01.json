@@ -1,0 +1,65 @@
+{
+  "id": "2026-03-01",
+  "date": "2026-03-01",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần II Mùa Chay",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Hai Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "GEN",
+      "startChapter": 12,
+      "startVerse": 1,
+      "endChapter": 12,
+      "endVerse": 4,
+      "displayReference": "St 12, 1-4",
+      "sourceCitation": "Genesis 12:1-4a",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 4,
+      "endChapter": 33,
+      "endVerse": 22,
+      "displayReference": "Tv 33, 4-5.18-20.22",
+      "sourceCitation": "Psalm 33:4-5, 18-19, 20, 22",
+      "selectedVerses": [
+        4,
+        5,
+        18,
+        19,
+        20,
+        22
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "2TM",
+      "startChapter": 1,
+      "startVerse": 8,
+      "endChapter": 1,
+      "endVerse": 10,
+      "displayReference": "2Tm 1, 8-10",
+      "sourceCitation": "2 Timothy 1:8b-10",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 17,
+      "startVerse": 1,
+      "endChapter": 17,
+      "endVerse": 9,
+      "displayReference": "Mt 17, 1-9",
+      "sourceCitation": "Matthew 17:1-9",
+      "type": "gospel"
+    }
+  ]
+}

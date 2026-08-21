@@ -1,0 +1,59 @@
+{
+  "id": "2026-09-21",
+  "date": "2026-09-21",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXV Thường Niên",
+  "weekNumber": 25,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Mat-thêu, tông đồ, tác giả sách Tin Mừng",
+  "saintOfDay": "Thánh Mat-thêu, tông đồ, tác giả sách Tin Mừng",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 4,
+      "startVerse": 1,
+      "endChapter": 4,
+      "endVerse": 13,
+      "displayReference": "Ep 4, 1-7.11-13",
+      "sourceCitation": "Ephesians 4:1-7, 11-13",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        11,
+        12,
+        13
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 19,
+      "startVerse": 2,
+      "endChapter": 19,
+      "endVerse": 5,
+      "displayReference": "Tv 19, 2-5",
+      "sourceCitation": "Psalm 19:2-3, 4-5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 9,
+      "startVerse": 9,
+      "endChapter": 9,
+      "endVerse": 13,
+      "displayReference": "Mt 9, 9-13",
+      "sourceCitation": "Matthew 9:9-13",
+      "type": "gospel"
+    }
+  ]
+}

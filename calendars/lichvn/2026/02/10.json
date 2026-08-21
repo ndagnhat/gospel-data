@@ -1,0 +1,60 @@
+{
+  "id": "2026-02-10",
+  "date": "2026-02-10",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần V Thường Niên",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Cô-lát-ti-ca, trinh nữ",
+  "saintOfDay": "Thánh Cô-lát-ti-ca, trinh nữ",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 8,
+      "startVerse": 22,
+      "endChapter": 8,
+      "endVerse": 30,
+      "displayReference": "1V 8, 22-23.27-30",
+      "sourceCitation": "1 Kings 8:22-23, 27-30",
+      "selectedVerses": [
+        22,
+        23,
+        27,
+        28,
+        29,
+        30
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 84,
+      "startVerse": 3,
+      "endChapter": 84,
+      "endVerse": 11,
+      "displayReference": "Tv 84, 3-4.11",
+      "sourceCitation": "Psalm 84:3, 4, 5 and 10, 11",
+      "selectedVerses": [
+        3,
+        4,
+        11
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 7,
+      "startVerse": 1,
+      "endChapter": 7,
+      "endVerse": 13,
+      "displayReference": "Mc 7, 1-13",
+      "sourceCitation": "Mark 7:1-13",
+      "type": "gospel"
+    }
+  ]
+}

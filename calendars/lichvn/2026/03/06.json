@@ -1,0 +1,80 @@
+{
+  "id": "2026-03-06",
+  "date": "2026-03-06",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần II Mùa Chay",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Hai Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "GEN",
+      "startChapter": 37,
+      "startVerse": 3,
+      "endChapter": 37,
+      "endVerse": 28,
+      "displayReference": "St 37, 3-4.12-13.17-28",
+      "sourceCitation": "Genesis 37:3-4, 12-13a, 17b-28a",
+      "selectedVerses": [
+        3,
+        4,
+        12,
+        13,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 105,
+      "startVerse": 16,
+      "endChapter": 105,
+      "endVerse": 21,
+      "displayReference": "Tv 105, 16-21",
+      "sourceCitation": "Psalm 105:16-17, 18-19, 20-21",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 21,
+      "startVerse": 33,
+      "endChapter": 21,
+      "endVerse": 46,
+      "displayReference": "Mt 21, 33-43.45-46",
+      "sourceCitation": "Matthew 21:33-43, 45-46",
+      "selectedVerses": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46
+      ],
+      "type": "gospel"
+    }
+  ]
+}

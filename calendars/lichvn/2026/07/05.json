@@ -1,0 +1,73 @@
+{
+  "id": "2026-07-05",
+  "date": "2026-07-05",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIII Thường Niên",
+  "weekNumber": 13,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Mười Bốn Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ZEC",
+      "startChapter": 9,
+      "startVerse": 9,
+      "endChapter": 9,
+      "endVerse": 10,
+      "displayReference": "Dcr 9, 9-10",
+      "sourceCitation": "Zechariah 9:9-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 145,
+      "startVerse": 1,
+      "endChapter": 145,
+      "endVerse": 14,
+      "displayReference": "Tv 145, 1-2.8-11.13-14",
+      "sourceCitation": "Psalm 145:1-2, 8-9, 10-11, 13-14",
+      "selectedVerses": [
+        1,
+        2,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 8,
+      "startVerse": 9,
+      "endChapter": 8,
+      "endVerse": 13,
+      "displayReference": "Rm 8, 9.11-13",
+      "sourceCitation": "Romans 8:9, 11-13",
+      "selectedVerses": [
+        9,
+        11,
+        12,
+        13
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 11,
+      "startVerse": 25,
+      "endChapter": 11,
+      "endVerse": 30,
+      "displayReference": "Mt 11, 25-30",
+      "sourceCitation": "Matthew 11:25-30",
+      "type": "gospel"
+    }
+  ]
+}

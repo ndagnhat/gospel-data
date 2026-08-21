@@ -1,0 +1,108 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "2SA",
+  "name": "Sa-mu-en 2",
+  "abbreviation": "2Sm",
+  "sortOrder": 10,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 24,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 39
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 44
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 51
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 39
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 25
+    }
+  ]
+}

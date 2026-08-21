@@ -1,0 +1,63 @@
+{
+  "id": "2026-08-12",
+  "date": "2026-08-12",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIX Thường Niên",
+  "weekNumber": 19,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Gio-an-na Phan-xi-ca Săng-tan, nữ tu",
+  "saintOfDay": "Thánh Gio-an-na Phan-xi-ca Săng-tan, nữ tu",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Mười Chín Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 9,
+      "startVerse": 1,
+      "endChapter": 10,
+      "endVerse": 22,
+      "displayReference": "Ed 9, 1 – 10, 22",
+      "sourceCitation": "Ezekiel 9:1-7; 10:18-22",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 113,
+      "startVerse": 1,
+      "endChapter": 113,
+      "endVerse": 6,
+      "displayReference": "Tv 113, 1-6",
+      "sourceCitation": "Psalm 113:1-2, 3-4, 5-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 18,
+      "startVerse": 15,
+      "endChapter": 18,
+      "endVerse": 20,
+      "displayReference": "Mt 18, 15-20",
+      "sourceCitation": "Matthew 18:15-20",
+      "type": "gospel"
+    }
+  ]
+}

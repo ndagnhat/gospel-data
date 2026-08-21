@@ -1,0 +1,47 @@
+{
+  "id": "2026-07-03",
+  "date": "2026-07-03",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIII Thường Niên",
+  "weekNumber": 13,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Tô-ma, tông đồ",
+  "saintOfDay": "Thánh Tô-ma, tông đồ",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 2,
+      "startVerse": 19,
+      "endChapter": 2,
+      "endVerse": 22,
+      "displayReference": "Ep 2, 19-22",
+      "sourceCitation": "Ephesians 2:19-22",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 2,
+      "endChapter": 1,
+      "endVerse": 2,
+      "displayReference": "Tv 1, 2",
+      "sourceCitation": "Psalm 117:1bc, 2",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 20,
+      "startVerse": 24,
+      "endChapter": 20,
+      "endVerse": 29,
+      "displayReference": "Ga 20, 24-29",
+      "sourceCitation": "John 20:24-29",
+      "type": "gospel"
+    }
+  ]
+}

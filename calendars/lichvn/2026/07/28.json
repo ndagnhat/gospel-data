@@ -1,0 +1,47 @@
+{
+  "id": "2026-07-28",
+  "date": "2026-07-28",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVII Thường Niên",
+  "weekNumber": 17,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Mười Bảy Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 14,
+      "startVerse": 17,
+      "endChapter": 14,
+      "endVerse": 22,
+      "displayReference": "Gr 14, 17-22",
+      "sourceCitation": "Jeremiah 14:17-22",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 79,
+      "startVerse": 8,
+      "endChapter": 79,
+      "endVerse": 9,
+      "displayReference": "Tv 79, 8-9",
+      "sourceCitation": "Psalm 79:8, 9, 11 and 13",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 36,
+      "endChapter": 13,
+      "endVerse": 43,
+      "displayReference": "Mt 13, 36-43",
+      "sourceCitation": "Matthew 13:36-43",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2026-12-26",
+  "date": "2026-12-26",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Tê-pha-nô, tử đạo tiên khởi",
+  "saintOfDay": "Thánh Tê-pha-nô, tử đạo tiên khởi",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 6,
+      "startVerse": 8,
+      "endChapter": 7,
+      "endVerse": 59,
+      "displayReference": "Cv 6, 8 – 7, 59",
+      "sourceCitation": "Acts 6:8-10; 7:54-59",
+      "selectedVerses": [
+        8,
+        9,
+        10,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 10,
+      "startVerse": 17,
+      "endChapter": 10,
+      "endVerse": 22,
+      "displayReference": "Mt 10, 17-22",
+      "sourceCitation": "Matthew 10:17-22",
+      "type": "gospel"
+    }
+  ]
+}

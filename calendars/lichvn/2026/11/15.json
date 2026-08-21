@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-15",
+  "date": "2026-11-15",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXII Thường Niên",
+  "weekNumber": 32,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Thánh An-rê Trần An Dũng Lạc và các bạn, tử đạo",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "red",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "PRO",
+      "startChapter": 31,
+      "startVerse": 10,
+      "endChapter": 31,
+      "endVerse": 31,
+      "displayReference": "Cn 31, 10-13.19-20.30-31",
+      "sourceCitation": "Proverbs 31:10-13, 19-20, 30-31",
+      "selectedVerses": [
+        10,
+        11,
+        12,
+        13,
+        19,
+        20,
+        30,
+        31
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 128,
+      "startVerse": 1,
+      "endChapter": 128,
+      "endVerse": 5,
+      "displayReference": "Tv 128, 1-5",
+      "sourceCitation": "Psalm 128:1-2, 3, 4-5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1TH",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 6,
+      "displayReference": "1Tx 5, 1-6",
+      "sourceCitation": "1 Thessalonians 5:1-6",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 25,
+      "startVerse": 14,
+      "endChapter": 25,
+      "endVerse": 30,
+      "displayReference": "Mt 25, 14-30",
+      "sourceCitation": "Matthew 25:14-30",
+      "type": "gospel",
+      "alternatives": [
+        "Mt 25, 14-15.19-21"
+      ]
+    }
+  ]
+}

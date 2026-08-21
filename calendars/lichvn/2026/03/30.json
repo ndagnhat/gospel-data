@@ -1,0 +1,54 @@
+{
+  "id": "2026-03-30",
+  "date": "2026-03-30",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần VI Mùa Chay",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai Tuần Thánh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 42,
+      "startVerse": 1,
+      "endChapter": 42,
+      "endVerse": 7,
+      "displayReference": "Is 42, 1-7",
+      "sourceCitation": "Isaiah 42:1-7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 27,
+      "startVerse": 1,
+      "endChapter": 27,
+      "endVerse": 14,
+      "displayReference": "Tv 27, 1-3.13-14",
+      "sourceCitation": "Psalm 27:1, 2, 3, 13-14",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 12,
+      "startVerse": 1,
+      "endChapter": 12,
+      "endVerse": 11,
+      "displayReference": "Ga 12, 1-11",
+      "sourceCitation": "John 12:1-11",
+      "type": "gospel"
+    }
+  ]
+}

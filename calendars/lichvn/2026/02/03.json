@@ -1,0 +1,50 @@
+{
+  "id": "2026-02-03",
+  "date": "2026-02-03",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IV Thường Niên",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh An-ga-ri-ô, giám mục",
+  "saintOfDay": "Thánh An-ga-ri-ô, giám mục",
+  "commemorations": [
+    "Thánh Bơ-la-xi-ô, giám mục, tử đạo",
+    "Thứ Ba trong tuần thứ Tư Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 18,
+      "startVerse": 9,
+      "endChapter": 19,
+      "endVerse": 3,
+      "displayReference": "2Sm 18, 9 – 19, 3",
+      "sourceCitation": "2 Samuel 18:9-10, 14b, 24-25a, 30—19:3",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 86,
+      "startVerse": 1,
+      "endChapter": 86,
+      "endVerse": 6,
+      "displayReference": "Tv 86, 1-6",
+      "sourceCitation": "Psalm 86:1-2, 3-4, 5-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 5,
+      "startVerse": 21,
+      "endChapter": 5,
+      "endVerse": 43,
+      "displayReference": "Mc 5, 21-43",
+      "sourceCitation": "Mark 5:21-43",
+      "type": "gospel"
+    }
+  ]
+}

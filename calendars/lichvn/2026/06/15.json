@@ -1,0 +1,47 @@
+{
+  "id": "2026-06-15",
+  "date": "2026-06-15",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XI Thường Niên",
+  "weekNumber": 11,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Mười Một Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 21,
+      "startVerse": 1,
+      "endChapter": 21,
+      "endVerse": 16,
+      "displayReference": "1V 21, 1-16",
+      "sourceCitation": "1 Kings 21:1-16",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 4,
+      "endChapter": 1,
+      "endVerse": 7,
+      "displayReference": "Tv 1, 4-7",
+      "sourceCitation": "Psalm 5:2-3ab, 4b-6a, 6b-7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 5,
+      "startVerse": 38,
+      "endChapter": 5,
+      "endVerse": 42,
+      "displayReference": "Mt 5, 38-42",
+      "sourceCitation": "Matthew 5:38-42",
+      "type": "gospel"
+    }
+  ]
+}

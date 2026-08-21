@@ -1,0 +1,57 @@
+{
+  "id": "2026-10-05",
+  "date": "2026-10-05",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVII Thường Niên",
+  "weekNumber": 27,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Faustina Kowalska, trinh nữ",
+  "saintOfDay": "Thánh Faustina Kowalska, trinh nữ",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "GAL",
+      "startChapter": 1,
+      "startVerse": 6,
+      "endChapter": 1,
+      "endVerse": 12,
+      "displayReference": "Gl 1, 6-12",
+      "sourceCitation": "Galatians 1:6-12",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 111,
+      "startVerse": 1,
+      "endChapter": 111,
+      "endVerse": 10,
+      "displayReference": "Tv 111, 1-2.7-10",
+      "sourceCitation": "Psalm 111:1b-2, 7-8, 9, 10c",
+      "selectedVerses": [
+        1,
+        2,
+        7,
+        8,
+        9,
+        10
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 10,
+      "startVerse": 25,
+      "endChapter": 10,
+      "endVerse": 37,
+      "displayReference": "Lc 10, 25-37",
+      "sourceCitation": "Luke 10:25-37",
+      "type": "gospel"
+    }
+  ]
+}

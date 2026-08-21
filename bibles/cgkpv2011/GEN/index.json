@@ -1,0 +1,212 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "GEN",
+  "name": "Sáng Thế",
+  "abbreviation": "St",
+  "sortOrder": 1,
+  "testament": "old",
+  "category": "torah",
+  "totalChapters": 50,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 67
+    },
+    {
+      "chapterNumber": 25,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 26,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 27,
+      "totalVerses": 46
+    },
+    {
+      "chapterNumber": 28,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 29,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 30,
+      "totalVerses": 43
+    },
+    {
+      "chapterNumber": 31,
+      "totalVerses": 54
+    },
+    {
+      "chapterNumber": 32,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 33,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 34,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 35,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 36,
+      "totalVerses": 43
+    },
+    {
+      "chapterNumber": 37,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 38,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 39,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 40,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 41,
+      "totalVerses": 57
+    },
+    {
+      "chapterNumber": 42,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 43,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 44,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 45,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 46,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 47,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 48,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 49,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 50,
+      "totalVerses": 26
+    }
+  ]
+}

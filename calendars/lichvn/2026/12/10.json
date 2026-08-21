@@ -1,0 +1,49 @@
+{
+  "id": "2026-12-10",
+  "date": "2026-12-10",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần II Mùa Vọng",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Đức trinh nữ Ma-ri-a Lô-rê-tô",
+  "saintOfDay": "Đức trinh nữ Ma-ri-a Lô-rê-tô",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Hai Mùa Vọng"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 41,
+      "startVerse": 13,
+      "endChapter": 41,
+      "endVerse": 20,
+      "displayReference": "Is 41, 13-20",
+      "sourceCitation": "Isaiah 41:13-20",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 10,
+      "endChapter": 1,
+      "endVerse": 11,
+      "displayReference": "Tv 1, 10-11",
+      "sourceCitation": "Psalm 145:1 and 9, 10-11, 12-13ab",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 11,
+      "startVerse": 11,
+      "endChapter": 11,
+      "endVerse": 15,
+      "displayReference": "Mt 11, 11-15",
+      "sourceCitation": "Matthew 11:11-15",
+      "type": "gospel"
+    }
+  ]
+}

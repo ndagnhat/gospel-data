@@ -1,0 +1,47 @@
+{
+  "id": "2026-05-02",
+  "date": "2026-05-02",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần IV Mùa Phục Sinh",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh A-tha-na-xi-ô, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh A-tha-na-xi-ô, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 13,
+      "startVerse": 44,
+      "endChapter": 13,
+      "endVerse": 52,
+      "displayReference": "Cv 13, 44-52",
+      "sourceCitation": "Acts 13:44-52",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 98,
+      "startVerse": 1,
+      "endChapter": 98,
+      "endVerse": 1,
+      "displayReference": "Tv 98, 1",
+      "sourceCitation": "Psalm 98:1, 2-3ab, 3cd-4",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 14,
+      "startVerse": 7,
+      "endChapter": 14,
+      "endVerse": 14,
+      "displayReference": "Ga 14, 7-14",
+      "sourceCitation": "John 14:7-14",
+      "type": "gospel"
+    }
+  ]
+}

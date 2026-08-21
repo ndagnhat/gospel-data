@@ -1,0 +1,79 @@
+{
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXII Thường Niên",
+  "weekNumber": 32,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Cung hiến thánh đường La-tê-ra-nô",
+  "saintOfDay": "Cung hiến thánh đường La-tê-ra-nô",
+  "commemorations": [],
+  "color": "white",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 47,
+      "startVerse": 1,
+      "endChapter": 47,
+      "endVerse": 12,
+      "displayReference": "Ed 47, 1-2.8-9.12",
+      "sourceCitation": "Ezekiel 47:1-2, 8-9, 12",
+      "selectedVerses": [
+        1,
+        2,
+        8,
+        9,
+        12
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 46,
+      "startVerse": 2,
+      "endChapter": 46,
+      "endVerse": 9,
+      "displayReference": "Tv 46, 2-3.5-6.8-9",
+      "sourceCitation": "Psalm 46:2-3, 5-6, 8-9",
+      "selectedVerses": [
+        2,
+        3,
+        5,
+        6,
+        8,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1CO",
+      "startChapter": 3,
+      "startVerse": 9,
+      "endChapter": 3,
+      "endVerse": 17,
+      "displayReference": "1Cr 3, 9-11.16-17",
+      "sourceCitation": "1 Corinthians 3:9c-11, 16-17",
+      "selectedVerses": [
+        9,
+        10,
+        11,
+        16,
+        17
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 2,
+      "startVerse": 13,
+      "endChapter": 2,
+      "endVerse": 22,
+      "displayReference": "Ga 2, 13-22",
+      "sourceCitation": "John 2:13-22",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "2026-04-30",
+  "date": "2026-04-30",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần IV Mùa Phục Sinh",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Pi-ô V, giáo hoàng",
+  "saintOfDay": "Thánh Pi-ô V, giáo hoàng",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Tư Mùa Phục Sinh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 13,
+      "startVerse": 13,
+      "endChapter": 13,
+      "endVerse": 25,
+      "displayReference": "Cv 13, 13-25",
+      "sourceCitation": "Acts 13:13-25",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 2,
+      "endChapter": 89,
+      "endVerse": 22,
+      "displayReference": "Tv 89, 2-3.21-22",
+      "sourceCitation": "Psalm 89:2-3, 21-22, 25 and 27",
+      "selectedVerses": [
+        2,
+        3,
+        21,
+        22
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 13,
+      "startVerse": 16,
+      "endChapter": 13,
+      "endVerse": 20,
+      "displayReference": "Ga 13, 16-20",
+      "sourceCitation": "John 13:16-20",
+      "type": "gospel"
+    }
+  ]
+}

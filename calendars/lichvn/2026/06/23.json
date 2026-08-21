@@ -1,0 +1,72 @@
+{
+  "id": "2026-06-23",
+  "date": "2026-06-23",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XII Thường Niên",
+  "weekNumber": 12,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Mười Hai Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "2KI",
+      "startChapter": 19,
+      "startVerse": 9,
+      "endChapter": 19,
+      "endVerse": 36,
+      "displayReference": "2V 19, 9-11.14-21.31-36",
+      "sourceCitation": "2 Kings 19:9b-11, 14-21, 31-35a, 36",
+      "selectedVerses": [
+        9,
+        10,
+        11,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 10,
+      "endChapter": 1,
+      "endVerse": 11,
+      "displayReference": "Tv 1, 10-11",
+      "sourceCitation": "Psalm 48:2-3Ab, 3cd-4, 10-11",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 7,
+      "startVerse": 6,
+      "endChapter": 7,
+      "endVerse": 14,
+      "displayReference": "Mt 7, 6.12-14",
+      "sourceCitation": "Matthew 7:6, 12-14",
+      "selectedVerses": [
+        6,
+        12,
+        13,
+        14
+      ],
+      "type": "gospel"
+    }
+  ]
+}

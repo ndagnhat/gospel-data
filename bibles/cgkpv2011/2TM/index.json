@@ -1,0 +1,28 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "2TM",
+  "name": "Thư 2 Ti-mô-thê",
+  "abbreviation": "2Tm",
+  "sortOrder": 62,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 22
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1MA",
+  "name": "Ma-ca-bê 1",
+  "abbreviation": "1Mcb",
+  "sortOrder": 20,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 16,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 64
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 70
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 60
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 61
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 68
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 63
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 50
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 73
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 89
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 74
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 53
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 53
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 49
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 41
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 24
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "2026-04-06",
+  "date": "2026-04-06",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần I Mùa Phục Sinh",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần Bát Nhật Lễ Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 2,
+      "startVerse": 14,
+      "endChapter": 2,
+      "endVerse": 33,
+      "displayReference": "Cv 2, 14.22-33",
+      "sourceCitation": "Acts 2:14, 22-33",
+      "selectedVerses": [
+        14,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 7,
+      "endChapter": 1,
+      "endVerse": 11,
+      "displayReference": "Tv 1, 7-11",
+      "sourceCitation": "Psalm 16:1-2a and 5, 7-8, 9-10, 11",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 28,
+      "startVerse": 8,
+      "endChapter": 28,
+      "endVerse": 15,
+      "displayReference": "Mt 28, 8-15",
+      "sourceCitation": "Matthew 28:8-15",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-07-11",
+  "date": "2026-07-11",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIV Thường Niên",
+  "weekNumber": 14,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Biển-đức, viện phụ",
+  "saintOfDay": "Thánh Biển-đức, viện phụ",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 6,
+      "startVerse": 1,
+      "endChapter": 6,
+      "endVerse": 8,
+      "displayReference": "Is 6, 1-8",
+      "sourceCitation": "Isaiah 6:1-8",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 5,
+      "endChapter": 1,
+      "endVerse": 5,
+      "displayReference": "Tv 1, 5",
+      "sourceCitation": "Psalm 93:1ab, 1cd-2, 5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 10,
+      "startVerse": 24,
+      "endChapter": 10,
+      "endVerse": 33,
+      "displayReference": "Mt 10, 24-33",
+      "sourceCitation": "Matthew 10:24-33",
+      "type": "gospel"
+    }
+  ]
+}

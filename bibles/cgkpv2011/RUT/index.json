@@ -1,0 +1,28 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "RUT",
+  "name": "Rút",
+  "abbreviation": "R",
+  "sortOrder": 8,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 22
+    }
+  ]
+}

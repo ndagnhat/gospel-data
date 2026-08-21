@@ -1,0 +1,63 @@
+{
+  "id": "2026-06-02",
+  "date": "2026-06-02",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IX Thường Niên",
+  "weekNumber": 9,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Mác-sê-li-nô và thánh Phê-rô, tử đạo",
+  "saintOfDay": "Thánh Mác-sê-li-nô và thánh Phê-rô, tử đạo",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Chín Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "2PE",
+      "startChapter": 3,
+      "startVerse": 12,
+      "endChapter": 3,
+      "endVerse": 18,
+      "displayReference": "2Pr 3, 12-15.17-18",
+      "sourceCitation": "2 Peter 3:12-15a, 17-18",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        15,
+        17,
+        18
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 90,
+      "startVerse": 2,
+      "endChapter": 90,
+      "endVerse": 10,
+      "displayReference": "Tv 90, 2-4.10",
+      "sourceCitation": "Psalm 90:2, 3-4, 10, 14 and 16",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        10
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 12,
+      "startVerse": 13,
+      "endChapter": 12,
+      "endVerse": 17,
+      "displayReference": "Mc 12, 13-17",
+      "sourceCitation": "Mark 12:13-17",
+      "type": "gospel"
+    }
+  ]
+}

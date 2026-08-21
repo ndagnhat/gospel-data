@@ -1,0 +1,39 @@
+{
+  "id": "2026-04-21",
+  "date": "2026-04-21",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần III Mùa Phục Sinh",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh An-xen-mô, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh An-xen-mô, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Ba Mùa Phục Sinh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 7,
+      "startVerse": 51,
+      "endChapter": 8,
+      "endVerse": 1,
+      "displayReference": "Cv 7, 51 – 8, 1",
+      "sourceCitation": "Acts 7:51—8:1a",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 6,
+      "startVerse": 30,
+      "endChapter": 6,
+      "endVerse": 35,
+      "displayReference": "Ga 6, 30-35",
+      "sourceCitation": "John 6:30-35",
+      "type": "gospel"
+    }
+  ]
+}

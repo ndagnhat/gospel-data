@@ -1,0 +1,24 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "ZEP",
+  "name": "Xô-phô-ni-a",
+  "abbreviation": "Xp",
+  "sortOrder": 43,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 20
+    }
+  ]
+}

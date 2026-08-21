@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-20",
+  "date": "2026-10-20",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIX Thường Niên",
+  "weekNumber": 29,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 2,
+      "startVerse": 12,
+      "endChapter": 2,
+      "endVerse": 22,
+      "displayReference": "Ep 2, 12-22",
+      "sourceCitation": "Ephesians 2:12-22",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 11,
+      "endChapter": 1,
+      "endVerse": 14,
+      "displayReference": "Tv 1, 11-14",
+      "sourceCitation": "Psalm 85:9ab-10, 11-12, 13-14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 12,
+      "startVerse": 35,
+      "endChapter": 12,
+      "endVerse": 38,
+      "displayReference": "Lc 12, 35-38",
+      "sourceCitation": "Luke 12:35-38",
+      "type": "gospel"
+    }
+  ]
+}

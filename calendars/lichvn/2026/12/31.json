@@ -1,0 +1,56 @@
+{
+  "id": "2026-12-31",
+  "date": "2026-12-31",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Xin-vet-tê I, giáo hoàng",
+  "saintOfDay": "Thánh Xin-vet-tê I, giáo hoàng",
+  "commemorations": [
+    "Ngày thứ bẩy trong tuần Bát Nhật Lễ Giáng Sinh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1JN",
+      "startChapter": 2,
+      "startVerse": 18,
+      "endChapter": 2,
+      "endVerse": 21,
+      "displayReference": "1Ga 2, 18-21",
+      "sourceCitation": "1 John 2:18-21",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 96,
+      "startVerse": 1,
+      "endChapter": 96,
+      "endVerse": 13,
+      "displayReference": "Tv 96, 1-2.11-13",
+      "sourceCitation": "Psalm 96:1-2, 11-12, 13",
+      "selectedVerses": [
+        1,
+        2,
+        11,
+        12,
+        13
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 18,
+      "displayReference": "Ga 1, 1-18",
+      "sourceCitation": "John 1:1-18",
+      "type": "gospel"
+    }
+  ]
+}

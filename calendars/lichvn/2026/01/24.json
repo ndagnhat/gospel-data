@@ -1,0 +1,68 @@
+{
+  "id": "2026-01-24",
+  "date": "2026-01-24",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần II Thường Niên",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Phan-xi-cô đơ Xan, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Phan-xi-cô đơ Xan, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 27,
+      "displayReference": "2Sm 1, 1-4.11-12.19.23-27",
+      "sourceCitation": "2 Samuel 1:1-4, 11-12, 19, 23-27",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        11,
+        12,
+        19,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 80,
+      "startVerse": 2,
+      "endChapter": 80,
+      "endVerse": 7,
+      "displayReference": "Tv 80, 2-3.5-7",
+      "sourceCitation": "Psalm 80:2-3, 5-7",
+      "selectedVerses": [
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 3,
+      "startVerse": 20,
+      "endChapter": 3,
+      "endVerse": 21,
+      "displayReference": "Mc 3, 20-21",
+      "sourceCitation": "Mark 3:20-21",
+      "type": "gospel"
+    }
+  ]
+}

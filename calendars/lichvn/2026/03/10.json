@@ -1,0 +1,60 @@
+{
+  "id": "2026-03-10",
+  "date": "2026-03-10",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần III Mùa Chay",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Ba Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "DAN",
+      "startChapter": 3,
+      "startVerse": 25,
+      "endChapter": 3,
+      "endVerse": 43,
+      "displayReference": "Đn 3, 25.34-43",
+      "sourceCitation": "Daniel 3:25, 34-43",
+      "selectedVerses": [
+        25,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 8,
+      "endChapter": 1,
+      "endVerse": 9,
+      "displayReference": "Tv 1, 8-9",
+      "sourceCitation": "Psalm 25:4-5ab, 6 and 7bc, 8-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 18,
+      "startVerse": 21,
+      "endChapter": 18,
+      "endVerse": 35,
+      "displayReference": "Mt 18, 21-35",
+      "sourceCitation": "Matthew 18:21-35",
+      "type": "gospel"
+    }
+  ]
+}

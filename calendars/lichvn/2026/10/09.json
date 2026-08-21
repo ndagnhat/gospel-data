@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-09",
+  "date": "2026-10-09",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVII Thường Niên",
+  "weekNumber": 27,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Gio-an Lê-ô-nác-đi, linh mục",
+  "saintOfDay": "Thánh Gio-an Lê-ô-nác-đi, linh mục",
+  "commemorations": [
+    "Thánh Gioan Henricô Newman, linh mục, tiến sĩ Hội Thánh",
+    "Thánh Đi-ô-ni-xi-ô, giám mục và các bạn, tử đạo",
+    "Thứ Sáu trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "GAL",
+      "startChapter": 3,
+      "startVerse": 7,
+      "endChapter": 3,
+      "endVerse": 14,
+      "displayReference": "Gl 3, 7-14",
+      "sourceCitation": "Galatians 3:7-14",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 111,
+      "startVerse": 1,
+      "endChapter": 111,
+      "endVerse": 6,
+      "displayReference": "Tv 111, 1-6",
+      "sourceCitation": "Psalm 111:1b-2, 3-4, 5-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 15,
+      "endChapter": 11,
+      "endVerse": 26,
+      "displayReference": "Lc 11, 15-26",
+      "sourceCitation": "Luke 11:15-26",
+      "type": "gospel"
+    }
+  ]
+}

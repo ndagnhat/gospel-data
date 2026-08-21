@@ -1,0 +1,51 @@
+{
+  "id": "2026-02-06",
+  "date": "2026-02-06",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IV Thường Niên",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Phao-lô Mi-ki và các bạn, tử đạo",
+  "saintOfDay": "Thánh Phao-lô Mi-ki và các bạn, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "SIR",
+      "startChapter": 47,
+      "startVerse": 2,
+      "endChapter": 47,
+      "endVerse": 11,
+      "displayReference": "Hc 47, 2-11",
+      "sourceCitation": "Sirach 47:2-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 18,
+      "startVerse": 31,
+      "endChapter": 18,
+      "endVerse": 51,
+      "displayReference": "Tv 18, 31.51",
+      "sourceCitation": "Psalm 18:31, 47 and 50, 51",
+      "selectedVerses": [
+        31,
+        51
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 6,
+      "startVerse": 14,
+      "endChapter": 6,
+      "endVerse": 29,
+      "displayReference": "Mc 6, 14-29",
+      "sourceCitation": "Mark 6:14-29",
+      "type": "gospel"
+    }
+  ]
+}

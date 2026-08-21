@@ -1,0 +1,44 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "SNG",
+  "name": "Diễm Ca",
+  "abbreviation": "Dc",
+  "sortOrder": 26,
+  "testament": "old",
+  "category": "wisdom",
+  "totalChapters": 8,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 14
+    }
+  ]
+}

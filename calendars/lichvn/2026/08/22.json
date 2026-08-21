@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-22",
+  "date": "2026-08-22",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XX Thường Niên",
+  "weekNumber": 20,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Đức Ma-ri-a Nữ vương",
+  "saintOfDay": "Đức Ma-ri-a Nữ vương",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 10,
+      "endChapter": 1,
+      "endVerse": 14,
+      "displayReference": "Tv 1, 10-14",
+      "sourceCitation": "Psalm 85:9ab, 10, 11-12, 13-14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 23,
+      "startVerse": 1,
+      "endChapter": 23,
+      "endVerse": 12,
+      "displayReference": "Mt 23, 1-12",
+      "sourceCitation": "Matthew 23:1-12",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-28",
+  "date": "2026-11-28",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXIV Thường Niên",
+  "weekNumber": 34,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Đức Mẹ ngày thứ bảy",
+  "saintOfDay": "Lễ Đức Mẹ ngày thứ bảy",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "REV",
+      "startChapter": 22,
+      "startVerse": 1,
+      "endChapter": 22,
+      "endVerse": 7,
+      "displayReference": "Kh 22, 1-7",
+      "sourceCitation": "Revelation 22:1-7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 95,
+      "startVerse": 1,
+      "endChapter": 95,
+      "endVerse": 5,
+      "displayReference": "Tv 95, 1-5",
+      "sourceCitation": "Psalm 95:1-2, 3-5, 6-7ab",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 21,
+      "startVerse": 34,
+      "endChapter": 21,
+      "endVerse": 36,
+      "displayReference": "Lc 21, 34-36",
+      "sourceCitation": "Luke 21:34-36",
+      "type": "gospel"
+    }
+  ]
+}

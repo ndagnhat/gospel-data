@@ -1,0 +1,55 @@
+{
+  "id": "2026-08-20",
+  "date": "2026-08-20",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XX Thường Niên",
+  "weekNumber": 20,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Bê-na-đô, viện phụ, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Bê-na-đô, viện phụ, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 36,
+      "startVerse": 23,
+      "endChapter": 36,
+      "endVerse": 28,
+      "displayReference": "Ed 36, 23-28",
+      "sourceCitation": "Ezekiel 36:23-28",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 51,
+      "startVerse": 12,
+      "endChapter": 51,
+      "endVerse": 19,
+      "displayReference": "Tv 51, 12-15.18-19",
+      "sourceCitation": "Psalm 51:12-13, 14-15, 18-19",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        15,
+        18,
+        19
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 22,
+      "startVerse": 1,
+      "endChapter": 22,
+      "endVerse": 14,
+      "displayReference": "Mt 22, 1-14",
+      "sourceCitation": "Matthew 22:1-14",
+      "type": "gospel"
+    }
+  ]
+}

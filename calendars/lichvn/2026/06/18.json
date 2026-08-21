@@ -1,0 +1,47 @@
+{
+  "id": "2026-06-18",
+  "date": "2026-06-18",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XI Thường Niên",
+  "weekNumber": 11,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Mười Một Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "SIR",
+      "startChapter": 48,
+      "startVerse": 1,
+      "endChapter": 48,
+      "endVerse": 14,
+      "displayReference": "Hc 48, 1-14",
+      "sourceCitation": "Sirach 48:1-14",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 97,
+      "startVerse": 1,
+      "endChapter": 97,
+      "endVerse": 7,
+      "displayReference": "Tv 97, 1-7",
+      "sourceCitation": "Psalm 97:1-2, 3-4, 5-6, 7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 6,
+      "startVerse": 7,
+      "endChapter": 6,
+      "endVerse": 15,
+      "displayReference": "Mt 6, 7-15",
+      "sourceCitation": "Matthew 6:7-15",
+      "type": "gospel"
+    }
+  ]
+}

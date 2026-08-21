@@ -1,0 +1,87 @@
+{
+  "id": "2026-12-13",
+  "date": "2026-12-13",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần III Mùa Vọng",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Ba Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 61,
+      "startVerse": 1,
+      "endChapter": 61,
+      "endVerse": 11,
+      "displayReference": "Is 61, 1-2.10-11",
+      "sourceCitation": "Isaiah 61:1-2a, 10-11",
+      "selectedVerses": [
+        1,
+        2,
+        10,
+        11
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 46,
+      "endChapter": 1,
+      "endVerse": 54,
+      "displayReference": "Lc 1, 46-50.53-54",
+      "sourceCitation": "Luke 1:46-48, 49-50, 53-54",
+      "selectedVerses": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        53,
+        54
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1TH",
+      "startChapter": 5,
+      "startVerse": 16,
+      "endChapter": 5,
+      "endVerse": 24,
+      "displayReference": "1Tx 5, 16-24",
+      "sourceCitation": "1 Thessalonians 5:16-24",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 1,
+      "startVerse": 6,
+      "endChapter": 1,
+      "endVerse": 28,
+      "displayReference": "Ga 1, 6-8.19-28",
+      "sourceCitation": "John 1:6-8, 19-28",
+      "selectedVerses": [
+        6,
+        7,
+        8,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "type": "gospel"
+    }
+  ]
+}

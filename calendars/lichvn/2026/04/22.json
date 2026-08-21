@@ -1,0 +1,47 @@
+{
+  "id": "2026-04-22",
+  "date": "2026-04-22",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần III Mùa Phục Sinh",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Ba Mùa Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 8,
+      "startVerse": 1,
+      "endChapter": 8,
+      "endVerse": 8,
+      "displayReference": "Cv 8, 1-8",
+      "sourceCitation": "Acts 8:1b-8",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 66,
+      "startVerse": 1,
+      "endChapter": 66,
+      "endVerse": 7,
+      "displayReference": "Tv 66, 1-7",
+      "sourceCitation": "Psalm 66:1-3a, 4-5, 6-7a",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 6,
+      "startVerse": 35,
+      "endChapter": 6,
+      "endVerse": 40,
+      "displayReference": "Ga 6, 35-40",
+      "sourceCitation": "John 6:35-40",
+      "type": "gospel"
+    }
+  ]
+}

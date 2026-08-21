@@ -1,0 +1,172 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "EXO",
+  "name": "Xuất Hành",
+  "abbreviation": "Xh",
+  "sortOrder": 2,
+  "testament": "old",
+  "category": "torah",
+  "totalChapters": 40,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 51
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 25,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 26,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 27,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 28,
+      "totalVerses": 43
+    },
+    {
+      "chapterNumber": 29,
+      "totalVerses": 46
+    },
+    {
+      "chapterNumber": 30,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 31,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 32,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 33,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 34,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 35,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 36,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 37,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 38,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 39,
+      "totalVerses": 43
+    },
+    {
+      "chapterNumber": 40,
+      "totalVerses": 38
+    }
+  ]
+}

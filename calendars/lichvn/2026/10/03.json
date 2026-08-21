@@ -1,0 +1,70 @@
+{
+  "id": "2026-10-03",
+  "date": "2026-10-03",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVI Thường Niên",
+  "weekNumber": 26,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Đức Mẹ ngày thứ bảy",
+  "saintOfDay": "Lễ Đức Mẹ ngày thứ bảy",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Hai Mươi-Sáu Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "JOB",
+      "startChapter": 42,
+      "startVerse": 1,
+      "endChapter": 42,
+      "endVerse": 17,
+      "displayReference": "G 42, 1-3.5-6.12-17",
+      "sourceCitation": "Job 42:1-3, 5-6, 12-17",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 66,
+      "endChapter": 119,
+      "endVerse": 130,
+      "displayReference": "Tv 119, 66.71.75.91.125.130",
+      "sourceCitation": "Psalm 119:66, 71, 75, 91, 125, 130",
+      "selectedVerses": [
+        66,
+        71,
+        75,
+        91,
+        125,
+        130
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 10,
+      "startVerse": 17,
+      "endChapter": 10,
+      "endVerse": 24,
+      "displayReference": "Lc 10, 17-24",
+      "sourceCitation": "Luke 10:17-24",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "2026-10-07",
+  "date": "2026-10-07",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVII Thường Niên",
+  "weekNumber": 27,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "GAL",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 14,
+      "displayReference": "Gl 2, 1-2.7-14",
+      "sourceCitation": "Galatians 2:1-2, 7-14",
+      "selectedVerses": [
+        1,
+        2,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 2,
+      "endChapter": 1,
+      "endVerse": 2,
+      "displayReference": "Tv 1, 2",
+      "sourceCitation": "Psalm 117:1bc, 2",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 1,
+      "endChapter": 11,
+      "endVerse": 4,
+      "displayReference": "Lc 11, 1-4",
+      "sourceCitation": "Luke 11:1-4",
+      "type": "gospel"
+    }
+  ]
+}

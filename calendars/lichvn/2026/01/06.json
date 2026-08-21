@@ -1,0 +1,55 @@
+{
+  "id": "2026-01-06",
+  "date": "2026-01-06",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba sau Lễ Hiển Linh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1JN",
+      "startChapter": 4,
+      "startVerse": 7,
+      "endChapter": 4,
+      "endVerse": 10,
+      "displayReference": "1Ga 4, 7-10",
+      "sourceCitation": "1 John 4:7-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 72,
+      "startVerse": 1,
+      "endChapter": 72,
+      "endVerse": 8,
+      "displayReference": "Tv 72, 1-4.7-8",
+      "sourceCitation": "Psalm 72:1-2, 3-4, 7-8",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 6,
+      "startVerse": 34,
+      "endChapter": 6,
+      "endVerse": 44,
+      "displayReference": "Mc 6, 34-44",
+      "sourceCitation": "Mark 6:34-44",
+      "type": "gospel"
+    }
+  ]
+}

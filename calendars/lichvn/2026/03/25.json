@@ -1,0 +1,64 @@
+{
+  "id": "2026-03-25",
+  "date": "2026-03-25",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần V Mùa Chay",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Lễ Truyền Tin",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 7,
+      "startVerse": 10,
+      "endChapter": 8,
+      "endVerse": 10,
+      "displayReference": "Is 7, 10 – 8, 10",
+      "sourceCitation": "Isaiah 7:10-14; 8:10",
+      "selectedVerses": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 40,
+      "startVerse": 7,
+      "endChapter": 40,
+      "endVerse": 11,
+      "displayReference": "Tv 40, 7-11",
+      "sourceCitation": "Psalm 40:7-8a, 8b-9, 10, 11",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "HEB",
+      "startChapter": 10,
+      "startVerse": 4,
+      "endChapter": 10,
+      "endVerse": 10,
+      "displayReference": "Dt 10, 4-10",
+      "sourceCitation": "Hebrews 10:4-10",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 26,
+      "endChapter": 1,
+      "endVerse": 38,
+      "displayReference": "Lc 1, 26-38",
+      "sourceCitation": "Luke 1:26-38",
+      "type": "gospel"
+    }
+  ]
+}

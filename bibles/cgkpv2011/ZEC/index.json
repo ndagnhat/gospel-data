@@ -1,0 +1,68 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "ZEC",
+  "name": "Da-ca-ri-a",
+  "abbreviation": "Dcr",
+  "sortOrder": 45,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 14,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 3
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 21
+    }
+  ]
+}

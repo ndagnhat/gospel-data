@@ -1,0 +1,60 @@
+{
+  "id": "2026-01-25",
+  "date": "2026-01-25",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần II Thường Niên",
+  "weekNumber": 2,
+  "psalterWeek": 3,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Ba Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 8,
+      "startVerse": 23,
+      "endChapter": 9,
+      "endVerse": 3,
+      "displayReference": "Is 8, 23 – 9, 3",
+      "sourceCitation": "Isaiah 8:23—9:3",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 27,
+      "startVerse": 1,
+      "endChapter": 27,
+      "endVerse": 14,
+      "displayReference": "Tv 27, 1.4.13-14",
+      "sourceCitation": "Psalm 27:1, 4, 13-14",
+      "selectedVerses": [
+        1,
+        4,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1CO",
+      "startChapter": 1,
+      "startVerse": 10,
+      "endChapter": 1,
+      "endVerse": 17,
+      "displayReference": "1Cr 1, 10-13.17",
+      "sourceCitation": "1 Corinthians 1:10-13, 17",
+      "selectedVerses": [
+        10,
+        11,
+        12,
+        13,
+        17
+      ],
+      "type": "second_reading"
+    }
+  ]
+}

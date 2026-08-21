@@ -1,0 +1,60 @@
+{
+  "id": "2026-09-27",
+  "date": "2026-09-27",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXV Thường Niên",
+  "weekNumber": 25,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Hai Mươi-Sáu Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 18,
+      "startVerse": 25,
+      "endChapter": 18,
+      "endVerse": 28,
+      "displayReference": "Ed 18, 25-28",
+      "sourceCitation": "Ezekiel 18:25-28",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 25,
+      "startVerse": 4,
+      "endChapter": 25,
+      "endVerse": 9,
+      "displayReference": "Tv 25, 4-9",
+      "sourceCitation": "Psalm 25:4-5, 6-7, 8-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "PHP",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 11,
+      "displayReference": "Pl 2, 1-11",
+      "sourceCitation": "Philippians 2:1-11",
+      "type": "second_reading",
+      "alternatives": [
+        "Pl 2, 1-5"
+      ]
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 21,
+      "startVerse": 28,
+      "endChapter": 21,
+      "endVerse": 32,
+      "displayReference": "Mt 21, 28-32",
+      "sourceCitation": "Matthew 21:28-32",
+      "type": "gospel"
+    }
+  ]
+}

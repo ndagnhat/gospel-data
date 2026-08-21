@@ -1,0 +1,47 @@
+{
+  "id": "2026-03-26",
+  "date": "2026-03-26",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần V Mùa Chay",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Năm Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "GEN",
+      "startChapter": 17,
+      "startVerse": 3,
+      "endChapter": 17,
+      "endVerse": 9,
+      "displayReference": "St 17, 3-9",
+      "sourceCitation": "Genesis 17:3-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 105,
+      "startVerse": 4,
+      "endChapter": 105,
+      "endVerse": 9,
+      "displayReference": "Tv 105, 4-9",
+      "sourceCitation": "Psalm 105:4-5, 6-7, 8-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 8,
+      "startVerse": 51,
+      "endChapter": 8,
+      "endVerse": 59,
+      "displayReference": "Ga 8, 51-59",
+      "sourceCitation": "John 8:51-59",
+      "type": "gospel"
+    }
+  ]
+}

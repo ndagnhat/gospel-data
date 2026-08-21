@@ -1,0 +1,47 @@
+{
+  "id": "2026-01-23",
+  "date": "2026-01-23",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần II Thường Niên",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Hai Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1SA",
+      "startChapter": 24,
+      "startVerse": 3,
+      "endChapter": 24,
+      "endVerse": 21,
+      "displayReference": "1Sm 24, 3-21",
+      "sourceCitation": "1 Samuel 24:3-21",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 57,
+      "startVerse": 2,
+      "endChapter": 57,
+      "endVerse": 4,
+      "displayReference": "Tv 57, 2-4",
+      "sourceCitation": "Psalm 57:2, 3-4, 6 and 11",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 3,
+      "startVerse": 13,
+      "endChapter": 3,
+      "endVerse": 19,
+      "displayReference": "Mc 3, 13-19",
+      "sourceCitation": "Mark 3:13-19",
+      "type": "gospel"
+    }
+  ]
+}

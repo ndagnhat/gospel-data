@@ -1,0 +1,47 @@
+{
+  "id": "2026-08-31",
+  "date": "2026-08-31",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXII Thường Niên",
+  "weekNumber": 22,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 5,
+      "displayReference": "1Cr 2, 1-5",
+      "sourceCitation": "1 Corinthians 2:1-5",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 97,
+      "endChapter": 119,
+      "endVerse": 102,
+      "displayReference": "Tv 119, 97-102",
+      "sourceCitation": "Psalm 119:97, 98, 99, 100, 101, 102",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 4,
+      "startVerse": 16,
+      "endChapter": 4,
+      "endVerse": 30,
+      "displayReference": "Lc 4, 16-30",
+      "sourceCitation": "Luke 4:16-30",
+      "type": "gospel"
+    }
+  ]
+}

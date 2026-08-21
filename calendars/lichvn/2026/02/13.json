@@ -1,0 +1,54 @@
+{
+  "id": "2026-02-13",
+  "date": "2026-02-13",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần V Thường Niên",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Năm Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 11,
+      "startVerse": 29,
+      "endChapter": 12,
+      "endVerse": 19,
+      "displayReference": "1V 11, 29 – 12, 19",
+      "sourceCitation": "1 Kings 11:29-32; 12:19",
+      "selectedVerses": [
+        29,
+        30,
+        31,
+        32,
+        19
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 12,
+      "endChapter": 1,
+      "endVerse": 15,
+      "displayReference": "Tv 1, 12-15",
+      "sourceCitation": "Psalm 81:10-11ab, 12-13, 14-15",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 7,
+      "startVerse": 31,
+      "endChapter": 7,
+      "endVerse": 37,
+      "displayReference": "Mc 7, 31-37",
+      "sourceCitation": "Mark 7:31-37",
+      "type": "gospel"
+    }
+  ]
+}

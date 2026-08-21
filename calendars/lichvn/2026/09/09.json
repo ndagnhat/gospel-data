@@ -1,0 +1,57 @@
+{
+  "id": "2026-09-09",
+  "date": "2026-09-09",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIII Thường Niên",
+  "weekNumber": 23,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Phê-rô Cơ-la-ve, linh mục",
+  "saintOfDay": "Thánh Phê-rô Cơ-la-ve, linh mục",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 7,
+      "startVerse": 25,
+      "endChapter": 7,
+      "endVerse": 31,
+      "displayReference": "1Cr 7, 25-31",
+      "sourceCitation": "1 Corinthians 7:25-31",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 45,
+      "startVerse": 11,
+      "endChapter": 45,
+      "endVerse": 17,
+      "displayReference": "Tv 45, 11-12.14-17",
+      "sourceCitation": "Psalm 45:11-12, 14-15, 16-17",
+      "selectedVerses": [
+        11,
+        12,
+        14,
+        15,
+        16,
+        17
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 6,
+      "startVerse": 20,
+      "endChapter": 6,
+      "endVerse": 26,
+      "displayReference": "Lc 6, 20-26",
+      "sourceCitation": "Luke 6:20-26",
+      "type": "gospel"
+    }
+  ]
+}

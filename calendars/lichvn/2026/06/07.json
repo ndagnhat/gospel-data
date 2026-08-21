@@ -1,0 +1,72 @@
+{
+  "id": "2026-06-07",
+  "date": "2026-06-07",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IX Thường Niên",
+  "weekNumber": 9,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Lễ Mình Máu Thánh Chúa",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "DEU",
+      "startChapter": 8,
+      "startVerse": 2,
+      "endChapter": 8,
+      "endVerse": 16,
+      "displayReference": "Đnl 8, 2-3.14-16",
+      "sourceCitation": "Deuteronomy 8:2-3, 14b-16a",
+      "selectedVerses": [
+        2,
+        3,
+        14,
+        15,
+        16
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 147,
+      "startVerse": 12,
+      "endChapter": 147,
+      "endVerse": 20,
+      "displayReference": "Tv 147, 12-15.19-20",
+      "sourceCitation": "Psalm 147:12-13, 14-15, 19-20",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        15,
+        19,
+        20
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1CO",
+      "startChapter": 10,
+      "startVerse": 16,
+      "endChapter": 10,
+      "endVerse": 17,
+      "displayReference": "1Cr 10, 16-17",
+      "sourceCitation": "1 Corinthians 10:16-17",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 6,
+      "startVerse": 51,
+      "endChapter": 6,
+      "endVerse": 58,
+      "displayReference": "Ga 6, 51-58",
+      "sourceCitation": "John 6:51-58",
+      "type": "gospel"
+    }
+  ]
+}

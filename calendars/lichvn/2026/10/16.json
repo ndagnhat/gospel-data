@@ -1,0 +1,58 @@
+{
+  "id": "2026-10-16",
+  "date": "2026-10-16",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVIII Thường Niên",
+  "weekNumber": 28,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Hét-vích, nữ tu",
+  "saintOfDay": "Thánh Hét-vích, nữ tu",
+  "commemorations": [
+    "Thánh Ma-ga-ri-ta Ma-ri-a A-la-cốc, trinh nữ",
+    "Thứ Sáu trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 1,
+      "startVerse": 11,
+      "endChapter": 1,
+      "endVerse": 14,
+      "displayReference": "Ep 1, 11-14",
+      "sourceCitation": "Ephesians 1:11-14",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 1,
+      "endChapter": 33,
+      "endVerse": 13,
+      "displayReference": "Tv 33, 1-2.4-5.12-13",
+      "sourceCitation": "Psalm 33:1-2, 4-5, 12-13",
+      "selectedVerses": [
+        1,
+        2,
+        4,
+        5,
+        12,
+        13
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 12,
+      "startVerse": 1,
+      "endChapter": 12,
+      "endVerse": 7,
+      "displayReference": "Lc 12, 1-7",
+      "sourceCitation": "Luke 12:1-7",
+      "type": "gospel"
+    }
+  ]
+}

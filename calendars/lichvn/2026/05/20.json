@@ -1,0 +1,56 @@
+{
+  "id": "2026-05-20",
+  "date": "2026-05-20",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VII Mùa Phục Sinh",
+  "weekNumber": 7,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Bê-na-đi-nô Xi-ê-na, linh mục",
+  "saintOfDay": "Thánh Bê-na-đi-nô Xi-ê-na, linh mục",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Bảy Mùa Phục Sinh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 20,
+      "startVerse": 28,
+      "endChapter": 20,
+      "endVerse": 38,
+      "displayReference": "Cv 20, 28-38",
+      "sourceCitation": "Acts 20:28-38",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 68,
+      "startVerse": 29,
+      "endChapter": 68,
+      "endVerse": 35,
+      "displayReference": "Tv 68, 29-30.33-35",
+      "sourceCitation": "Psalm 68:29-30, 33-35a, 35bc-36ab",
+      "selectedVerses": [
+        29,
+        30,
+        33,
+        34,
+        35
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 17,
+      "startVerse": 11,
+      "endChapter": 17,
+      "endVerse": 19,
+      "displayReference": "Ga 17, 11-19",
+      "sourceCitation": "John 17:11b-19",
+      "type": "gospel"
+    }
+  ]
+}

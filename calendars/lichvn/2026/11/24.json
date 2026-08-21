@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-24",
+  "date": "2026-11-24",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXIV Thường Niên",
+  "weekNumber": 34,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "REV",
+      "startChapter": 14,
+      "startVerse": 14,
+      "endChapter": 14,
+      "endVerse": 19,
+      "displayReference": "Kh 14, 14-19",
+      "sourceCitation": "Revelation 14:14-19",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 96,
+      "startVerse": 10,
+      "endChapter": 96,
+      "endVerse": 13,
+      "displayReference": "Tv 96, 10-13",
+      "sourceCitation": "Psalm 96:10, 11-12, 13",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 21,
+      "startVerse": 5,
+      "endChapter": 21,
+      "endVerse": 11,
+      "displayReference": "Lc 21, 5-11",
+      "sourceCitation": "Luke 21:5-11",
+      "type": "gospel"
+    }
+  ]
+}

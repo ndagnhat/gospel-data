@@ -1,0 +1,54 @@
+{
+  "id": "2026-10-26",
+  "date": "2026-10-26",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXX Thường Niên",
+  "weekNumber": 30,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Ba Mươi Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 4,
+      "startVerse": 32,
+      "endChapter": 5,
+      "endVerse": 8,
+      "displayReference": "Ep 4, 32 – 5, 8",
+      "sourceCitation": "Ephesians 4:32—5:8",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 6,
+      "displayReference": "Tv 1, 1-4.6",
+      "sourceCitation": "Psalm 1:1-2, 3, 4, 6",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 13,
+      "startVerse": 10,
+      "endChapter": 13,
+      "endVerse": 17,
+      "displayReference": "Lc 13, 10-17",
+      "sourceCitation": "Luke 13:10-17",
+      "type": "gospel"
+    }
+  ]
+}

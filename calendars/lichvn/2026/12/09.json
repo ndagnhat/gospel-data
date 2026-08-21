@@ -1,0 +1,49 @@
+{
+  "id": "2026-12-09",
+  "date": "2026-12-09",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần II Mùa Vọng",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Gio-an Đi-ê-gô",
+  "saintOfDay": "Thánh Gio-an Đi-ê-gô",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Hai Mùa Vọng"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 40,
+      "startVerse": 25,
+      "endChapter": 40,
+      "endVerse": 31,
+      "displayReference": "Is 40, 25-31",
+      "sourceCitation": "Isaiah 40:25-31",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 103,
+      "startVerse": 1,
+      "endChapter": 103,
+      "endVerse": 4,
+      "displayReference": "Tv 103, 1-4",
+      "sourceCitation": "Psalm 103:1-2, 3-4, 8 and 10",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 11,
+      "startVerse": 28,
+      "endChapter": 11,
+      "endVerse": 30,
+      "displayReference": "Mt 11, 28-30",
+      "sourceCitation": "Matthew 11:28-30",
+      "type": "gospel"
+    }
+  ]
+}

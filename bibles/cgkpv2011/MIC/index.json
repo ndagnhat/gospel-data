@@ -1,0 +1,40 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "MIC",
+  "name": "Mi-kha",
+  "abbreviation": "Mk",
+  "sortOrder": 40,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 7,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 20
+    }
+  ]
+}

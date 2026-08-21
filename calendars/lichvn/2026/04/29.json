@@ -1,0 +1,52 @@
+{
+  "id": "2026-04-29",
+  "date": "2026-04-29",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần IV Mùa Phục Sinh",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Ca-ta-ri-na Si-ê-na, trinh nữ, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Ca-ta-ri-na Si-ê-na, trinh nữ, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 12,
+      "startVerse": 24,
+      "endChapter": 13,
+      "endVerse": 5,
+      "displayReference": "Cv 12, 24 – 13, 5",
+      "sourceCitation": "Acts 12:24—13:5a",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 67,
+      "startVerse": 2,
+      "endChapter": 67,
+      "endVerse": 5,
+      "displayReference": "Tv 67, 2-3.5",
+      "sourceCitation": "Psalm 67:2-3, 5, 6 and 8",
+      "selectedVerses": [
+        2,
+        3,
+        5
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 12,
+      "startVerse": 44,
+      "endChapter": 12,
+      "endVerse": 50,
+      "displayReference": "Ga 12, 44-50",
+      "sourceCitation": "John 12:44-50",
+      "type": "gospel"
+    }
+  ]
+}

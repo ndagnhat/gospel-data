@@ -1,0 +1,67 @@
+{
+  "id": "2026-09-13",
+  "date": "2026-09-13",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIII Thường Niên",
+  "weekNumber": 23,
+  "psalterWeek": 4,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Hai Mươi-Tư Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "SIR",
+      "startChapter": 27,
+      "startVerse": 30,
+      "endChapter": 28,
+      "endVerse": 7,
+      "displayReference": "Hc 27, 30 – 28, 7",
+      "sourceCitation": "Sirach 27:30—28:7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 103,
+      "startVerse": 1,
+      "endChapter": 103,
+      "endVerse": 12,
+      "displayReference": "Tv 103, 1-4.9-12",
+      "sourceCitation": "Psalm 103:1-2, 3-4, 9-10, 11-12",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        10,
+        11,
+        12
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 14,
+      "startVerse": 7,
+      "endChapter": 14,
+      "endVerse": 9,
+      "displayReference": "Rm 14, 7-9",
+      "sourceCitation": "Romans 14:7-9",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 18,
+      "startVerse": 21,
+      "endChapter": 18,
+      "endVerse": 35,
+      "displayReference": "Mt 18, 21-35",
+      "sourceCitation": "Matthew 18:21-35",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2026-02-20",
+  "date": "2026-02-20",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Mùa Chay",
+  "weekNumber": null,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu sau Thứ Tư Lễ Tro",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 58,
+      "startVerse": 1,
+      "endChapter": 58,
+      "endVerse": 9,
+      "displayReference": "Is 58, 1-9",
+      "sourceCitation": "Isaiah 58:1-9a",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 51,
+      "startVerse": 3,
+      "endChapter": 51,
+      "endVerse": 19,
+      "displayReference": "Tv 51, 3-4.18-19",
+      "sourceCitation": "Psalm 51:3-4, 5-6ab, 18-19",
+      "selectedVerses": [
+        3,
+        4,
+        18,
+        19
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 9,
+      "startVerse": 14,
+      "endChapter": 9,
+      "endVerse": 15,
+      "displayReference": "Mt 9, 14-15",
+      "sourceCitation": "Matthew 9:14-15",
+      "type": "gospel"
+    }
+  ]
+}

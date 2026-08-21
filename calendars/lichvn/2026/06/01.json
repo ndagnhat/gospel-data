@@ -1,0 +1,54 @@
+{
+  "id": "2026-06-01",
+  "date": "2026-06-01",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IX Thường Niên",
+  "weekNumber": 9,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Giút-ti-nô, tử đạo",
+  "saintOfDay": "Thánh Giút-ti-nô, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "2PE",
+      "startChapter": 1,
+      "startVerse": 2,
+      "endChapter": 1,
+      "endVerse": 7,
+      "displayReference": "2Pr 1, 2-7",
+      "sourceCitation": "2 Peter 1:2-7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 91,
+      "startVerse": 1,
+      "endChapter": 91,
+      "endVerse": 16,
+      "displayReference": "Tv 91, 1-2.14-16",
+      "sourceCitation": "Psalm 91:1-2, 14-15b, 15c-16",
+      "selectedVerses": [
+        1,
+        2,
+        14,
+        15,
+        16
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 12,
+      "startVerse": 1,
+      "endChapter": 12,
+      "endVerse": 12,
+      "displayReference": "Mc 12, 1-12",
+      "sourceCitation": "Mark 12:1-12",
+      "type": "gospel"
+    }
+  ]
+}

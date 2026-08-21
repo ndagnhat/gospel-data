@@ -1,0 +1,60 @@
+{
+  "id": "2026-11-08",
+  "date": "2026-11-08",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXI Thường Niên",
+  "weekNumber": 31,
+  "psalterWeek": 4,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Ba Mươi-Hai Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "WIS",
+      "startChapter": 6,
+      "startVerse": 12,
+      "endChapter": 6,
+      "endVerse": 16,
+      "displayReference": "Kn 6, 12-16",
+      "sourceCitation": "Wisdom 6:12-16",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 63,
+      "startVerse": 2,
+      "endChapter": 63,
+      "endVerse": 8,
+      "displayReference": "Tv 63, 2-8",
+      "sourceCitation": "Psalm 63:2, 3-4, 5-6, 7-8",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1TH",
+      "startChapter": 4,
+      "startVerse": 13,
+      "endChapter": 4,
+      "endVerse": 18,
+      "displayReference": "1Tx 4, 13-18",
+      "sourceCitation": "1 Thessalonians 4:13-18",
+      "type": "second_reading",
+      "alternatives": [
+        "1Tx 4, 13-14"
+      ]
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 25,
+      "startVerse": 1,
+      "endChapter": 25,
+      "endVerse": 13,
+      "displayReference": "Mt 25, 1-13",
+      "sourceCitation": "Matthew 25:1-13",
+      "type": "gospel"
+    }
+  ]
+}

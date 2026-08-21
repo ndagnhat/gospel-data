@@ -1,0 +1,60 @@
+{
+  "id": "2026-12-21",
+  "date": "2026-12-21",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần IV Mùa Vọng",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Phe-rô Ca-na-xi-ô, linh mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Phe-rô Ca-na-xi-ô, linh mục, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "21 tháng 12 Mùa Vọng"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "SNG",
+      "startChapter": 2,
+      "startVerse": 8,
+      "endChapter": 2,
+      "endVerse": 14,
+      "displayReference": "Dc 2, 8-14",
+      "sourceCitation": "Song of Songs 2:8-14",
+      "type": "first_reading",
+      "alternatives": [
+        "Xp 3, 14-18"
+      ]
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 2,
+      "endChapter": 33,
+      "endVerse": 21,
+      "displayReference": "Tv 33, 2-3.11-12.20-21",
+      "sourceCitation": "Psalm 33:2-3, 11-12, 20-21",
+      "selectedVerses": [
+        2,
+        3,
+        11,
+        12,
+        20,
+        21
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 39,
+      "endChapter": 1,
+      "endVerse": 45,
+      "displayReference": "Lc 1, 39-45",
+      "sourceCitation": "Luke 1:39-45",
+      "type": "gospel"
+    }
+  ]
+}

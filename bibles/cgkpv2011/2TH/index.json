@@ -1,0 +1,24 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "2TH",
+  "name": "Thư 2 Thê-xa-lô-ni-ca",
+  "abbreviation": "2Tx",
+  "sortOrder": 60,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 18
+    }
+  ]
+}

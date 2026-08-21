@@ -1,0 +1,36 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "EPH",
+  "name": "Thư Ê-phê-xô",
+  "abbreviation": "Ep",
+  "sortOrder": 56,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 6,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 24
+    }
+  ]
+}

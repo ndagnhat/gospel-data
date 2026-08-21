@@ -1,0 +1,69 @@
+{
+  "id": "2026-03-17",
+  "date": "2026-03-17",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần IV Mùa Chay",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Pát-tric, giám mục",
+  "saintOfDay": "Thánh Pát-tric, giám mục",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Tư Mùa Chay"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 47,
+      "startVerse": 1,
+      "endChapter": 47,
+      "endVerse": 12,
+      "displayReference": "Ed 47, 1-9.12",
+      "sourceCitation": "Ezekiel 47:1-9, 12",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 46,
+      "startVerse": 2,
+      "endChapter": 46,
+      "endVerse": 9,
+      "displayReference": "Tv 46, 2-3.5-6.8-9",
+      "sourceCitation": "Psalm 46:2-3, 5-6, 8-9",
+      "selectedVerses": [
+        2,
+        3,
+        5,
+        6,
+        8,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 16,
+      "displayReference": "Ga 5, 1-16",
+      "sourceCitation": "John 5:1-16",
+      "type": "gospel"
+    }
+  ]
+}

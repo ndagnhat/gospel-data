@@ -1,0 +1,16 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "2JN",
+  "name": "Thư 2 Gio-an",
+  "abbreviation": "2Ga",
+  "sortOrder": 70,
+  "testament": "new",
+  "category": "letters_general",
+  "totalChapters": 1,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 13
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2026-12-11",
+  "date": "2026-12-11",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần II Mùa Vọng",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Đa-ma-xô I, giáo hoàng",
+  "saintOfDay": "Thánh Đa-ma-xô I, giáo hoàng",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Hai Mùa Vọng"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 48,
+      "startVerse": 17,
+      "endChapter": 48,
+      "endVerse": 19,
+      "displayReference": "Is 48, 17-19",
+      "sourceCitation": "Isaiah 48:17-19",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 3,
+      "displayReference": "Tv 1, 1-3",
+      "sourceCitation": "Psalm 1:1-2, 3, 4 and 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 11,
+      "startVerse": 16,
+      "endChapter": 11,
+      "endVerse": 19,
+      "displayReference": "Mt 11, 16-19",
+      "sourceCitation": "Matthew 11:16-19",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2026-04-28",
+  "date": "2026-04-28",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần IV Mùa Phục Sinh",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Lu-i đơ Mông-pho, linh mục",
+  "saintOfDay": "Thánh Lu-i đơ Mông-pho, linh mục",
+  "commemorations": [
+    "Thánh Phê-rô Sa-nen, linh mục, tử đạo",
+    "Thứ Ba trong tuần thứ Tư Mùa Phục Sinh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 11,
+      "startVerse": 19,
+      "endChapter": 11,
+      "endVerse": 26,
+      "displayReference": "Cv 11, 19-26",
+      "sourceCitation": "Acts 11:19-26",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 87,
+      "startVerse": 1,
+      "endChapter": 87,
+      "endVerse": 7,
+      "displayReference": "Tv 87, 1-7",
+      "sourceCitation": "Psalm 87:1b-3, 4-5, 6-7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 10,
+      "startVerse": 22,
+      "endChapter": 10,
+      "endVerse": 30,
+      "displayReference": "Ga 10, 22-30",
+      "sourceCitation": "John 10:22-30",
+      "type": "gospel"
+    }
+  ]
+}

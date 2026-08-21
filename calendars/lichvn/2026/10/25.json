@@ -1,0 +1,64 @@
+{
+  "id": "2026-10-25",
+  "date": "2026-10-25",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIX Thường Niên",
+  "weekNumber": 29,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Ba Mươi Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "EXO",
+      "startChapter": 22,
+      "startVerse": 20,
+      "endChapter": 22,
+      "endVerse": 26,
+      "displayReference": "Xh 22, 20-26",
+      "sourceCitation": "Exodus 22:20-26",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 18,
+      "startVerse": 2,
+      "endChapter": 18,
+      "endVerse": 51,
+      "displayReference": "Tv 18, 2-4.47.51",
+      "sourceCitation": "Psalm 18:2-3, 3-4, 47, 51",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        47,
+        51
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1TH",
+      "startChapter": 1,
+      "startVerse": 5,
+      "endChapter": 1,
+      "endVerse": 10,
+      "displayReference": "1Tx 1, 5-10",
+      "sourceCitation": "1 Thessalonians 1:5c-10",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 22,
+      "startVerse": 34,
+      "endChapter": 22,
+      "endVerse": 40,
+      "displayReference": "Mt 22, 34-40",
+      "sourceCitation": "Matthew 22:34-40",
+      "type": "gospel"
+    }
+  ]
+}

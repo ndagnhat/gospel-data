@@ -1,0 +1,79 @@
+{
+  "id": "2026-07-26",
+  "date": "2026-07-26",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVI Thường Niên",
+  "weekNumber": 16,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Mười Bảy Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 3,
+      "startVerse": 5,
+      "endChapter": 3,
+      "endVerse": 12,
+      "displayReference": "1V 3, 5.7-12",
+      "sourceCitation": "1 Kings 3:5, 7-12",
+      "selectedVerses": [
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 57,
+      "endChapter": 119,
+      "endVerse": 130,
+      "displayReference": "Tv 119, 57.72.76-77.127-130",
+      "sourceCitation": "Psalm 119:57, 72, 76-77, 127-128, 129-130",
+      "selectedVerses": [
+        57,
+        72,
+        76,
+        77,
+        127,
+        128,
+        129,
+        130
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 8,
+      "startVerse": 28,
+      "endChapter": 8,
+      "endVerse": 30,
+      "displayReference": "Rm 8, 28-30",
+      "sourceCitation": "Romans 8:28-30",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 44,
+      "endChapter": 13,
+      "endVerse": 52,
+      "displayReference": "Mt 13, 44-52",
+      "sourceCitation": "Matthew 13:44-52",
+      "type": "gospel",
+      "alternatives": [
+        "Mt 13, 44-46"
+      ]
+    }
+  ]
+}

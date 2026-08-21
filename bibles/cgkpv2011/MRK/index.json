@@ -1,0 +1,76 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "MRK",
+  "name": "Tin Mừng Mác-cô",
+  "abbreviation": "Mc",
+  "sortOrder": 48,
+  "testament": "new",
+  "category": "gospel",
+  "totalChapters": 16,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 45
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 41
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 43
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 56
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 50
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 52
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 44
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 72
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 47
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 20
+    }
+  ]
+}

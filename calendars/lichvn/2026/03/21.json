@@ -1,0 +1,53 @@
+{
+  "id": "2026-03-21",
+  "date": "2026-03-21",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần IV Mùa Chay",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thứ Bảy trong tuần thứ Tư Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 11,
+      "startVerse": 18,
+      "endChapter": 11,
+      "endVerse": 20,
+      "displayReference": "Gr 11, 18-20",
+      "sourceCitation": "Jeremiah 11:18-20",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 7,
+      "startVerse": 2,
+      "endChapter": 7,
+      "endVerse": 12,
+      "displayReference": "Tv 7, 2-3.11-12",
+      "sourceCitation": "Psalm 7:2-3, 9bc-10, 11-12",
+      "selectedVerses": [
+        2,
+        3,
+        11,
+        12
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 7,
+      "startVerse": 40,
+      "endChapter": 7,
+      "endVerse": 53,
+      "displayReference": "Ga 7, 40-53",
+      "sourceCitation": "John 7:40-53",
+      "type": "gospel"
+    }
+  ]
+}

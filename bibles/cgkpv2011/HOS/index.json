@@ -1,0 +1,68 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "HOS",
+  "name": "Hô-sê",
+  "abbreviation": "Hs",
+  "sortOrder": 35,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 14,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 5
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 10
+    }
+  ]
+}

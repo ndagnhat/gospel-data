@@ -1,0 +1,32 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1PE",
+  "name": "Thư 1 Phê-rô",
+  "abbreviation": "1Pr",
+  "sortOrder": 67,
+  "testament": "new",
+  "category": "letters_general",
+  "totalChapters": 5,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 14
+    }
+  ]
+}

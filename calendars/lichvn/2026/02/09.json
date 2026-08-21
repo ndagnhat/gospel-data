@@ -1,0 +1,61 @@
+{
+  "id": "2026-02-09",
+  "date": "2026-02-09",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần V Thường Niên",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Năm Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 8,
+      "startVerse": 1,
+      "endChapter": 8,
+      "endVerse": 13,
+      "displayReference": "1V 8, 1-7.9-13",
+      "sourceCitation": "1 Kings 8:1-7, 9-13",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 132,
+      "startVerse": 6,
+      "endChapter": 132,
+      "endVerse": 10,
+      "displayReference": "Tv 132, 6-10",
+      "sourceCitation": "Psalm 132:6-7, 8-10",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 6,
+      "startVerse": 53,
+      "endChapter": 6,
+      "endVerse": 56,
+      "displayReference": "Mc 6, 53-56",
+      "sourceCitation": "Mark 6:53-56",
+      "type": "gospel"
+    }
+  ]
+}

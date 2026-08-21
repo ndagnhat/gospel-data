@@ -1,0 +1,74 @@
+{
+  "id": "2026-05-24",
+  "date": "2026-05-24",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VIII Mùa Phục Sinh",
+  "weekNumber": 8,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Lễ Chúa Thánh Thần Hiện Xuống",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "red",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 11,
+      "displayReference": "Cv 2, 1-11",
+      "sourceCitation": "Acts 2:1-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 104,
+      "startVerse": 1,
+      "endChapter": 104,
+      "endVerse": 34,
+      "displayReference": "Tv 104, 1.24.29-31.34",
+      "sourceCitation": "Psalm 104:1, 24, 29-30, 31, 34",
+      "selectedVerses": [
+        1,
+        24,
+        29,
+        30,
+        31,
+        34
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1CO",
+      "startChapter": 12,
+      "startVerse": 3,
+      "endChapter": 12,
+      "endVerse": 13,
+      "displayReference": "1Cr 12, 3-7.12-13",
+      "sourceCitation": "1 Corinthians 12:3b-7, 12-13",
+      "selectedVerses": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        12,
+        13
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 20,
+      "startVerse": 19,
+      "endChapter": 20,
+      "endVerse": 23,
+      "displayReference": "Ga 20, 19-23",
+      "sourceCitation": "John 20:19-23",
+      "type": "gospel"
+    }
+  ]
+}

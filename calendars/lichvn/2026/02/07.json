@@ -1,0 +1,49 @@
+{
+  "id": "2026-02-07",
+  "date": "2026-02-07",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IV Thường Niên",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Đức Mẹ ngày thứ bảy",
+  "saintOfDay": "Lễ Đức Mẹ ngày thứ bảy",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Tư Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 3,
+      "startVerse": 4,
+      "endChapter": 3,
+      "endVerse": 13,
+      "displayReference": "1V 3, 4-13",
+      "sourceCitation": "1 Kings 3:4-13",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 9,
+      "endChapter": 119,
+      "endVerse": 14,
+      "displayReference": "Tv 119, 9-14",
+      "sourceCitation": "Psalm 119:9, 10, 11, 12, 13, 14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 6,
+      "startVerse": 30,
+      "endChapter": 6,
+      "endVerse": 34,
+      "displayReference": "Mc 6, 30-34",
+      "sourceCitation": "Mark 6:30-34",
+      "type": "gospel"
+    }
+  ]
+}

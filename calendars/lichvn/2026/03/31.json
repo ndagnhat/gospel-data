@@ -1,0 +1,65 @@
+{
+  "id": "2026-03-31",
+  "date": "2026-03-31",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần VI Mùa Chay",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba Tuần Thánh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 49,
+      "startVerse": 1,
+      "endChapter": 49,
+      "endVerse": 6,
+      "displayReference": "Is 49, 1-6",
+      "sourceCitation": "Isaiah 49:1-6",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 71,
+      "startVerse": 1,
+      "endChapter": 71,
+      "endVerse": 4,
+      "displayReference": "Tv 71, 1-4",
+      "sourceCitation": "Psalm 71:1-2, 3-4a, 5ab-6ab, 15 and 17",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 13,
+      "startVerse": 21,
+      "endChapter": 13,
+      "endVerse": 38,
+      "displayReference": "Ga 13, 21-33.36-38",
+      "sourceCitation": "John 13:21-33, 36-38",
+      "selectedVerses": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        36,
+        37,
+        38
+      ],
+      "type": "gospel"
+    }
+  ]
+}

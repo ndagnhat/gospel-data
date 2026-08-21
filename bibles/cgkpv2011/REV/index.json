@@ -1,0 +1,100 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "REV",
+  "name": "Khải Huyền",
+  "abbreviation": "Kh",
+  "sortOrder": 73,
+  "testament": "new",
+  "category": "revelation",
+  "totalChapters": 22,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 21
+    }
+  ]
+}

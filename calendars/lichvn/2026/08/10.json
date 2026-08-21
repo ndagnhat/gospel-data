@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-10",
+  "date": "2026-08-10",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIX Thường Niên",
+  "weekNumber": 19,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Lô-ren-xô, phó tế, tử đạo",
+  "saintOfDay": "Thánh Lô-ren-xô, phó tế, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "2CO",
+      "startChapter": 9,
+      "startVerse": 6,
+      "endChapter": 9,
+      "endVerse": 10,
+      "displayReference": "2Cr 9, 6-10",
+      "sourceCitation": "2 Corinthians 9:6-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 112,
+      "startVerse": 1,
+      "endChapter": 112,
+      "endVerse": 9,
+      "displayReference": "Tv 112, 1-2.5-9",
+      "sourceCitation": "Psalm 112:1-2, 5-6, 7-8, 9",
+      "selectedVerses": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 12,
+      "startVerse": 24,
+      "endChapter": 12,
+      "endVerse": 26,
+      "displayReference": "Ga 12, 24-26",
+      "sourceCitation": "John 12:24-26",
+      "type": "gospel"
+    }
+  ]
+}

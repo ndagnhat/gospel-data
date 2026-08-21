@@ -1,0 +1,64 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "HEB",
+  "name": "Thư Híp-ri",
+  "abbreviation": "Dt",
+  "sortOrder": 65,
+  "testament": "new",
+  "category": "letters_general",
+  "totalChapters": 13,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 39
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 25
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2026-09-11",
+  "date": "2026-09-11",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIII Thường Niên",
+  "weekNumber": 23,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 9,
+      "startVerse": 16,
+      "endChapter": 9,
+      "endVerse": 27,
+      "displayReference": "1Cr 9, 16-19.22-27",
+      "sourceCitation": "1 Corinthians 9:16-19, 22b-27",
+      "selectedVerses": [
+        16,
+        17,
+        18,
+        19,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 84,
+      "startVerse": 3,
+      "endChapter": 84,
+      "endVerse": 12,
+      "displayReference": "Tv 84, 3-6.12",
+      "sourceCitation": "Psalm 84:3, 4, 5-6, 12",
+      "selectedVerses": [
+        3,
+        4,
+        5,
+        6,
+        12
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 6,
+      "startVerse": 39,
+      "endChapter": 6,
+      "endVerse": 42,
+      "displayReference": "Lc 6, 39-42",
+      "sourceCitation": "Luke 6:39-42",
+      "type": "gospel"
+    }
+  ]
+}

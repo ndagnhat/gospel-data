@@ -1,0 +1,55 @@
+{
+  "id": "2026-01-15",
+  "date": "2026-01-15",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần I Thường Niên",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Nhất Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1SA",
+      "startChapter": 4,
+      "startVerse": 1,
+      "endChapter": 4,
+      "endVerse": 11,
+      "displayReference": "1Sm 4, 1-11",
+      "sourceCitation": "1 Samuel 4:1-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 44,
+      "startVerse": 10,
+      "endChapter": 44,
+      "endVerse": 25,
+      "displayReference": "Tv 44, 10-11.14-15.24-25",
+      "sourceCitation": "Psalm 44:10-11, 14-15, 24-25",
+      "selectedVerses": [
+        10,
+        11,
+        14,
+        15,
+        24,
+        25
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 1,
+      "startVerse": 40,
+      "endChapter": 1,
+      "endVerse": 45,
+      "displayReference": "Mc 1, 40-45",
+      "sourceCitation": "Mark 1:40-45",
+      "type": "gospel"
+    }
+  ]
+}

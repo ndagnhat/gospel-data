@@ -1,0 +1,49 @@
+{
+  "id": "2026-08-19",
+  "date": "2026-08-19",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XX Thường Niên",
+  "weekNumber": 20,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Gio-an Ơ-đơ, linh mục",
+  "saintOfDay": "Thánh Gio-an Ơ-đơ, linh mục",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Hai Mươi Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 34,
+      "startVerse": 1,
+      "endChapter": 34,
+      "endVerse": 11,
+      "displayReference": "Ed 34, 1-11",
+      "sourceCitation": "Ezekiel 34:1-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 23,
+      "startVerse": 1,
+      "endChapter": 23,
+      "endVerse": 6,
+      "displayReference": "Tv 23, 1-6",
+      "sourceCitation": "Psalm 23:1-3a, 3b-4, 5, 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 20,
+      "startVerse": 1,
+      "endChapter": 20,
+      "endVerse": 16,
+      "displayReference": "Mt 20, 1-16",
+      "sourceCitation": "Matthew 20:1-16",
+      "type": "gospel"
+    }
+  ]
+}

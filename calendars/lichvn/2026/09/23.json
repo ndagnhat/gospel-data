@@ -1,0 +1,55 @@
+{
+  "id": "2026-09-23",
+  "date": "2026-09-23",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXV Thường Niên",
+  "weekNumber": 25,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Pi-ô thành Pi-e-tren-ci-na, linh mục",
+  "saintOfDay": "Thánh Pi-ô thành Pi-e-tren-ci-na, linh mục",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "PRO",
+      "startChapter": 30,
+      "startVerse": 5,
+      "endChapter": 30,
+      "endVerse": 9,
+      "displayReference": "Cn 30, 5-9",
+      "sourceCitation": "Proverbs 30:5-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 29,
+      "endChapter": 119,
+      "endVerse": 163,
+      "displayReference": "Tv 119, 29.72.89.101.104.163",
+      "sourceCitation": "Psalm 119:29, 72, 89, 101, 104, 163",
+      "selectedVerses": [
+        29,
+        72,
+        89,
+        101,
+        104,
+        163
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 9,
+      "startVerse": 1,
+      "endChapter": 9,
+      "endVerse": 6,
+      "displayReference": "Lc 9, 1-6",
+      "sourceCitation": "Luke 9:1-6",
+      "type": "gospel"
+    }
+  ]
+}

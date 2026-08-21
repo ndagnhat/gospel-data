@@ -1,0 +1,66 @@
+{
+  "id": "2026-08-30",
+  "date": "2026-08-30",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXI Thường Niên",
+  "weekNumber": 21,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Hai Mươi-Hai Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 20,
+      "startVerse": 7,
+      "endChapter": 20,
+      "endVerse": 9,
+      "displayReference": "Gr 20, 7-9",
+      "sourceCitation": "Jeremiah 20:7-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 63,
+      "startVerse": 2,
+      "endChapter": 63,
+      "endVerse": 9,
+      "displayReference": "Tv 63, 2-6.8-9",
+      "sourceCitation": "Psalm 63:2, 3-4, 5-6, 8-9",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 12,
+      "startVerse": 1,
+      "endChapter": 12,
+      "endVerse": 2,
+      "displayReference": "Rm 12, 1-2",
+      "sourceCitation": "Romans 12:1-2",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 16,
+      "startVerse": 21,
+      "endChapter": 16,
+      "endVerse": 27,
+      "displayReference": "Mt 16, 21-27",
+      "sourceCitation": "Matthew 16:21-27",
+      "type": "gospel"
+    }
+  ]
+}

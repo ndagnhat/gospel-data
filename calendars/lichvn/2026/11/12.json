@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXII Thường Niên",
+  "weekNumber": 32,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Giô-sa-phát, giám mục, tử đạo",
+  "saintOfDay": "Thánh Giô-sa-phát, giám mục, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "PSA",
+      "startChapter": 146,
+      "startVerse": 7,
+      "endChapter": 146,
+      "endVerse": 9,
+      "displayReference": "Tv 146, 7-9",
+      "sourceCitation": "Psalm 146:7, 8-9a, 9bc-10",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 17,
+      "startVerse": 20,
+      "endChapter": 17,
+      "endVerse": 25,
+      "displayReference": "Lc 17, 20-25",
+      "sourceCitation": "Luke 17:20-25",
+      "type": "gospel"
+    }
+  ]
+}

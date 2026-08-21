@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-19",
+  "date": "2026-10-19",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIX Thường Niên",
+  "weekNumber": 29,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Gio-an Bơ-rê-bớp, và thánh I-xa-ác Gio-gơ, linh mục và các bạn, tử đạo",
+  "saintOfDay": "Thánh Gio-an Bơ-rê-bớp, và thánh I-xa-ác Gio-gơ, linh mục và các bạn, tử đạo",
+  "commemorations": [
+    "Thánh Phao-lô Thánh Giá, linh mục",
+    "Thứ Hai trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 10,
+      "displayReference": "Ep 2, 1-10",
+      "sourceCitation": "Ephesians 2:1-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 100,
+      "startVerse": 1,
+      "endChapter": 100,
+      "endVerse": 5,
+      "displayReference": "Tv 100, 1-5",
+      "sourceCitation": "Psalm 100:1b-2, 3, 4ab, 4c-5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 12,
+      "startVerse": 13,
+      "endChapter": 12,
+      "endVerse": 21,
+      "displayReference": "Lc 12, 13-21",
+      "sourceCitation": "Luke 12:13-21",
+      "type": "gospel"
+    }
+  ]
+}

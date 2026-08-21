@@ -1,0 +1,39 @@
+{
+  "id": "2026-05-18",
+  "date": "2026-05-18",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VII Mùa Phục Sinh",
+  "weekNumber": 7,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Gio-an I, giáo hoàng, tử đạo",
+  "saintOfDay": "Thánh Gio-an I, giáo hoàng, tử đạo",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Bảy Mùa Phục Sinh"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 19,
+      "startVerse": 1,
+      "endChapter": 19,
+      "endVerse": 8,
+      "displayReference": "Cv 19, 1-8",
+      "sourceCitation": "Acts 19:1-8",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 16,
+      "startVerse": 29,
+      "endChapter": 16,
+      "endVerse": 33,
+      "displayReference": "Ga 16, 29-33",
+      "sourceCitation": "John 16:29-33",
+      "type": "gospel"
+    }
+  ]
+}

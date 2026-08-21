@@ -1,0 +1,53 @@
+{
+  "id": "2026-04-17",
+  "date": "2026-04-17",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần II Mùa Phục Sinh",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Hai Mùa Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 5,
+      "startVerse": 34,
+      "endChapter": 5,
+      "endVerse": 42,
+      "displayReference": "Cv 5, 34-42",
+      "sourceCitation": "Acts 5:34-42",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 27,
+      "startVerse": 1,
+      "endChapter": 27,
+      "endVerse": 14,
+      "displayReference": "Tv 27, 1.4.13-14",
+      "sourceCitation": "Psalm 27:1, 4, 13-14",
+      "selectedVerses": [
+        1,
+        4,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 6,
+      "startVerse": 1,
+      "endChapter": 6,
+      "endVerse": 15,
+      "displayReference": "Ga 6, 1-15",
+      "sourceCitation": "John 6:1-15",
+      "type": "gospel"
+    }
+  ]
+}

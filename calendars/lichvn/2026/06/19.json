@@ -1,0 +1,74 @@
+{
+  "id": "2026-06-19",
+  "date": "2026-06-19",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XI Thường Niên",
+  "weekNumber": 11,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Rô-moan-đô, viện phụ",
+  "saintOfDay": "Thánh Rô-moan-đô, viện phụ",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Mười Một Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "2KI",
+      "startChapter": 11,
+      "startVerse": 1,
+      "endChapter": 11,
+      "endVerse": 20,
+      "displayReference": "2V 11, 1-4.9-18.20",
+      "sourceCitation": "2 Kings 11:1-4, 9-18, 20",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 132,
+      "startVerse": 11,
+      "endChapter": 132,
+      "endVerse": 18,
+      "displayReference": "Tv 132, 11-14.17-18",
+      "sourceCitation": "Psalm 132:11, 12, 13-14, 17-18",
+      "selectedVerses": [
+        11,
+        12,
+        13,
+        14,
+        17,
+        18
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 6,
+      "startVerse": 19,
+      "endChapter": 6,
+      "endVerse": 23,
+      "displayReference": "Mt 6, 19-23",
+      "sourceCitation": "Matthew 6:19-23",
+      "type": "gospel"
+    }
+  ]
+}

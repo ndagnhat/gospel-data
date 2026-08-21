@@ -1,0 +1,47 @@
+{
+  "id": "2026-08-21",
+  "date": "2026-08-21",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XX Thường Niên",
+  "weekNumber": 20,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Piô X, giáo hoàng",
+  "saintOfDay": "Thánh Piô X, giáo hoàng",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 37,
+      "startVerse": 1,
+      "endChapter": 37,
+      "endVerse": 14,
+      "displayReference": "Ed 37, 1-14",
+      "sourceCitation": "Ezekiel 37:1-14",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 107,
+      "startVerse": 2,
+      "endChapter": 107,
+      "endVerse": 9,
+      "displayReference": "Tv 107, 2-9",
+      "sourceCitation": "Psalm 107:2-3, 4-5, 6-7, 8-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 22,
+      "startVerse": 34,
+      "endChapter": 22,
+      "endVerse": 40,
+      "displayReference": "Mt 22, 34-40",
+      "sourceCitation": "Matthew 22:34-40",
+      "type": "gospel"
+    }
+  ]
+}

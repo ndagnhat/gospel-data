@@ -1,0 +1,47 @@
+{
+  "id": "2026-04-09",
+  "date": "2026-04-09",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần I Mùa Phục Sinh",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần Bát Nhật Lễ Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 3,
+      "startVerse": 11,
+      "endChapter": 3,
+      "endVerse": 26,
+      "displayReference": "Cv 3, 11-26",
+      "sourceCitation": "Acts 3:11-26",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 6,
+      "endChapter": 1,
+      "endVerse": 9,
+      "displayReference": "Tv 1, 6-9",
+      "sourceCitation": "Psalm 8:2ab and 5, 6-7, 8-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 24,
+      "startVerse": 35,
+      "endChapter": 24,
+      "endVerse": 48,
+      "displayReference": "Lc 24, 35-48",
+      "sourceCitation": "Luke 24:35-48",
+      "type": "gospel"
+    }
+  ]
+}

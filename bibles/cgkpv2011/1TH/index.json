@@ -1,0 +1,32 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1TH",
+  "name": "Thư 1 Thê-xa-lô-ni-ca",
+  "abbreviation": "1Tx",
+  "sortOrder": 59,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 5,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 28
+    }
+  ]
+}

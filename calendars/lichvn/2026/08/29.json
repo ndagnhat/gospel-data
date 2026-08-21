@@ -1,0 +1,55 @@
+{
+  "id": "2026-08-29",
+  "date": "2026-08-29",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXI Thường Niên",
+  "weekNumber": 21,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Gio-an Tẩy Giả bị trảm quyết",
+  "saintOfDay": "Thánh Gio-an Tẩy Giả bị trảm quyết",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 1,
+      "startVerse": 26,
+      "endChapter": 1,
+      "endVerse": 31,
+      "displayReference": "1Cr 1, 26-31",
+      "sourceCitation": "1 Corinthians 1:26-31",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 12,
+      "endChapter": 33,
+      "endVerse": 21,
+      "displayReference": "Tv 33, 12-13.18-21",
+      "sourceCitation": "Psalm 33:12-13, 18-19, 20-21",
+      "selectedVerses": [
+        12,
+        13,
+        18,
+        19,
+        20,
+        21
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 6,
+      "startVerse": 17,
+      "endChapter": 6,
+      "endVerse": 29,
+      "displayReference": "Mc 6, 17-29",
+      "sourceCitation": "Mark 6:17-29",
+      "type": "gospel"
+    }
+  ]
+}

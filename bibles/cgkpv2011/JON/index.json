@@ -1,0 +1,28 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "JON",
+  "name": "Giô-na",
+  "abbreviation": "Gn",
+  "sortOrder": 39,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 11
+    }
+  ]
+}

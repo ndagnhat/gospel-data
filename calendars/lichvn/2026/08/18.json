@@ -1,0 +1,47 @@
+{
+  "id": "2026-08-18",
+  "date": "2026-08-18",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XX Thường Niên",
+  "weekNumber": 20,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Hai Mươi Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 28,
+      "startVerse": 1,
+      "endChapter": 28,
+      "endVerse": 10,
+      "displayReference": "Ed 28, 1-10",
+      "sourceCitation": "Ezekiel 28:1-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "DEU",
+      "startChapter": 1,
+      "startVerse": 30,
+      "endChapter": 1,
+      "endVerse": 30,
+      "displayReference": "Đnl 1, 30",
+      "sourceCitation": "Deuteronomy 32:26-27ab, 27cd-28, 30, 35cd-36ab",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 19,
+      "startVerse": 23,
+      "endChapter": 19,
+      "endVerse": 30,
+      "displayReference": "Mt 19, 23-30",
+      "sourceCitation": "Matthew 19:23-30",
+      "type": "gospel"
+    }
+  ]
+}

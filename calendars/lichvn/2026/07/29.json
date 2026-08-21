@@ -1,0 +1,65 @@
+{
+  "id": "2026-07-29",
+  "date": "2026-07-29",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVII Thường Niên",
+  "weekNumber": 17,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh nữ Mác-ta, thánh nữ Ma-ri-a và thánh La-xa-rơ",
+  "saintOfDay": "Thánh nữ Mác-ta, thánh nữ Ma-ri-a và thánh La-xa-rơ",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 15,
+      "startVerse": 10,
+      "endChapter": 15,
+      "endVerse": 21,
+      "displayReference": "Gr 15, 10.16-21",
+      "sourceCitation": "Jeremiah 15:10, 16-21",
+      "selectedVerses": [
+        10,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 59,
+      "startVerse": 2,
+      "endChapter": 59,
+      "endVerse": 18,
+      "displayReference": "Tv 59, 2-4.10-11.17-18",
+      "sourceCitation": "Psalm 59:2-3, 4, 10-11, 17, 18",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        10,
+        11,
+        17,
+        18
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 11,
+      "startVerse": 19,
+      "endChapter": 11,
+      "endVerse": 27,
+      "displayReference": "Ga 11, 19-27",
+      "sourceCitation": "John 11:19-27",
+      "type": "gospel"
+    }
+  ]
+}

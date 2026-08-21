@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-21",
+  "date": "2026-10-21",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIX Thường Niên",
+  "weekNumber": 29,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 3,
+      "startVerse": 2,
+      "endChapter": 3,
+      "endVerse": 12,
+      "displayReference": "Ep 3, 2-12",
+      "sourceCitation": "Ephesians 3:2-12",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "ISA",
+      "startChapter": 12,
+      "startVerse": 2,
+      "endChapter": 12,
+      "endVerse": 6,
+      "displayReference": "Is 12, 2-6",
+      "sourceCitation": "Isaiah 12:2-3, 4bcd, 5-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 12,
+      "startVerse": 39,
+      "endChapter": 12,
+      "endVerse": 48,
+      "displayReference": "Lc 12, 39-48",
+      "sourceCitation": "Luke 12:39-48",
+      "type": "gospel"
+    }
+  ]
+}

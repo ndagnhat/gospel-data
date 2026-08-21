@@ -1,0 +1,28 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "COL",
+  "name": "Thư Cô-lô-xê",
+  "abbreviation": "Cl",
+  "sortOrder": 58,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 18
+    }
+  ]
+}

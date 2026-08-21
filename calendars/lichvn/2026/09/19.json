@@ -1,0 +1,63 @@
+{
+  "id": "2026-09-19",
+  "date": "2026-09-19",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIV Thường Niên",
+  "weekNumber": 24,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Gia-nu-a-ri-ô, giám mục, tử đạo",
+  "saintOfDay": "Thánh Gia-nu-a-ri-ô, giám mục, tử đạo",
+  "commemorations": [
+    "Lễ Đức Mẹ ngày thứ bảy",
+    "Thứ Bảy trong tuần thứ Hai Mươi-Tư Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 15,
+      "startVerse": 35,
+      "endChapter": 15,
+      "endVerse": 49,
+      "displayReference": "1Cr 15, 35-37.42-49",
+      "sourceCitation": "1 Corinthians 15:35-37, 42-49",
+      "selectedVerses": [
+        35,
+        36,
+        37,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 56,
+      "startVerse": 10,
+      "endChapter": 56,
+      "endVerse": 14,
+      "displayReference": "Tv 56, 10-14",
+      "sourceCitation": "Psalm 56:10c-12, 13-14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 8,
+      "startVerse": 4,
+      "endChapter": 8,
+      "endVerse": 15,
+      "displayReference": "Lc 8, 4-15",
+      "sourceCitation": "Luke 8:4-15",
+      "type": "gospel"
+    }
+  ]
+}

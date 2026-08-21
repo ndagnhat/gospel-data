@@ -1,0 +1,66 @@
+{
+  "id": "2026-03-15",
+  "date": "2026-03-15",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần IV Mùa Chay",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Tư Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "1SA",
+      "startChapter": 16,
+      "startVerse": 1,
+      "endChapter": 16,
+      "endVerse": 13,
+      "displayReference": "1Sm 16, 1.6-7.10-13",
+      "sourceCitation": "1 Samuel 16:1b, 6-7, 10-13a",
+      "selectedVerses": [
+        1,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 23,
+      "startVerse": 1,
+      "endChapter": 23,
+      "endVerse": 6,
+      "displayReference": "Tv 23, 1-6",
+      "sourceCitation": "Psalm 23: 1-3a, 3b-4, 5, 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "EPH",
+      "startChapter": 5,
+      "startVerse": 8,
+      "endChapter": 5,
+      "endVerse": 14,
+      "displayReference": "Ep 5, 8-14",
+      "sourceCitation": "Ephesians 5:8-14",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 9,
+      "startVerse": 1,
+      "endChapter": 9,
+      "endVerse": 41,
+      "displayReference": "Ga 9, 1-41",
+      "sourceCitation": "John 9:1-41",
+      "type": "gospel"
+    }
+  ]
+}

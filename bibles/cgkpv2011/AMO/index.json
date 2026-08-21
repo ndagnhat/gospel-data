@@ -1,0 +1,48 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "AMO",
+  "name": "A-mốt",
+  "abbreviation": "Am",
+  "sortOrder": 37,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 9,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 15
+    }
+  ]
+}

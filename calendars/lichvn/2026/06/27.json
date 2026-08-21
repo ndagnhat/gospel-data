@@ -1,0 +1,71 @@
+{
+  "id": "2026-06-27",
+  "date": "2026-06-27",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XII Thường Niên",
+  "weekNumber": 12,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Sy-ri-lô, giám mục A-lê-xan-ri, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Sy-ri-lô, giám mục A-lê-xan-ri, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Lễ Đức Mẹ ngày thứ bảy",
+    "Thứ Bảy trong tuần thứ Mười Hai Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "LAM",
+      "startChapter": 2,
+      "startVerse": 2,
+      "endChapter": 2,
+      "endVerse": 19,
+      "displayReference": "Ac 2, 2.10-14.18-19",
+      "sourceCitation": "Lamentations 2:2, 10-14, 18-19",
+      "selectedVerses": [
+        2,
+        10,
+        11,
+        12,
+        13,
+        14,
+        18,
+        19
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 74,
+      "startVerse": 1,
+      "endChapter": 74,
+      "endVerse": 21,
+      "displayReference": "Tv 74, 1-7.20-21",
+      "sourceCitation": "Psalm 74:1b-2, 3-5, 6-7, 20-21",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        20,
+        21
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 8,
+      "startVerse": 5,
+      "endChapter": 8,
+      "endVerse": 17,
+      "displayReference": "Mt 8, 5-17",
+      "sourceCitation": "Matthew 8:5-17",
+      "type": "gospel"
+    }
+  ]
+}

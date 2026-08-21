@@ -1,0 +1,47 @@
+{
+  "id": "2026-06-26",
+  "date": "2026-06-26",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XII Thường Niên",
+  "weekNumber": 12,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Mười Hai Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "2KI",
+      "startChapter": 25,
+      "startVerse": 1,
+      "endChapter": 25,
+      "endVerse": 12,
+      "displayReference": "2V 25, 1-12",
+      "sourceCitation": "2 Kings 25:1-12",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 137,
+      "startVerse": 1,
+      "endChapter": 137,
+      "endVerse": 6,
+      "displayReference": "Tv 137, 1-6",
+      "sourceCitation": "Psalm 137:1-2, 3, 4-5, 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 8,
+      "startVerse": 1,
+      "endChapter": 8,
+      "endVerse": 4,
+      "displayReference": "Mt 8, 1-4",
+      "sourceCitation": "Matthew 8:1-4",
+      "type": "gospel"
+    }
+  ]
+}

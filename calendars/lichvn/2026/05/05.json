@@ -1,0 +1,52 @@
+{
+  "id": "2026-05-05",
+  "date": "2026-05-05",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần V Mùa Phục Sinh",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Năm Mùa Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 14,
+      "startVerse": 19,
+      "endChapter": 14,
+      "endVerse": 28,
+      "displayReference": "Cv 14, 19-28",
+      "sourceCitation": "Acts 14:19-28",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 145,
+      "startVerse": 10,
+      "endChapter": 145,
+      "endVerse": 21,
+      "displayReference": "Tv 145, 10-11.21",
+      "sourceCitation": "Psalm 145:10-11, 12-13ab, 21",
+      "selectedVerses": [
+        10,
+        11,
+        21
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 14,
+      "startVerse": 27,
+      "endChapter": 14,
+      "endVerse": 31,
+      "displayReference": "Ga 14, 27-31",
+      "sourceCitation": "John 14:27-31a",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-12-07",
+  "date": "2026-12-07",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần II Mùa Vọng",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Am-rô-xi-ô, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Am-rô-xi-ô, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 35,
+      "startVerse": 1,
+      "endChapter": 35,
+      "endVerse": 10,
+      "displayReference": "Is 35, 1-10",
+      "sourceCitation": "Isaiah 35:1-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 11,
+      "endChapter": 1,
+      "endVerse": 14,
+      "displayReference": "Tv 1, 11-14",
+      "sourceCitation": "Psalm 85:9ab and 10, 11-12, 13-14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 5,
+      "startVerse": 17,
+      "endChapter": 5,
+      "endVerse": 26,
+      "displayReference": "Lc 5, 17-26",
+      "sourceCitation": "Luke 5:17-26",
+      "type": "gospel"
+    }
+  ]
+}

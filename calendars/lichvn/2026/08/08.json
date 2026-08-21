@@ -1,0 +1,47 @@
+{
+  "id": "2026-08-08",
+  "date": "2026-08-08",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVIII Thường Niên",
+  "weekNumber": 18,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Đa-minh, linh mục",
+  "saintOfDay": "Thánh Đa-minh, linh mục",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "HAB",
+      "startChapter": 1,
+      "startVerse": 12,
+      "endChapter": 2,
+      "endVerse": 4,
+      "displayReference": "Kb 1, 12 – 2, 4",
+      "sourceCitation": "Habakkuk 1:12—2:4",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 9,
+      "startVerse": 8,
+      "endChapter": 9,
+      "endVerse": 13,
+      "displayReference": "Tv 9, 8-13",
+      "sourceCitation": "Psalm 9:8-9, 10-11, 12-13",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 17,
+      "startVerse": 14,
+      "endChapter": 17,
+      "endVerse": 20,
+      "displayReference": "Mt 17, 14-20",
+      "sourceCitation": "Matthew 17:14-20",
+      "type": "gospel"
+    }
+  ]
+}

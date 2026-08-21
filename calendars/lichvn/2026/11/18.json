@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-18",
+  "date": "2026-11-18",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXIII Thường Niên",
+  "weekNumber": 33,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Cung hiến thánh đường thánh Phê-rô và thánh đường thánh Phao-lô",
+  "saintOfDay": "Cung hiến thánh đường thánh Phê-rô và thánh đường thánh Phao-lô",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Ba Mươi-Ba Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "REV",
+      "startChapter": 4,
+      "startVerse": 1,
+      "endChapter": 4,
+      "endVerse": 11,
+      "displayReference": "Kh 4, 1-11",
+      "sourceCitation": "Revelation 4:1-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 150,
+      "startVerse": 1,
+      "endChapter": 150,
+      "endVerse": 6,
+      "displayReference": "Tv 150, 1-6",
+      "sourceCitation": "Psalm 150:1b-2, 3-4, 5-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 19,
+      "startVerse": 11,
+      "endChapter": 19,
+      "endVerse": 28,
+      "displayReference": "Lc 19, 11-28",
+      "sourceCitation": "Luke 19:11-28",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2026-12-01",
+  "date": "2026-12-01",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần I Mùa Vọng",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Nhất Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 11,
+      "startVerse": 1,
+      "endChapter": 11,
+      "endVerse": 10,
+      "displayReference": "Is 11, 1-10",
+      "sourceCitation": "Isaiah 11:1-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 72,
+      "startVerse": 1,
+      "endChapter": 72,
+      "endVerse": 17,
+      "displayReference": "Tv 72, 1-2.7-8.12-13.17",
+      "sourceCitation": "Psalm 72:1-2, 7-8, 12-13, 17",
+      "selectedVerses": [
+        1,
+        2,
+        7,
+        8,
+        12,
+        13,
+        17
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 10,
+      "startVerse": 21,
+      "endChapter": 10,
+      "endVerse": 24,
+      "displayReference": "Lc 10, 21-24",
+      "sourceCitation": "Luke 10:21-24",
+      "type": "gospel"
+    }
+  ]
+}

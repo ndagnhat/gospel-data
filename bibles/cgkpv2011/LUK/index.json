@@ -1,0 +1,108 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "LUK",
+  "name": "Tin Mừng Lu-ca",
+  "abbreviation": "Lc",
+  "sortOrder": 49,
+  "testament": "new",
+  "category": "gospel",
+  "totalChapters": 24,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 80
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 52
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 44
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 39
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 49
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 50
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 56
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 62
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 42
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 54
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 59
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 43
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 48
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 47
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 71
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 56
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 53
+    }
+  ]
+}

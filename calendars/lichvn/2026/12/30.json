@@ -1,0 +1,47 @@
+{
+  "id": "2026-12-30",
+  "date": "2026-12-30",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Bát Nhật Phục Sinh",
+  "weekNumber": null,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Ngày thứ sáu trong tuần Bát Nhật Lễ Giáng Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1JN",
+      "startChapter": 2,
+      "startVerse": 12,
+      "endChapter": 2,
+      "endVerse": 17,
+      "displayReference": "1Ga 2, 12-17",
+      "sourceCitation": "1 John 2:12-17",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 96,
+      "startVerse": 7,
+      "endChapter": 96,
+      "endVerse": 10,
+      "displayReference": "Tv 96, 7-10",
+      "sourceCitation": "Psalm 96:7-8a, 8b-9, 10",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 2,
+      "startVerse": 36,
+      "endChapter": 2,
+      "endVerse": 40,
+      "displayReference": "Lc 2, 36-40",
+      "sourceCitation": "Luke 2:36-40",
+      "type": "gospel"
+    }
+  ]
+}

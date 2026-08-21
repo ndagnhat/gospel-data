@@ -1,0 +1,62 @@
+{
+  "id": "2026-12-03",
+  "date": "2026-12-03",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần I Mùa Vọng",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Phan-xi-cô Xa-vi-e, linh mục",
+  "saintOfDay": "Thánh Phan-xi-cô Xa-vi-e, linh mục",
+  "commemorations": [],
+  "color": "white",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 26,
+      "startVerse": 1,
+      "endChapter": 26,
+      "endVerse": 6,
+      "displayReference": "Is 26, 1-6",
+      "sourceCitation": "Isaiah 26:1-6",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 19,
+      "endChapter": 1,
+      "endVerse": 27,
+      "displayReference": "Tv 1, 19-21.25-27",
+      "sourceCitation": "Psalm 118:1 and 8-9, 19-21, 25-27a",
+      "selectedVerses": [
+        19,
+        20,
+        21,
+        25,
+        26,
+        27
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 7,
+      "startVerse": 21,
+      "endChapter": 7,
+      "endVerse": 27,
+      "displayReference": "Mt 7, 21.24-27",
+      "sourceCitation": "Matthew 7:21, 24-27",
+      "selectedVerses": [
+        21,
+        24,
+        25,
+        26,
+        27
+      ],
+      "type": "gospel"
+    }
+  ]
+}

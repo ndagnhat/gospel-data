@@ -1,0 +1,47 @@
+{
+  "id": "2026-07-27",
+  "date": "2026-07-27",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVII Thường Niên",
+  "weekNumber": 17,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Mười Bảy Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 13,
+      "startVerse": 1,
+      "endChapter": 13,
+      "endVerse": 11,
+      "displayReference": "Gr 13, 1-11",
+      "sourceCitation": "Jeremiah 13:1-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "DEU",
+      "startChapter": 32,
+      "startVerse": 18,
+      "endChapter": 32,
+      "endVerse": 21,
+      "displayReference": "Đnl 32, 18-21",
+      "sourceCitation": "Deuteronomy 32:18-19, 20, 21",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 31,
+      "endChapter": 13,
+      "endVerse": 35,
+      "displayReference": "Mt 13, 31-35",
+      "sourceCitation": "Matthew 13:31-35",
+      "type": "gospel"
+    }
+  ]
+}

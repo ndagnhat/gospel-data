@@ -1,0 +1,70 @@
+{
+  "id": "2026-02-15",
+  "date": "2026-02-15",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần V Thường Niên",
+  "weekNumber": 5,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Sáu Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "SIR",
+      "startChapter": 15,
+      "startVerse": 15,
+      "endChapter": 15,
+      "endVerse": 20,
+      "displayReference": "Hc 15, 15-20",
+      "sourceCitation": "Sirach 15:15-20",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 1,
+      "endChapter": 119,
+      "endVerse": 34,
+      "displayReference": "Tv 119, 1-2.4-5.17-18.33-34",
+      "sourceCitation": "Psalm 119:1-2, 4-5, 17-18, 33-34",
+      "selectedVerses": [
+        1,
+        2,
+        4,
+        5,
+        17,
+        18,
+        33,
+        34
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1CO",
+      "startChapter": 2,
+      "startVerse": 6,
+      "endChapter": 2,
+      "endVerse": 10,
+      "displayReference": "1Cr 2, 6-10",
+      "sourceCitation": "1 Corinthians 2:6-10",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 5,
+      "startVerse": 17,
+      "endChapter": 5,
+      "endVerse": 37,
+      "displayReference": "Mt 5, 17-37",
+      "sourceCitation": "Matthew 5:17-37",
+      "type": "gospel",
+      "alternatives": [
+        "Mt 5, 20-22.27-28.33-34.37"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2026-04-03",
+  "date": "2026-04-03",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần VI Mùa Chay",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu Tuần Thánh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "red",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 52,
+      "startVerse": 13,
+      "endChapter": 53,
+      "endVerse": 12,
+      "displayReference": "Is 52, 13 – 53, 12",
+      "sourceCitation": "Isaiah 52:13—53:12",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 31,
+      "startVerse": 2,
+      "endChapter": 31,
+      "endVerse": 25,
+      "displayReference": "Tv 31, 2.6.12-13.15-17.25",
+      "sourceCitation": "Psalm 31:2, 6, 12-13, 15-16, 17, 25",
+      "selectedVerses": [
+        2,
+        6,
+        12,
+        13,
+        15,
+        16,
+        17,
+        25
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "HEB",
+      "startChapter": 4,
+      "startVerse": 14,
+      "endChapter": 5,
+      "endVerse": 9,
+      "displayReference": "Dt 4, 14 – 5, 9",
+      "sourceCitation": "Hebrews 4:14-16; 5:7-9",
+      "selectedVerses": [
+        14,
+        15,
+        16,
+        7,
+        8,
+        9
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 18,
+      "startVerse": 1,
+      "endChapter": 19,
+      "endVerse": 42,
+      "displayReference": "Ga 18, 1 – 19, 42",
+      "sourceCitation": "John 18:1—19:42",
+      "type": "gospel"
+    }
+  ]
+}

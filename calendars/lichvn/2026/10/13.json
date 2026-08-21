@@ -1,0 +1,55 @@
+{
+  "id": "2026-10-13",
+  "date": "2026-10-13",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVIII Thường Niên",
+  "weekNumber": 28,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "GAL",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 6,
+      "displayReference": "Gl 5, 1-6",
+      "sourceCitation": "Galatians 5:1-6",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 41,
+      "endChapter": 119,
+      "endVerse": 48,
+      "displayReference": "Tv 119, 41.43-45.47-48",
+      "sourceCitation": "Psalm 119:41, 43, 44, 45, 47, 48",
+      "selectedVerses": [
+        41,
+        43,
+        44,
+        45,
+        47,
+        48
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 37,
+      "endChapter": 11,
+      "endVerse": 41,
+      "displayReference": "Lc 11, 37-41",
+      "sourceCitation": "Luke 11:37-41",
+      "type": "gospel"
+    }
+  ]
+}

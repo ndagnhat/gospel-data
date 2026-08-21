@@ -1,0 +1,76 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1CO",
+  "name": "Thư 1 Cô-rin-tô",
+  "abbreviation": "1Cr",
+  "sortOrder": 53,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 16,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 58
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 24
+    }
+  ]
+}

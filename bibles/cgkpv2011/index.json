@@ -1,0 +1,741 @@
+{
+  "id": "cgkpv2011",
+  "name": "CGKPV 2011",
+  "fullName": "Kinh Thánh - Nhóm Phiên Dịch Các Giờ Kinh Phụng Vụ (2011)",
+  "language": "vi",
+  "totalBooks": 73,
+  "version": "20260821",
+  "updatedAt": "2026-08-21T15:15:49Z",
+  "books": [
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "GEN",
+      "name": "Sáng Thế",
+      "abbreviation": "St",
+      "sortOrder": 1,
+      "testament": "old",
+      "category": "torah",
+      "totalChapters": 50
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "EXO",
+      "name": "Xuất Hành",
+      "abbreviation": "Xh",
+      "sortOrder": 2,
+      "testament": "old",
+      "category": "torah",
+      "totalChapters": 40
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "LEV",
+      "name": "Lê-vi",
+      "abbreviation": "Lv",
+      "sortOrder": 3,
+      "testament": "old",
+      "category": "torah",
+      "totalChapters": 27
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "NUM",
+      "name": "Dân Số",
+      "abbreviation": "Ds",
+      "sortOrder": 4,
+      "testament": "old",
+      "category": "torah",
+      "totalChapters": 36
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "DEU",
+      "name": "Đệ Nhị Luật",
+      "abbreviation": "Đnl",
+      "sortOrder": 5,
+      "testament": "old",
+      "category": "torah",
+      "totalChapters": 34
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JOS",
+      "name": "Giô-suê",
+      "abbreviation": "Gs",
+      "sortOrder": 6,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 24
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JDG",
+      "name": "Thủ Lãnh",
+      "abbreviation": "Tl",
+      "sortOrder": 7,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 21
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "RUT",
+      "name": "Rút",
+      "abbreviation": "R",
+      "sortOrder": 8,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 4
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1SA",
+      "name": "Sa-mu-en 1",
+      "abbreviation": "1Sm",
+      "sortOrder": 9,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 31
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2SA",
+      "name": "Sa-mu-en 2",
+      "abbreviation": "2Sm",
+      "sortOrder": 10,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 24
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1KI",
+      "name": "Các Vua 1",
+      "abbreviation": "1V",
+      "sortOrder": 11,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 22
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2KI",
+      "name": "Các Vua 2",
+      "abbreviation": "2V",
+      "sortOrder": 12,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 25
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1CH",
+      "name": "Sử Biên 1",
+      "abbreviation": "1Sb",
+      "sortOrder": 13,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 29
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2CH",
+      "name": "Sử Biên 2",
+      "abbreviation": "2Sb",
+      "sortOrder": 14,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 36
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "EZR",
+      "name": "Ét-ra",
+      "abbreviation": "Er",
+      "sortOrder": 15,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 10
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "NEH",
+      "name": "Nơ-khe-mi-a",
+      "abbreviation": "Nkm",
+      "sortOrder": 16,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 13
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "TOB",
+      "name": "Tô-bi-a",
+      "abbreviation": "Tb",
+      "sortOrder": 17,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 14
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JDT",
+      "name": "Giu-đi-tha",
+      "abbreviation": "Gđt",
+      "sortOrder": 18,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 16
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "EST",
+      "name": "Ét-te",
+      "abbreviation": "Et",
+      "sortOrder": 19,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 10
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1MA",
+      "name": "Ma-ca-bê 1",
+      "abbreviation": "1Mcb",
+      "sortOrder": 20,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 16
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2MA",
+      "name": "Ma-ca-bê 2",
+      "abbreviation": "2Mcb",
+      "sortOrder": 21,
+      "testament": "old",
+      "category": "historical",
+      "totalChapters": 15
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JOB",
+      "name": "Gióp",
+      "abbreviation": "G",
+      "sortOrder": 22,
+      "testament": "old",
+      "category": "wisdom",
+      "totalChapters": 42
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "PSA",
+      "name": "Thánh Vịnh",
+      "abbreviation": "Tv",
+      "sortOrder": 23,
+      "testament": "old",
+      "category": "wisdom",
+      "totalChapters": 150
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "PRO",
+      "name": "Châm Ngôn",
+      "abbreviation": "Cn",
+      "sortOrder": 24,
+      "testament": "old",
+      "category": "wisdom",
+      "totalChapters": 31
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "ECC",
+      "name": "Giảng Viên",
+      "abbreviation": "Gv",
+      "sortOrder": 25,
+      "testament": "old",
+      "category": "wisdom",
+      "totalChapters": 12
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "SNG",
+      "name": "Diễm Ca",
+      "abbreviation": "Dc",
+      "sortOrder": 26,
+      "testament": "old",
+      "category": "wisdom",
+      "totalChapters": 8
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "WIS",
+      "name": "Khôn Ngoan",
+      "abbreviation": "Kn",
+      "sortOrder": 27,
+      "testament": "old",
+      "category": "wisdom",
+      "totalChapters": 19
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "SIR",
+      "name": "Huấn Ca",
+      "abbreviation": "Hc",
+      "sortOrder": 28,
+      "testament": "old",
+      "category": "wisdom",
+      "totalChapters": 51
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "ISA",
+      "name": "I-sai-a",
+      "abbreviation": "Is",
+      "sortOrder": 29,
+      "testament": "old",
+      "category": "major_prophets",
+      "totalChapters": 66
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JER",
+      "name": "Giê-rê-mi-a",
+      "abbreviation": "Gr",
+      "sortOrder": 30,
+      "testament": "old",
+      "category": "major_prophets",
+      "totalChapters": 52
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "LAM",
+      "name": "Ai Ca",
+      "abbreviation": "Ac",
+      "sortOrder": 31,
+      "testament": "old",
+      "category": "major_prophets",
+      "totalChapters": 5
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "BAR",
+      "name": "Ba-rúc",
+      "abbreviation": "Br",
+      "sortOrder": 32,
+      "testament": "old",
+      "category": "major_prophets",
+      "totalChapters": 6
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "EZK",
+      "name": "Ê-dê-ki-en",
+      "abbreviation": "Ed",
+      "sortOrder": 33,
+      "testament": "old",
+      "category": "major_prophets",
+      "totalChapters": 48
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "DAN",
+      "name": "Đa-ni-en",
+      "abbreviation": "Đn",
+      "sortOrder": 34,
+      "testament": "old",
+      "category": "major_prophets",
+      "totalChapters": 14
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "HOS",
+      "name": "Hô-sê",
+      "abbreviation": "Hs",
+      "sortOrder": 35,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 14
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JOL",
+      "name": "Giô-en",
+      "abbreviation": "Ge",
+      "sortOrder": 36,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 4
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "AMO",
+      "name": "A-mốt",
+      "abbreviation": "Am",
+      "sortOrder": 37,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 9
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "OBA",
+      "name": "Ô-va-đi-a",
+      "abbreviation": "Ôvđ",
+      "sortOrder": 38,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 1
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JON",
+      "name": "Giô-na",
+      "abbreviation": "Gn",
+      "sortOrder": 39,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 4
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "MIC",
+      "name": "Mi-kha",
+      "abbreviation": "Mk",
+      "sortOrder": 40,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 7
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "NAM",
+      "name": "Na-khum",
+      "abbreviation": "Nk",
+      "sortOrder": 41,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 3
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "HAB",
+      "name": "Kha-ba-cúc",
+      "abbreviation": "Kb",
+      "sortOrder": 42,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 3
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "ZEP",
+      "name": "Xô-phô-ni-a",
+      "abbreviation": "Xp",
+      "sortOrder": 43,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 3
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "HAG",
+      "name": "Khác-gai",
+      "abbreviation": "Kg",
+      "sortOrder": 44,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 2
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "ZEC",
+      "name": "Da-ca-ri-a",
+      "abbreviation": "Dcr",
+      "sortOrder": 45,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 14
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "MAL",
+      "name": "Ma-la-khi",
+      "abbreviation": "Ml",
+      "sortOrder": 46,
+      "testament": "old",
+      "category": "minor_prophets",
+      "totalChapters": 3
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "MAT",
+      "name": "Tin Mừng Mát-thêu",
+      "abbreviation": "Mt",
+      "sortOrder": 47,
+      "testament": "new",
+      "category": "gospel",
+      "totalChapters": 28
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "MRK",
+      "name": "Tin Mừng Mác-cô",
+      "abbreviation": "Mc",
+      "sortOrder": 48,
+      "testament": "new",
+      "category": "gospel",
+      "totalChapters": 16
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "LUK",
+      "name": "Tin Mừng Lu-ca",
+      "abbreviation": "Lc",
+      "sortOrder": 49,
+      "testament": "new",
+      "category": "gospel",
+      "totalChapters": 24
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JHN",
+      "name": "Tin Mừng Gio-an",
+      "abbreviation": "Ga",
+      "sortOrder": 50,
+      "testament": "new",
+      "category": "gospel",
+      "totalChapters": 21
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "ACT",
+      "name": "Công Vụ Tông Đồ",
+      "abbreviation": "Cv",
+      "sortOrder": 51,
+      "testament": "new",
+      "category": "acts",
+      "totalChapters": 28
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "ROM",
+      "name": "Thư Rô-ma",
+      "abbreviation": "Rm",
+      "sortOrder": 52,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 16
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1CO",
+      "name": "Thư 1 Cô-rin-tô",
+      "abbreviation": "1Cr",
+      "sortOrder": 53,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 16
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2CO",
+      "name": "Thư 2 Cô-rin-tô",
+      "abbreviation": "2Cr",
+      "sortOrder": 54,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 13
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "GAL",
+      "name": "Thư Ga-lát",
+      "abbreviation": "Gl",
+      "sortOrder": 55,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 6
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "EPH",
+      "name": "Thư Ê-phê-xô",
+      "abbreviation": "Ep",
+      "sortOrder": 56,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 6
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "PHP",
+      "name": "Thư Phi-líp-phê",
+      "abbreviation": "Pl",
+      "sortOrder": 57,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 4
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "COL",
+      "name": "Thư Cô-lô-xê",
+      "abbreviation": "Cl",
+      "sortOrder": 58,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 4
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1TH",
+      "name": "Thư 1 Thê-xa-lô-ni-ca",
+      "abbreviation": "1Tx",
+      "sortOrder": 59,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 5
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2TH",
+      "name": "Thư 2 Thê-xa-lô-ni-ca",
+      "abbreviation": "2Tx",
+      "sortOrder": 60,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 3
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1TM",
+      "name": "Thư 1 Ti-mô-thê",
+      "abbreviation": "1Tm",
+      "sortOrder": 61,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 6
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2TM",
+      "name": "Thư 2 Ti-mô-thê",
+      "abbreviation": "2Tm",
+      "sortOrder": 62,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 4
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "TIT",
+      "name": "Thư Ti-tô",
+      "abbreviation": "Tt",
+      "sortOrder": 63,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 3
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "PHM",
+      "name": "Thư Phi-lê-môn",
+      "abbreviation": "Plm",
+      "sortOrder": 64,
+      "testament": "new",
+      "category": "letters_paul",
+      "totalChapters": 1
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "HEB",
+      "name": "Thư Híp-ri",
+      "abbreviation": "Dt",
+      "sortOrder": 65,
+      "testament": "new",
+      "category": "letters_general",
+      "totalChapters": 13
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JAS",
+      "name": "Thư Gia-cô-bê",
+      "abbreviation": "Gc",
+      "sortOrder": 66,
+      "testament": "new",
+      "category": "letters_general",
+      "totalChapters": 5
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1PE",
+      "name": "Thư 1 Phê-rô",
+      "abbreviation": "1Pr",
+      "sortOrder": 67,
+      "testament": "new",
+      "category": "letters_general",
+      "totalChapters": 5
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2PE",
+      "name": "Thư 2 Phê-rô",
+      "abbreviation": "2Pr",
+      "sortOrder": 68,
+      "testament": "new",
+      "category": "letters_general",
+      "totalChapters": 3
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "1JN",
+      "name": "Thư 1 Gio-an",
+      "abbreviation": "1Ga",
+      "sortOrder": 69,
+      "testament": "new",
+      "category": "letters_general",
+      "totalChapters": 5
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "2JN",
+      "name": "Thư 2 Gio-an",
+      "abbreviation": "2Ga",
+      "sortOrder": 70,
+      "testament": "new",
+      "category": "letters_general",
+      "totalChapters": 1
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "3JN",
+      "name": "Thư 3 Gio-an",
+      "abbreviation": "3Ga",
+      "sortOrder": 71,
+      "testament": "new",
+      "category": "letters_general",
+      "totalChapters": 1
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "JUD",
+      "name": "Thư Giu-đa",
+      "abbreviation": "Gđ",
+      "sortOrder": 72,
+      "testament": "new",
+      "category": "letters_general",
+      "totalChapters": 1
+    },
+    {
+      "translation": "cgkpv2011",
+      "bookCode": "REV",
+      "name": "Khải Huyền",
+      "abbreviation": "Kh",
+      "sortOrder": 73,
+      "testament": "new",
+      "category": "revelation",
+      "totalChapters": 22
+    }
+  ]
+}

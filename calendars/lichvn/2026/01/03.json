@@ -1,0 +1,54 @@
+{
+  "id": "2026-01-03",
+  "date": "2026-01-03",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Kính Danh rất thánh Chúa Giê-su",
+  "saintOfDay": "Kính Danh rất thánh Chúa Giê-su",
+  "commemorations": [
+    "Thứ Bảy trước Lễ Hiển Linh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1JN",
+      "startChapter": 2,
+      "startVerse": 29,
+      "endChapter": 3,
+      "endVerse": 6,
+      "displayReference": "1Ga 2, 29 – 3, 6",
+      "sourceCitation": "1 John 2:29—3:6",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 98,
+      "startVerse": 1,
+      "endChapter": 98,
+      "endVerse": 6,
+      "displayReference": "Tv 98, 1.5-6",
+      "sourceCitation": "Psalm 98:1, 3cd-4, 5-6",
+      "selectedVerses": [
+        1,
+        5,
+        6
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 1,
+      "startVerse": 29,
+      "endChapter": 1,
+      "endVerse": 34,
+      "displayReference": "Ga 1, 29-34",
+      "sourceCitation": "John 1:29-34",
+      "type": "gospel"
+    }
+  ]
+}

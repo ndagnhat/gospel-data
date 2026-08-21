@@ -1,0 +1,49 @@
+{
+  "id": "2026-05-01",
+  "date": "2026-05-01",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần IV Mùa Phục Sinh",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Giu-se thợ",
+  "saintOfDay": "Thánh Giu-se thợ",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Tư Mùa Phục Sinh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 13,
+      "startVerse": 26,
+      "endChapter": 13,
+      "endVerse": 33,
+      "displayReference": "Cv 13, 26-33",
+      "sourceCitation": "Acts 13:26-33",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 2,
+      "startVerse": 6,
+      "endChapter": 2,
+      "endVerse": 9,
+      "displayReference": "Tv 2, 6-9",
+      "sourceCitation": "Psalm 2:6-7, 8-9, 10-11ab",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 14,
+      "startVerse": 1,
+      "endChapter": 14,
+      "endVerse": 6,
+      "displayReference": "Ga 14, 1-6",
+      "sourceCitation": "John 14:1-6",
+      "type": "gospel"
+    }
+  ]
+}

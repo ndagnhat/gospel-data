@@ -1,0 +1,60 @@
+{
+  "id": "2026-07-12",
+  "date": "2026-07-12",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIV Thường Niên",
+  "weekNumber": 14,
+  "psalterWeek": 3,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Mười Lăm Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 55,
+      "startVerse": 10,
+      "endChapter": 55,
+      "endVerse": 11,
+      "displayReference": "Is 55, 10-11",
+      "sourceCitation": "Isaiah 55:10-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 65,
+      "startVerse": 10,
+      "endChapter": 65,
+      "endVerse": 14,
+      "displayReference": "Tv 65, 10-14",
+      "sourceCitation": "Psalm 65:10, 11, 12-13, 14",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 8,
+      "startVerse": 18,
+      "endChapter": 8,
+      "endVerse": 23,
+      "displayReference": "Rm 8, 18-23",
+      "sourceCitation": "Romans 8:18-23",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 1,
+      "endChapter": 13,
+      "endVerse": 23,
+      "displayReference": "Mt 13, 1-23",
+      "sourceCitation": "Matthew 13:1-23",
+      "type": "gospel",
+      "alternatives": [
+        "Mt 13, 1-9"
+      ]
+    }
+  ]
+}

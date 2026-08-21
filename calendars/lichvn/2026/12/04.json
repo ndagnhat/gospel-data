@@ -1,0 +1,55 @@
+{
+  "id": "2026-12-04",
+  "date": "2026-12-04",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần I Mùa Vọng",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Gioan Đa-mát, linh mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Gioan Đa-mát, linh mục, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Nhất Mùa Vọng"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 29,
+      "startVerse": 17,
+      "endChapter": 29,
+      "endVerse": 24,
+      "displayReference": "Is 29, 17-24",
+      "sourceCitation": "Isaiah 29:17-24",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 27,
+      "startVerse": 1,
+      "endChapter": 27,
+      "endVerse": 14,
+      "displayReference": "Tv 27, 1.4.13-14",
+      "sourceCitation": "Psalm 27:1, 4, 13-14",
+      "selectedVerses": [
+        1,
+        4,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 9,
+      "startVerse": 27,
+      "endChapter": 9,
+      "endVerse": 31,
+      "displayReference": "Mt 9, 27-31",
+      "sourceCitation": "Matthew 9:27-31",
+      "type": "gospel"
+    }
+  ]
+}

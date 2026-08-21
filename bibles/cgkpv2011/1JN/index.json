@@ -1,0 +1,32 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1JN",
+  "name": "Thư 1 Gio-an",
+  "abbreviation": "1Ga",
+  "sortOrder": 69,
+  "testament": "new",
+  "category": "letters_general",
+  "totalChapters": 5,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 21
+    }
+  ]
+}

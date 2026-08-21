@@ -1,0 +1,58 @@
+{
+  "id": "2026-09-26",
+  "date": "2026-09-26",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXV Thường Niên",
+  "weekNumber": 25,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Cót-ma và thánh Đa-mi-a-nô, tử đạo",
+  "saintOfDay": "Thánh Cót-ma và thánh Đa-mi-a-nô, tử đạo",
+  "commemorations": [
+    "Lễ Đức Mẹ ngày thứ bảy",
+    "Thứ Bảy trong tuần thứ Hai Mươi-Năm Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ECC",
+      "startChapter": 11,
+      "startVerse": 9,
+      "endChapter": 12,
+      "endVerse": 8,
+      "displayReference": "Gv 11, 9 – 12, 8",
+      "sourceCitation": "Ecclesiastes 11:9—12:8",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 90,
+      "startVerse": 3,
+      "endChapter": 90,
+      "endVerse": 13,
+      "displayReference": "Tv 90, 3-6.12-13",
+      "sourceCitation": "Psalm 90:3-4, 5-6, 12-13, 14 and 17",
+      "selectedVerses": [
+        3,
+        4,
+        5,
+        6,
+        12,
+        13
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 9,
+      "startVerse": 43,
+      "endChapter": 9,
+      "endVerse": 45,
+      "displayReference": "Lc 9, 43-45",
+      "sourceCitation": "Luke 9:43b-45",
+      "type": "gospel"
+    }
+  ]
+}

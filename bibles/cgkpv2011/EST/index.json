@@ -1,0 +1,52 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "EST",
+  "name": "Ét-te",
+  "abbreviation": "Et",
+  "sortOrder": 19,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 10,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 3
+    }
+  ]
+}

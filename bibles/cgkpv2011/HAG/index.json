@@ -1,0 +1,20 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "HAG",
+  "name": "Khác-gai",
+  "abbreviation": "Kg",
+  "sortOrder": 44,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 2,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 23
+    }
+  ]
+}

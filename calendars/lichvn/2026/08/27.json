@@ -1,0 +1,47 @@
+{
+  "id": "2026-08-27",
+  "date": "2026-08-27",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXI Thường Niên",
+  "weekNumber": 21,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh nữ Mô-ni-ca",
+  "saintOfDay": "Thánh nữ Mô-ni-ca",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 9,
+      "displayReference": "1Cr 1, 1-9",
+      "sourceCitation": "1 Corinthians 1:1-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 145,
+      "startVerse": 2,
+      "endChapter": 145,
+      "endVerse": 7,
+      "displayReference": "Tv 145, 2-7",
+      "sourceCitation": "Psalm 145:2-3, 4-5, 6-7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 24,
+      "startVerse": 42,
+      "endChapter": 24,
+      "endVerse": 51,
+      "displayReference": "Mt 24, 42-51",
+      "sourceCitation": "Matthew 24:42-51",
+      "type": "gospel"
+    }
+  ]
+}

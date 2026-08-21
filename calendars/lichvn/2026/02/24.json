@@ -1,0 +1,57 @@
+{
+  "id": "2026-02-24",
+  "date": "2026-02-24",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần I Mùa Chay",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Nhất Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 55,
+      "startVerse": 10,
+      "endChapter": 55,
+      "endVerse": 11,
+      "displayReference": "Is 55, 10-11",
+      "sourceCitation": "Isaiah 55:10-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 34,
+      "startVerse": 4,
+      "endChapter": 34,
+      "endVerse": 19,
+      "displayReference": "Tv 34, 4-7.16-19",
+      "sourceCitation": "Psalm 34:4-5, 6-7, 16-17, 18-19",
+      "selectedVerses": [
+        4,
+        5,
+        6,
+        7,
+        16,
+        17,
+        18,
+        19
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 6,
+      "startVerse": 7,
+      "endChapter": 6,
+      "endVerse": 15,
+      "displayReference": "Mt 6, 7-15",
+      "sourceCitation": "Matthew 6:7-15",
+      "type": "gospel"
+    }
+  ]
+}

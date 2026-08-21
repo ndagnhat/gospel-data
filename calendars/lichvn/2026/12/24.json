@@ -1,0 +1,61 @@
+{
+  "id": "2026-12-24",
+  "date": "2026-12-24",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần IV Mùa Vọng",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "24 tháng 12 Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 7,
+      "startVerse": 1,
+      "endChapter": 7,
+      "endVerse": 16,
+      "displayReference": "2Sm 7, 1-5.8-12.14.16",
+      "sourceCitation": "2 Samuel 7:1-5, 8b-12, 14a, 16",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        16
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 2,
+      "endChapter": 89,
+      "endVerse": 5,
+      "displayReference": "Tv 89, 2-5",
+      "sourceCitation": "Psalm 89:2-3, 4-5, 27 and 29",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 67,
+      "endChapter": 1,
+      "endVerse": 79,
+      "displayReference": "Lc 1, 67-79",
+      "sourceCitation": "Luke 1:67-79",
+      "type": "gospel"
+    }
+  ]
+}

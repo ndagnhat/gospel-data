@@ -1,0 +1,63 @@
+{
+  "id": "2026-12-19",
+  "date": "2026-12-19",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần III Mùa Vọng",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "19 tháng 12 Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JDG",
+      "startChapter": 13,
+      "startVerse": 2,
+      "endChapter": 13,
+      "endVerse": 25,
+      "displayReference": "Tl 13, 2-7.24-25",
+      "sourceCitation": "Judges 13:2-7, 24-25a",
+      "selectedVerses": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        24,
+        25
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 71,
+      "startVerse": 3,
+      "endChapter": 71,
+      "endVerse": 17,
+      "displayReference": "Tv 71, 3-4.16-17",
+      "sourceCitation": "Psalm 71:3-4a, 5-6ab, 16-17",
+      "selectedVerses": [
+        3,
+        4,
+        16,
+        17
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 5,
+      "endChapter": 1,
+      "endVerse": 25,
+      "displayReference": "Lc 1, 5-25",
+      "sourceCitation": "Luke 1:5-25",
+      "type": "gospel"
+    }
+  ]
+}

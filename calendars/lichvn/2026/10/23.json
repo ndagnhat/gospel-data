@@ -1,0 +1,55 @@
+{
+  "id": "2026-10-23",
+  "date": "2026-10-23",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIX Thường Niên",
+  "weekNumber": 29,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Gio-an thành Ca-pét-ra-nô, linh mục",
+  "saintOfDay": "Thánh Gio-an thành Ca-pét-ra-nô, linh mục",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 4,
+      "startVerse": 1,
+      "endChapter": 4,
+      "endVerse": 6,
+      "displayReference": "Ep 4, 1-6",
+      "sourceCitation": "Ephesians 4:1-6",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 24,
+      "startVerse": 1,
+      "endChapter": 24,
+      "endVerse": 6,
+      "displayReference": "Tv 24, 1-2.5-6",
+      "sourceCitation": "Psalm 24:1-2, 3-4ab, 5-6",
+      "selectedVerses": [
+        1,
+        2,
+        5,
+        6
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 12,
+      "startVerse": 54,
+      "endChapter": 12,
+      "endVerse": 59,
+      "displayReference": "Lc 12, 54-59",
+      "sourceCitation": "Luke 12:54-59",
+      "type": "gospel"
+    }
+  ]
+}

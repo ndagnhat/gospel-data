@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXII Thường Niên",
+  "weekNumber": 32,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu i trong tuần thứ Ba Mươi-Hai Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 1,
+      "endChapter": 119,
+      "endVerse": 18,
+      "displayReference": "Tv 119, 1-2.10-11.17-18",
+      "sourceCitation": "Psalm 119:1, 2, 10, 11, 17, 18",
+      "selectedVerses": [
+        1,
+        2,
+        10,
+        11,
+        17,
+        18
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 17,
+      "startVerse": 26,
+      "endChapter": 17,
+      "endVerse": 37,
+      "displayReference": "Lc 17, 26-37",
+      "sourceCitation": "Luke 17:26-37",
+      "type": "gospel"
+    }
+  ]
+}

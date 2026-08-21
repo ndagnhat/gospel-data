@@ -1,0 +1,69 @@
+{
+  "id": "2026-01-22",
+  "date": "2026-01-22",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần II Thường Niên",
+  "weekNumber": 2,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Vinh-sơn, phó tế, tử đạo",
+  "saintOfDay": "Thánh Vinh-sơn, phó tế, tử đạo",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Hai Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1SA",
+      "startChapter": 18,
+      "startVerse": 6,
+      "endChapter": 19,
+      "endVerse": 7,
+      "displayReference": "1Sm 18, 6 – 19, 7",
+      "sourceCitation": "1 Samuel 18:6-9; 19:1-7",
+      "selectedVerses": [
+        6,
+        7,
+        8,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 56,
+      "startVerse": 2,
+      "endChapter": 56,
+      "endVerse": 13,
+      "displayReference": "Tv 56, 2-3.9-13",
+      "sourceCitation": "Psalm 56:2-3, 9-10a, 10b-11, 12-13",
+      "selectedVerses": [
+        2,
+        3,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 3,
+      "startVerse": 7,
+      "endChapter": 3,
+      "endVerse": 12,
+      "displayReference": "Mc 3, 7-12",
+      "sourceCitation": "Mark 3:7-12",
+      "type": "gospel"
+    }
+  ]
+}

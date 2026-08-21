@@ -1,0 +1,49 @@
+{
+  "id": "2026-07-14",
+  "date": "2026-07-14",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XV Thường Niên",
+  "weekNumber": 15,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Ca-mi-lô Len-li, linh mục",
+  "saintOfDay": "Thánh Ca-mi-lô Len-li, linh mục",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Mười Lăm Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 7,
+      "startVerse": 1,
+      "endChapter": 7,
+      "endVerse": 9,
+      "displayReference": "Is 7, 1-9",
+      "sourceCitation": "Isaiah 7:1-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 48,
+      "startVerse": 2,
+      "endChapter": 48,
+      "endVerse": 8,
+      "displayReference": "Tv 48, 2-8",
+      "sourceCitation": "Psalm 48:2-3a, 3b-4, 5-6, 7-8",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 11,
+      "startVerse": 20,
+      "endChapter": 11,
+      "endVerse": 24,
+      "displayReference": "Mt 11, 20-24",
+      "sourceCitation": "Matthew 11:20-24",
+      "type": "gospel"
+    }
+  ]
+}

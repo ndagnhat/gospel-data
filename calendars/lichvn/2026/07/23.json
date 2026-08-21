@@ -1,0 +1,58 @@
+{
+  "id": "2026-07-23",
+  "date": "2026-07-23",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVI Thường Niên",
+  "weekNumber": 16,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Bi-ghit-ta, nữ tu",
+  "saintOfDay": "Thánh Bi-ghit-ta, nữ tu",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Mười Sáu Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 13,
+      "displayReference": "Gr 2, 1-3.7-8.12-13",
+      "sourceCitation": "Jeremiah 2:1-3, 7-8, 12-13",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        7,
+        8,
+        12,
+        13
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 8,
+      "endChapter": 1,
+      "endVerse": 11,
+      "displayReference": "Tv 1, 8-11",
+      "sourceCitation": "Psalm 36:6-7ab, 8-9, 10-11",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 10,
+      "endChapter": 13,
+      "endVerse": 17,
+      "displayReference": "Mt 13, 10-17",
+      "sourceCitation": "Matthew 13:10-17",
+      "type": "gospel"
+    }
+  ]
+}

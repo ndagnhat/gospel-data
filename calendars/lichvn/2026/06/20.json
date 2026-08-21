@@ -1,0 +1,59 @@
+{
+  "id": "2026-06-20",
+  "date": "2026-06-20",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XI Thường Niên",
+  "weekNumber": 11,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Đức Mẹ ngày thứ bảy",
+  "saintOfDay": "Lễ Đức Mẹ ngày thứ bảy",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Mười Một Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "2CH",
+      "startChapter": 24,
+      "startVerse": 17,
+      "endChapter": 24,
+      "endVerse": 25,
+      "displayReference": "2Sb 24, 17-25",
+      "sourceCitation": "2 Chronicles 24:17-25",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 4,
+      "endChapter": 89,
+      "endVerse": 34,
+      "displayReference": "Tv 89, 4-5.29-34",
+      "sourceCitation": "Psalm 89:4-5, 29-30, 31-32, 33-34",
+      "selectedVerses": [
+        4,
+        5,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 6,
+      "startVerse": 24,
+      "endChapter": 6,
+      "endVerse": 34,
+      "displayReference": "Mt 6, 24-34",
+      "sourceCitation": "Matthew 6:24-34",
+      "type": "gospel"
+    }
+  ]
+}

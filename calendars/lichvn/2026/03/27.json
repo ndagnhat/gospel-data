@@ -1,0 +1,54 @@
+{
+  "id": "2026-03-27",
+  "date": "2026-03-27",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần V Mùa Chay",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Năm Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 20,
+      "startVerse": 10,
+      "endChapter": 20,
+      "endVerse": 13,
+      "displayReference": "Gr 20, 10-13",
+      "sourceCitation": "Jeremiah 20:10-13",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 18,
+      "startVerse": 2,
+      "endChapter": 18,
+      "endVerse": 7,
+      "displayReference": "Tv 18, 2-3.5-7",
+      "sourceCitation": "Psalm 18:2-3a, 3bc-4, 5-6, 7",
+      "selectedVerses": [
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 10,
+      "startVerse": 31,
+      "endChapter": 10,
+      "endVerse": 42,
+      "displayReference": "Ga 10, 31-42",
+      "sourceCitation": "John 10:31-42",
+      "type": "gospel"
+    }
+  ]
+}

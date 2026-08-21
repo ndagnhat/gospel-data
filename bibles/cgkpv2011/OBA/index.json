@@ -1,0 +1,16 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "OBA",
+  "name": "Ô-va-đi-a",
+  "abbreviation": "Ôvđ",
+  "sortOrder": 38,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 1,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 21
+    }
+  ]
+}

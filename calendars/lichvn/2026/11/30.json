@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-30",
+  "date": "2026-11-30",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần I Mùa Vọng",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh An-rê, tông đồ",
+  "saintOfDay": "Thánh An-rê, tông đồ",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "ROM",
+      "startChapter": 10,
+      "startVerse": 9,
+      "endChapter": 10,
+      "endVerse": 18,
+      "displayReference": "Rm 10, 9-18",
+      "sourceCitation": "Romans 10:9-18",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 19,
+      "startVerse": 8,
+      "endChapter": 19,
+      "endVerse": 11,
+      "displayReference": "Tv 19, 8-11",
+      "sourceCitation": "Psalm 19:8, 9, 10, 11",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 4,
+      "startVerse": 18,
+      "endChapter": 4,
+      "endVerse": 22,
+      "displayReference": "Mt 4, 18-22",
+      "sourceCitation": "Matthew 4:18-22",
+      "type": "gospel"
+    }
+  ]
+}

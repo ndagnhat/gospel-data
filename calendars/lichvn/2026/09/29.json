@@ -1,0 +1,53 @@
+{
+  "id": "2026-09-29",
+  "date": "2026-09-29",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVI Thường Niên",
+  "weekNumber": 26,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Các Tổng lãnh thiên thần Mi-ca-en, Gáp-ri-en và Ra-pha-en",
+  "saintOfDay": "Các Tổng lãnh thiên thần Mi-ca-en, Gáp-ri-en và Ra-pha-en",
+  "commemorations": [],
+  "color": "white",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "DAN",
+      "startChapter": 7,
+      "startVerse": 9,
+      "endChapter": 7,
+      "endVerse": 14,
+      "displayReference": "Đn 7, 9-10.13-14",
+      "sourceCitation": "Daniel 7:9-10, 13-14",
+      "selectedVerses": [
+        9,
+        10,
+        13,
+        14
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 4,
+      "endChapter": 1,
+      "endVerse": 5,
+      "displayReference": "Tv 1, 4-5",
+      "sourceCitation": "Psalm 138:1-2ab, 2cde-3, 4-5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 1,
+      "startVerse": 47,
+      "endChapter": 1,
+      "endVerse": 51,
+      "displayReference": "Ga 1, 47-51",
+      "sourceCitation": "John 1:47-51",
+      "type": "gospel"
+    }
+  ]
+}

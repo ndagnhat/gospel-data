@@ -1,0 +1,56 @@
+{
+  "id": "2026-01-17",
+  "date": "2026-01-17",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần I Thường Niên",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh An-tôn, viện phụ",
+  "saintOfDay": "Thánh An-tôn, viện phụ",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1SA",
+      "startChapter": 9,
+      "startVerse": 1,
+      "endChapter": 10,
+      "endVerse": 1,
+      "displayReference": "1Sm 9, 1 – 10, 1",
+      "sourceCitation": "1 Samuel 9:1-4, 17-19; 10:1",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        17,
+        18,
+        19
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 21,
+      "startVerse": 2,
+      "endChapter": 21,
+      "endVerse": 7,
+      "displayReference": "Tv 21, 2-7",
+      "sourceCitation": "Psalm 21:2-3, 4-5, 6-7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 2,
+      "startVerse": 13,
+      "endChapter": 2,
+      "endVerse": 17,
+      "displayReference": "Mc 2, 13-17",
+      "sourceCitation": "Mark 2:13-17",
+      "type": "gospel"
+    }
+  ]
+}

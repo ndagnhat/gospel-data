@@ -1,0 +1,76 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "ROM",
+  "name": "Thư Rô-ma",
+  "abbreviation": "Rm",
+  "sortOrder": 52,
+  "testament": "new",
+  "category": "letters_paul",
+  "totalChapters": 16,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 39
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 27
+    }
+  ]
+}

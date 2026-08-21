@@ -1,0 +1,67 @@
+{
+  "id": "2026-06-12",
+  "date": "2026-06-12",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần X Thường Niên",
+  "weekNumber": 10,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Lễ Trái Tim Cực Thánh Chúa Giê-su",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "DEU",
+      "startChapter": 7,
+      "startVerse": 6,
+      "endChapter": 7,
+      "endVerse": 11,
+      "displayReference": "Đnl 7, 6-11",
+      "sourceCitation": "Deuteronomy 7:6-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 103,
+      "startVerse": 1,
+      "endChapter": 103,
+      "endVerse": 10,
+      "displayReference": "Tv 103, 1-4.6-8.10",
+      "sourceCitation": "Psalm 103:1-2, 3-4, 6-7, 8, 10",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        10
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1JN",
+      "startChapter": 4,
+      "startVerse": 7,
+      "endChapter": 4,
+      "endVerse": 16,
+      "displayReference": "1Ga 4, 7-16",
+      "sourceCitation": "1 John 4:7-16",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 11,
+      "startVerse": 25,
+      "endChapter": 11,
+      "endVerse": 30,
+      "displayReference": "Mt 11, 25-30",
+      "sourceCitation": "Matthew 11:25-30",
+      "type": "gospel"
+    }
+  ]
+}

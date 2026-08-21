@@ -1,0 +1,59 @@
+{
+  "id": "2026-08-25",
+  "date": "2026-08-25",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXI Thường Niên",
+  "weekNumber": 21,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Giu-se Ca-la-xan, linh mục",
+  "saintOfDay": "Thánh Giu-se Ca-la-xan, linh mục",
+  "commemorations": [
+    "Thánh Lu-y",
+    "Thứ Ba trong tuần thứ Hai Mươi-Nhất Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "2TH",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 17,
+      "displayReference": "2Tx 2, 1-3.14-17",
+      "sourceCitation": "2 Thessalonians 2:1-3a, 14-17",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        14,
+        15,
+        16,
+        17
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 96,
+      "startVerse": 10,
+      "endChapter": 96,
+      "endVerse": 13,
+      "displayReference": "Tv 96, 10-13",
+      "sourceCitation": "Psalm 96:10, 11-12, 13",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 23,
+      "startVerse": 23,
+      "endChapter": 23,
+      "endVerse": 26,
+      "displayReference": "Mt 23, 23-26",
+      "sourceCitation": "Matthew 23:23-26",
+      "type": "gospel"
+    }
+  ]
+}

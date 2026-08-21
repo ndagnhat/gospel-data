@@ -1,0 +1,55 @@
+{
+  "id": "2026-03-18",
+  "date": "2026-03-18",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần IV Mùa Chay",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Sy-ri-lô, giám mục Giê-ru-sa-lem, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Sy-ri-lô, giám mục Giê-ru-sa-lem, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Tư Mùa Chay"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 49,
+      "startVerse": 8,
+      "endChapter": 49,
+      "endVerse": 15,
+      "displayReference": "Is 49, 8-15",
+      "sourceCitation": "Isaiah 49:8-15",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 145,
+      "startVerse": 8,
+      "endChapter": 145,
+      "endVerse": 18,
+      "displayReference": "Tv 145, 8-9.17-18",
+      "sourceCitation": "Psalm 145:8-9, 13cd-14, 17-18",
+      "selectedVerses": [
+        8,
+        9,
+        17,
+        18
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 5,
+      "startVerse": 17,
+      "endChapter": 5,
+      "endVerse": 30,
+      "displayReference": "Ga 5, 17-30",
+      "sourceCitation": "John 5:17-30",
+      "type": "gospel"
+    }
+  ]
+}

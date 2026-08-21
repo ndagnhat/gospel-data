@@ -1,0 +1,128 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1CH",
+  "name": "Sử Biên 1",
+  "abbreviation": "1Sb",
+  "sortOrder": 13,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 29,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 54
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 55
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 41
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 41
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 66
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 44
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 47
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 41
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 25,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 26,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 27,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 28,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 29,
+      "totalVerses": 30
+    }
+  ]
+}

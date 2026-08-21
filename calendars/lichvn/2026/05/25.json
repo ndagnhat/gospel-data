@@ -1,0 +1,63 @@
+{
+  "id": "2026-05-25",
+  "date": "2026-05-25",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần VIII Thường Niên",
+  "weekNumber": 8,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Đức Ma-ri-a, Mẹ Hội Thánh",
+  "saintOfDay": "Đức Ma-ri-a, Mẹ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "GEN",
+      "startChapter": 3,
+      "startVerse": 9,
+      "endChapter": 3,
+      "endVerse": 20,
+      "displayReference": "St 3, 9-15.20",
+      "sourceCitation": "Genesis 3:9-15, 20",
+      "selectedVerses": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        20
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 87,
+      "startVerse": 1,
+      "endChapter": 87,
+      "endVerse": 7,
+      "displayReference": "Tv 87, 1-2.6-7",
+      "sourceCitation": "Psalm 87:1-2, 3 and 5, 6-7",
+      "selectedVerses": [
+        1,
+        2,
+        6,
+        7
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 19,
+      "startVerse": 25,
+      "endChapter": 19,
+      "endVerse": 34,
+      "displayReference": "Ga 19, 25-34",
+      "sourceCitation": "John 19:25-34",
+      "type": "gospel"
+    }
+  ]
+}

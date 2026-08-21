@@ -1,0 +1,83 @@
+{
+  "id": "2026-03-19",
+  "date": "2026-03-19",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần IV Mùa Chay",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Giu-se, Bạn trăm năm Đức Trinh nữ Maria",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 7,
+      "startVerse": 4,
+      "endChapter": 7,
+      "endVerse": 16,
+      "displayReference": "2Sm 7, 4-5.12-14.16",
+      "sourceCitation": "2 Samuel 7:4-5a, 12-14a, 16",
+      "selectedVerses": [
+        4,
+        5,
+        12,
+        13,
+        14,
+        16
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 2,
+      "endChapter": 89,
+      "endVerse": 5,
+      "displayReference": "Tv 89, 2-5",
+      "sourceCitation": "Psalm 89:2-3, 4-5, 27 and 29",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 4,
+      "startVerse": 13,
+      "endChapter": 4,
+      "endVerse": 22,
+      "displayReference": "Rm 4, 13.16-18.22",
+      "sourceCitation": "Romans 4:13, 16-18, 22",
+      "selectedVerses": [
+        13,
+        16,
+        17,
+        18,
+        22
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 1,
+      "startVerse": 16,
+      "endChapter": 1,
+      "endVerse": 24,
+      "displayReference": "Mt 1, 16.18-21.24",
+      "sourceCitation": "Matthew 1:16, 18-21, 24a",
+      "selectedVerses": [
+        16,
+        18,
+        19,
+        20,
+        21,
+        24
+      ],
+      "type": "gospel",
+      "alternatives": [
+        "Lc 2, 41-51"
+      ]
+    }
+  ]
+}

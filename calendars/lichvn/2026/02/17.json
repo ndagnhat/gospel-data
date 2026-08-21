@@ -1,0 +1,58 @@
+{
+  "id": "2026-02-17",
+  "date": "2026-02-17",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần VI Thường Niên",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Bảy thánh lập dòng Tôi Tớ Đức Mẹ",
+  "saintOfDay": "Bảy thánh lập dòng Tôi Tớ Đức Mẹ",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Sáu Mùa Quanh Năm",
+    "Tết Nguyên Đán"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "JAS",
+      "startChapter": 1,
+      "startVerse": 12,
+      "endChapter": 1,
+      "endVerse": 18,
+      "displayReference": "Gc 1, 12-18",
+      "sourceCitation": "James 1:12-18",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 94,
+      "startVerse": 12,
+      "endChapter": 94,
+      "endVerse": 19,
+      "displayReference": "Tv 94, 12-15.18-19",
+      "sourceCitation": "Psalm 94:12-13a, 14-15, 18-19",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        15,
+        18,
+        19
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 8,
+      "startVerse": 14,
+      "endChapter": 8,
+      "endVerse": 21,
+      "displayReference": "Mc 8, 14-21",
+      "sourceCitation": "Mark 8:14-21",
+      "type": "gospel"
+    }
+  ]
+}

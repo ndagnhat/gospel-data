@@ -1,0 +1,57 @@
+{
+  "id": "2026-05-13",
+  "date": "2026-05-13",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VI Mùa Phục Sinh",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Đức Mẹ Fa-ti-ma",
+  "saintOfDay": "Đức Mẹ Fa-ti-ma",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Sáu Mùa Phục Sinh"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 17,
+      "startVerse": 15,
+      "endChapter": 18,
+      "endVerse": 1,
+      "displayReference": "Cv 17, 15 – 18, 1",
+      "sourceCitation": "Acts 17:15, 22—18:1",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 148,
+      "startVerse": 1,
+      "endChapter": 148,
+      "endVerse": 14,
+      "displayReference": "Tv 148, 1-2.11-14",
+      "sourceCitation": "Psalm 148:1-2, 11-12, 13, 14",
+      "selectedVerses": [
+        1,
+        2,
+        11,
+        12,
+        13,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 16,
+      "startVerse": 12,
+      "endChapter": 16,
+      "endVerse": 15,
+      "displayReference": "Ga 16, 12-15",
+      "sourceCitation": "John 16:12-15",
+      "type": "gospel"
+    }
+  ]
+}

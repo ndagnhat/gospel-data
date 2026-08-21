@@ -1,0 +1,32 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "LAM",
+  "name": "Ai Ca",
+  "abbreviation": "Ac",
+  "sortOrder": 31,
+  "testament": "old",
+  "category": "major_prophets",
+  "totalChapters": 5,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 66
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 22
+    }
+  ]
+}

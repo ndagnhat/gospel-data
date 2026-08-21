@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-10",
+  "date": "2026-10-10",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVII Thường Niên",
+  "weekNumber": 27,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Lễ Đức Mẹ ngày thứ bảy",
+  "saintOfDay": "Lễ Đức Mẹ ngày thứ bảy",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "GAL",
+      "startChapter": 3,
+      "startVerse": 22,
+      "endChapter": 3,
+      "endVerse": 29,
+      "displayReference": "Gl 3, 22-29",
+      "sourceCitation": "Galatians 3:22-29",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 105,
+      "startVerse": 2,
+      "endChapter": 105,
+      "endVerse": 7,
+      "displayReference": "Tv 105, 2-7",
+      "sourceCitation": "Psalm 105:2-3, 4-5, 6-7",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 27,
+      "endChapter": 11,
+      "endVerse": 28,
+      "displayReference": "Lc 11, 27-28",
+      "sourceCitation": "Luke 11:27-28",
+      "type": "gospel"
+    }
+  ]
+}

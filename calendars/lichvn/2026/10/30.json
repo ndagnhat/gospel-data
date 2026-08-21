@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-30",
+  "date": "2026-10-30",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXX Thường Niên",
+  "weekNumber": 30,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Ba Mươi Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "PHP",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 11,
+      "displayReference": "Pl 1, 1-11",
+      "sourceCitation": "Philippians 1:1-11",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 111,
+      "startVerse": 1,
+      "endChapter": 111,
+      "endVerse": 6,
+      "displayReference": "Tv 111, 1-6",
+      "sourceCitation": "Psalm 111:1-2, 3-4, 5-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 14,
+      "startVerse": 1,
+      "endChapter": 14,
+      "endVerse": 6,
+      "displayReference": "Lc 14, 1-6",
+      "sourceCitation": "Luke 14:1-6",
+      "type": "gospel"
+    }
+  ]
+}

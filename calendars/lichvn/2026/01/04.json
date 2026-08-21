@@ -1,0 +1,73 @@
+{
+  "id": "2026-01-04",
+  "date": "2026-01-04",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 2,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Hiển Linh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 60,
+      "startVerse": 1,
+      "endChapter": 60,
+      "endVerse": 6,
+      "displayReference": "Is 60, 1-6",
+      "sourceCitation": "Isaiah 60:1-6",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 72,
+      "startVerse": 1,
+      "endChapter": 72,
+      "endVerse": 13,
+      "displayReference": "Tv 72, 1-2.7-8.10-13",
+      "sourceCitation": "Psalm 72:1-2, 7-8, 10-11, 12-13",
+      "selectedVerses": [
+        1,
+        2,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "EPH",
+      "startChapter": 3,
+      "startVerse": 2,
+      "endChapter": 3,
+      "endVerse": 6,
+      "displayReference": "Ep 3, 2-3.5-6",
+      "sourceCitation": "Ephesians 3:2-3a, 5-6",
+      "selectedVerses": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 12,
+      "displayReference": "Mt 2, 1-12",
+      "sourceCitation": "Matthew 2:1-12",
+      "type": "gospel"
+    }
+  ]
+}

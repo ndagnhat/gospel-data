@@ -1,0 +1,49 @@
+{
+  "id": "2026-07-30",
+  "date": "2026-07-30",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVII Thường Niên",
+  "weekNumber": 17,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Phê-rô Kim Ngôn, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Phê-rô Kim Ngôn, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Mười Bảy Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 18,
+      "startVerse": 1,
+      "endChapter": 18,
+      "endVerse": 6,
+      "displayReference": "Gr 18, 1-6",
+      "sourceCitation": "Jeremiah 18:1-6",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 146,
+      "startVerse": 1,
+      "endChapter": 146,
+      "endVerse": 4,
+      "displayReference": "Tv 146, 1-4",
+      "sourceCitation": "Psalm 146:1B-2, 3-4, 5-6ab",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 47,
+      "endChapter": 13,
+      "endVerse": 53,
+      "displayReference": "Mt 13, 47-53",
+      "sourceCitation": "Matthew 13:47-53",
+      "type": "gospel"
+    }
+  ]
+}

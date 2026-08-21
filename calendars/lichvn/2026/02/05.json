@@ -1,0 +1,56 @@
+{
+  "id": "2026-02-05",
+  "date": "2026-02-05",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IV Thường Niên",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh A-ga-ta, trinh nữ, tử đạo",
+  "saintOfDay": "Thánh A-ga-ta, trinh nữ, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 12,
+      "displayReference": "1V 2, 1-4.10-12",
+      "sourceCitation": "1 Kings 2:1-4, 10-12",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        12
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "1CH",
+      "startChapter": 29,
+      "startVerse": 10,
+      "endChapter": 29,
+      "endVerse": 12,
+      "displayReference": "1Sb 29, 10-12",
+      "sourceCitation": "1 Chronicles 29:10, 11ab, 11d-12a, 12bcd",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 6,
+      "startVerse": 7,
+      "endChapter": 6,
+      "endVerse": 13,
+      "displayReference": "Mc 6, 7-13",
+      "sourceCitation": "Mark 6:7-13",
+      "type": "gospel"
+    }
+  ]
+}

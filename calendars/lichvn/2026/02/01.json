@@ -1,0 +1,62 @@
+{
+  "id": "2026-02-01",
+  "date": "2026-02-01",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần III Thường Niên",
+  "weekNumber": 3,
+  "psalterWeek": 4,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Tư Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ZEP",
+      "startChapter": 2,
+      "startVerse": 3,
+      "endChapter": 3,
+      "endVerse": 13,
+      "displayReference": "Xp 2, 3 – 3, 13",
+      "sourceCitation": "Zephaniah 2:3; 3:12-13",
+      "selectedVerses": [
+        3,
+        12,
+        13
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 146,
+      "startVerse": 6,
+      "endChapter": 146,
+      "endVerse": 10,
+      "displayReference": "Tv 146, 6-10",
+      "sourceCitation": "Psalm 146:6-7, 8-9, 9-10",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1CO",
+      "startChapter": 1,
+      "startVerse": 26,
+      "endChapter": 1,
+      "endVerse": 31,
+      "displayReference": "1Cr 1, 26-31",
+      "sourceCitation": "1 Corinthians 1:26-31",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 12,
+      "displayReference": "Mt 5, 1-12",
+      "sourceCitation": "Matthew 5:1-12a",
+      "type": "gospel"
+    }
+  ]
+}

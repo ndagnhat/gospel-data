@@ -1,0 +1,59 @@
+{
+  "id": "2026-10-22",
+  "date": "2026-10-22",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIX Thường Niên",
+  "weekNumber": 29,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Gio-an Phao-lô II, giáo hoàng",
+  "saintOfDay": "Thánh Gio-an Phao-lô II, giáo hoàng",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 3,
+      "startVerse": 14,
+      "endChapter": 3,
+      "endVerse": 21,
+      "displayReference": "Ep 3, 14-21",
+      "sourceCitation": "Ephesians 3:14-21",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 1,
+      "endChapter": 33,
+      "endVerse": 19,
+      "displayReference": "Tv 33, 1-2.4-5.11-12.18-19",
+      "sourceCitation": "Psalm 33:1-2, 4-5, 11-12, 18-19",
+      "selectedVerses": [
+        1,
+        2,
+        4,
+        5,
+        11,
+        12,
+        18,
+        19
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 12,
+      "startVerse": 49,
+      "endChapter": 12,
+      "endVerse": 53,
+      "displayReference": "Lc 12, 49-53",
+      "sourceCitation": "Luke 12:49-53",
+      "type": "gospel"
+    }
+  ]
+}

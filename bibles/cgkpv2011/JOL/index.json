@@ -1,0 +1,28 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "JOL",
+  "name": "Giô-en",
+  "abbreviation": "Ge",
+  "sortOrder": 36,
+  "testament": "old",
+  "category": "minor_prophets",
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 5
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 21
+    }
+  ]
+}

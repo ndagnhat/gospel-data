@@ -1,0 +1,47 @@
+{
+  "id": "2026-03-16",
+  "date": "2026-03-16",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần IV Mùa Chay",
+  "weekNumber": 4,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Tư Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 65,
+      "startVerse": 17,
+      "endChapter": 65,
+      "endVerse": 21,
+      "displayReference": "Is 65, 17-21",
+      "sourceCitation": "Isaiah 65:17-21",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 5,
+      "endChapter": 1,
+      "endVerse": 6,
+      "displayReference": "Tv 1, 5-6",
+      "sourceCitation": "Psalm 30:2 and 4, 5-6, 11-12a and 13b",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 4,
+      "startVerse": 43,
+      "endChapter": 4,
+      "endVerse": 54,
+      "displayReference": "Ga 4, 43-54",
+      "sourceCitation": "John 4:43-54",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2026-07-20",
+  "date": "2026-07-20",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVI Thường Niên",
+  "weekNumber": 16,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh A-pô-li-na-rê, giám mục, tử đạo",
+  "saintOfDay": "Thánh A-pô-li-na-rê, giám mục, tử đạo",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Mười Sáu Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "MIC",
+      "startChapter": 6,
+      "startVerse": 1,
+      "endChapter": 6,
+      "endVerse": 8,
+      "displayReference": "Mk 6, 1-4.6-8",
+      "sourceCitation": "Micah 6:1-4, 6-8",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 50,
+      "startVerse": 5,
+      "endChapter": 50,
+      "endVerse": 23,
+      "displayReference": "Tv 50, 5-6.8-9.21.23",
+      "sourceCitation": "Psalm 50:5-6, 8-9, 16bc-17, 21, 23",
+      "selectedVerses": [
+        5,
+        6,
+        8,
+        9,
+        21,
+        23
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 12,
+      "startVerse": 38,
+      "endChapter": 12,
+      "endVerse": 42,
+      "displayReference": "Mt 12, 38-42",
+      "sourceCitation": "Matthew 12:38-42",
+      "type": "gospel"
+    }
+  ]
+}

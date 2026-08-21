@@ -1,0 +1,82 @@
+{
+  "id": "2026-04-05",
+  "date": "2026-04-05",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần I Mùa Phục Sinh",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật Lễ Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 10,
+      "startVerse": 34,
+      "endChapter": 10,
+      "endVerse": 43,
+      "displayReference": "Cv 10, 34.37-43",
+      "sourceCitation": "Acts 10:34a, 37-43",
+      "selectedVerses": [
+        34,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 118,
+      "startVerse": 1,
+      "endChapter": 118,
+      "endVerse": 23,
+      "displayReference": "Tv 118, 1-2.16-17.22-23",
+      "sourceCitation": "Psalm 118:1-2, 16-17, 22-23",
+      "selectedVerses": [
+        1,
+        2,
+        16,
+        17,
+        22,
+        23
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "COL",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 4,
+      "displayReference": "Cl 3, 1-4",
+      "sourceCitation": "Colossians 3:1-4",
+      "type": "second_reading",
+      "alternatives": [
+        "1Cr 5, 6-8"
+      ]
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 20,
+      "startVerse": 1,
+      "endChapter": 20,
+      "endVerse": 9,
+      "displayReference": "Ga 20, 1-9",
+      "sourceCitation": "John 20:1-9",
+      "type": "gospel",
+      "alternatives": [
+        "Mt 28, 1-10",
+        "Lc 24, 13-35"
+      ]
+    }
+  ]
+}

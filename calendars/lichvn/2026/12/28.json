@@ -1,0 +1,47 @@
+{
+  "id": "2026-12-28",
+  "date": "2026-12-28",
+  "season": "christmas",
+  "seasonName": "Mùa Giáng Sinh",
+  "week": "Mùa Giáng Sinh",
+  "weekNumber": null,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Các Thánh Anh Hài, tử đạo",
+  "saintOfDay": "Các Thánh Anh Hài, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "1JN",
+      "startChapter": 1,
+      "startVerse": 5,
+      "endChapter": 2,
+      "endVerse": 2,
+      "displayReference": "1Ga 1, 5 – 2, 2",
+      "sourceCitation": "1 John 1:5—2:2",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 124,
+      "startVerse": 2,
+      "endChapter": 124,
+      "endVerse": 5,
+      "displayReference": "Tv 124, 2-5",
+      "sourceCitation": "Psalm 124:2-3, 4-5, 7cd-8",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 2,
+      "startVerse": 13,
+      "endChapter": 2,
+      "endVerse": 18,
+      "displayReference": "Mt 2, 13-18",
+      "sourceCitation": "Matthew 2:13-18",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-21",
+  "date": "2026-11-21",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXIII Thường Niên",
+  "weekNumber": 33,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Đức Mẹ dâng mình trong đền thờ",
+  "saintOfDay": "Đức Mẹ dâng mình trong đền thờ",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "REV",
+      "startChapter": 11,
+      "startVerse": 4,
+      "endChapter": 11,
+      "endVerse": 12,
+      "displayReference": "Kh 11, 4-12",
+      "sourceCitation": "Revelation 11:4-12",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 144,
+      "startVerse": 1,
+      "endChapter": 144,
+      "endVerse": 10,
+      "displayReference": "Tv 144, 1-2.9-10",
+      "sourceCitation": "Psalm 144:1, 2, 9-10",
+      "selectedVerses": [
+        1,
+        2,
+        9,
+        10
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 20,
+      "startVerse": 27,
+      "endChapter": 20,
+      "endVerse": 40,
+      "displayReference": "Lc 20, 27-40",
+      "sourceCitation": "Luke 20:27-40",
+      "type": "gospel"
+    }
+  ]
+}

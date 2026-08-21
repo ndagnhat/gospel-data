@@ -1,0 +1,55 @@
+{
+  "id": "2026-01-28",
+  "date": "2026-01-28",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần III Thường Niên",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Tô-ma A-qui-nô, linh mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Tô-ma A-qui-nô, linh mục, tiến sĩ Hội Thánh",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "2SA",
+      "startChapter": 7,
+      "startVerse": 4,
+      "endChapter": 7,
+      "endVerse": 17,
+      "displayReference": "2Sm 7, 4-17",
+      "sourceCitation": "2 Samuel 7:4-17",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 4,
+      "endChapter": 89,
+      "endVerse": 30,
+      "displayReference": "Tv 89, 4-5.27-30",
+      "sourceCitation": "Psalm 89:4-5, 27-28, 29-30",
+      "selectedVerses": [
+        4,
+        5,
+        27,
+        28,
+        29,
+        30
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 4,
+      "startVerse": 1,
+      "endChapter": 4,
+      "endVerse": 20,
+      "displayReference": "Mc 4, 1-20",
+      "sourceCitation": "Mark 4:1-20",
+      "type": "gospel"
+    }
+  ]
+}

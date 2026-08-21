@@ -1,0 +1,50 @@
+{
+  "id": "2026-05-12",
+  "date": "2026-05-12",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VI Mùa Phục Sinh",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Nê-rê-ô và thánh A-ki-lê-ô, tử đạo",
+  "saintOfDay": "Thánh Nê-rê-ô và thánh A-ki-lê-ô, tử đạo",
+  "commemorations": [
+    "Thánh Păng-ra-xi-ô, tử đạo",
+    "Thứ Ba trong tuần thứ Sáu Mùa Phục Sinh"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 16,
+      "startVerse": 22,
+      "endChapter": 16,
+      "endVerse": 34,
+      "displayReference": "Cv 16, 22-34",
+      "sourceCitation": "Acts 16:22-34",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 7,
+      "endChapter": 1,
+      "endVerse": 8,
+      "displayReference": "Tv 1, 7-8",
+      "sourceCitation": "Psalm 138:1-2ab, 2cde-3, 7c-8",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 16,
+      "startVerse": 5,
+      "endChapter": 16,
+      "endVerse": 11,
+      "displayReference": "Ga 16, 5-11",
+      "sourceCitation": "John 16:5-11",
+      "type": "gospel"
+    }
+  ]
+}

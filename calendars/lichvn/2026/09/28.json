@@ -1,0 +1,56 @@
+{
+  "id": "2026-09-28",
+  "date": "2026-09-28",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVI Thường Niên",
+  "weekNumber": 26,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Lô-ren-xô Ru-y và các bạn, tử đạo",
+  "saintOfDay": "Thánh Lô-ren-xô Ru-y và các bạn, tử đạo",
+  "commemorations": [
+    "Thánh Ven-xét-lao, tử đạo",
+    "Thứ Hai trong tuần thứ Hai Mươi-Sáu Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "JOB",
+      "startChapter": 1,
+      "startVerse": 6,
+      "endChapter": 1,
+      "endVerse": 22,
+      "displayReference": "G 1, 6-22",
+      "sourceCitation": "Job 1:6-22",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 2,
+      "endChapter": 1,
+      "endVerse": 7,
+      "displayReference": "Tv 1, 2-3.6-7",
+      "sourceCitation": "Psalm 17:1bcd, 2-3, 6-7",
+      "selectedVerses": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 9,
+      "startVerse": 46,
+      "endChapter": 9,
+      "endVerse": 50,
+      "displayReference": "Lc 9, 46-50",
+      "sourceCitation": "Luke 9:46-50",
+      "type": "gospel"
+    }
+  ]
+}

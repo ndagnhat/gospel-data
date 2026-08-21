@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-25",
+  "date": "2026-11-25",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXIV Thường Niên",
+  "weekNumber": 34,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Ca-ta-ri-na A-lê-xan-ri-a, trinh nữ, tử đạo",
+  "saintOfDay": "Thánh Ca-ta-ri-na A-lê-xan-ri-a, trinh nữ, tử đạo",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "REV",
+      "startChapter": 15,
+      "startVerse": 1,
+      "endChapter": 15,
+      "endVerse": 4,
+      "displayReference": "Kh 15, 1-4",
+      "sourceCitation": "Revelation 15:1-4",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 98,
+      "startVerse": 1,
+      "endChapter": 98,
+      "endVerse": 9,
+      "displayReference": "Tv 98, 1.7-9",
+      "sourceCitation": "Psalm 98:1, 2-3ab, 7-8, 9",
+      "selectedVerses": [
+        1,
+        7,
+        8,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 21,
+      "startVerse": 12,
+      "endChapter": 21,
+      "endVerse": 19,
+      "displayReference": "Lc 21, 12-19",
+      "sourceCitation": "Luke 21:12-19",
+      "type": "gospel"
+    }
+  ]
+}

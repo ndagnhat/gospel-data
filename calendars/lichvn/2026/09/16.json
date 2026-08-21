@@ -1,0 +1,47 @@
+{
+  "id": "2026-09-16",
+  "date": "2026-09-16",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIV Thường Niên",
+  "weekNumber": 24,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Co-nê-li-ô, giáo hoàng và thánh Sip-ri-a-nô, giám mục, tử đạo",
+  "saintOfDay": "Thánh Co-nê-li-ô, giáo hoàng và thánh Sip-ri-a-nô, giám mục, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 12,
+      "startVerse": 31,
+      "endChapter": 13,
+      "endVerse": 13,
+      "displayReference": "1Cr 12, 31 – 13, 13",
+      "sourceCitation": "1 Corinthians 12:31-13:13",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 2,
+      "endChapter": 33,
+      "endVerse": 5,
+      "displayReference": "Tv 33, 2-5",
+      "sourceCitation": "Psalm 33:2-3, 4-5, 12 and 22",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 7,
+      "startVerse": 31,
+      "endChapter": 7,
+      "endVerse": 35,
+      "displayReference": "Lc 7, 31-35",
+      "sourceCitation": "Luke 7:31-35",
+      "type": "gospel"
+    }
+  ]
+}

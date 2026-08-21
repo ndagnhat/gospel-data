@@ -1,0 +1,124 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "MAT",
+  "name": "Tin Mừng Mát-thêu",
+  "abbreviation": "Mt",
+  "sortOrder": 47,
+  "testament": "new",
+  "category": "gospel",
+  "totalChapters": 28,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 48
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 42
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 50
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 58
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 39
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 34
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 46
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 46
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 39
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 51
+    },
+    {
+      "chapterNumber": 25,
+      "totalVerses": 46
+    },
+    {
+      "chapterNumber": 26,
+      "totalVerses": 75
+    },
+    {
+      "chapterNumber": 27,
+      "totalVerses": 66
+    },
+    {
+      "chapterNumber": 28,
+      "totalVerses": 20
+    }
+  ]
+}

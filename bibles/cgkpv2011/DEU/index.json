@@ -1,0 +1,148 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "DEU",
+  "name": "Đệ Nhị Luật",
+  "abbreviation": "Đnl",
+  "sortOrder": 5,
+  "testament": "old",
+  "category": "torah",
+  "totalChapters": 34,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 46
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 49
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 25,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 26,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 27,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 28,
+      "totalVerses": 69
+    },
+    {
+      "chapterNumber": 29,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 30,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 31,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 32,
+      "totalVerses": 52
+    },
+    {
+      "chapterNumber": 33,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 34,
+      "totalVerses": 12
+    }
+  ]
+}

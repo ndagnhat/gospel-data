@@ -1,0 +1,64 @@
+{
+  "id": "2026-12-15",
+  "date": "2026-12-15",
+  "season": "advent",
+  "seasonName": "Mùa Vọng",
+  "week": "Tuần III Mùa Vọng",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Ba Mùa Vọng",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ZEP",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 13,
+      "displayReference": "Xp 3, 1-2.9-13",
+      "sourceCitation": "Zephaniah 3:1-2, 9-13",
+      "selectedVerses": [
+        1,
+        2,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 34,
+      "startVerse": 2,
+      "endChapter": 34,
+      "endVerse": 18,
+      "displayReference": "Tv 34, 2-3.6-7.17-18",
+      "sourceCitation": "Psalm 34:2-3, 6-7, 17-18, 19 and 23",
+      "selectedVerses": [
+        2,
+        3,
+        6,
+        7,
+        17,
+        18
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 21,
+      "startVerse": 28,
+      "endChapter": 21,
+      "endVerse": 32,
+      "displayReference": "Mt 21, 28-32",
+      "sourceCitation": "Matthew 21:28-32",
+      "type": "gospel"
+    }
+  ]
+}

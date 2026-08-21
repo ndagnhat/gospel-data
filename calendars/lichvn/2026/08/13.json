@@ -1,0 +1,57 @@
+{
+  "id": "2026-08-13",
+  "date": "2026-08-13",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XIX Thường Niên",
+  "weekNumber": 19,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Pôn-xi-a-nô, giáo hoàng, và thánh Hip-pô-li-tô, linh mục, tử đạo",
+  "saintOfDay": "Thánh Pôn-xi-a-nô, giáo hoàng, và thánh Hip-pô-li-tô, linh mục, tử đạo",
+  "commemorations": [
+    "Thứ Năm trong tuần thứ Mười Chín Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "EZK",
+      "startChapter": 12,
+      "startVerse": 1,
+      "endChapter": 12,
+      "endVerse": 12,
+      "displayReference": "Ed 12, 1-12",
+      "sourceCitation": "Ezekiel 12:1-12",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 78,
+      "startVerse": 56,
+      "endChapter": 78,
+      "endVerse": 62,
+      "displayReference": "Tv 78, 56-59.61-62",
+      "sourceCitation": "Psalm 78:56-57, 58-59, 61-62",
+      "selectedVerses": [
+        56,
+        57,
+        58,
+        59,
+        61,
+        62
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 18,
+      "startVerse": 21,
+      "endChapter": 19,
+      "endVerse": 1,
+      "displayReference": "Mt 18, 21 – 19, 1",
+      "sourceCitation": "Matthew 18:21—19:1",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2026-09-07",
+  "date": "2026-09-07",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIII Thường Niên",
+  "weekNumber": 23,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thứ Hai trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 8,
+      "displayReference": "1Cr 5, 1-8",
+      "sourceCitation": "1 Corinthians 5:1-8",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 5,
+      "startVerse": 5,
+      "endChapter": 5,
+      "endVerse": 12,
+      "displayReference": "Tv 5, 5-7.12",
+      "sourceCitation": "Psalm 5:5-6, 7, 12",
+      "selectedVerses": [
+        5,
+        6,
+        7,
+        12
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 6,
+      "startVerse": 6,
+      "endChapter": 6,
+      "endVerse": 11,
+      "displayReference": "Lc 6, 6-11",
+      "sourceCitation": "Luke 6:6-11",
+      "type": "gospel"
+    }
+  ]
+}

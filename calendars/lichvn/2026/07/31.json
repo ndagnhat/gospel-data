@@ -1,0 +1,54 @@
+{
+  "id": "2026-07-31",
+  "date": "2026-07-31",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVII Thường Niên",
+  "weekNumber": 17,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh I-nha-xi-ô Lôi-ô-la, linh mục",
+  "saintOfDay": "Thánh I-nha-xi-ô Lôi-ô-la, linh mục",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "JER",
+      "startChapter": 26,
+      "startVerse": 1,
+      "endChapter": 26,
+      "endVerse": 9,
+      "displayReference": "Gr 26, 1-9",
+      "sourceCitation": "Jeremiah 26:1-9",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 69,
+      "startVerse": 5,
+      "endChapter": 69,
+      "endVerse": 14,
+      "displayReference": "Tv 69, 5.8-10.14",
+      "sourceCitation": "Psalm 69:5, 8-10, 14",
+      "selectedVerses": [
+        5,
+        8,
+        9,
+        10,
+        14
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 13,
+      "startVerse": 54,
+      "endChapter": 13,
+      "endVerse": 58,
+      "displayReference": "Mt 13, 54-58",
+      "sourceCitation": "Matthew 13:54-58",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "BAR",
+  "name": "Ba-rúc",
+  "abbreviation": "Br",
+  "sortOrder": 32,
+  "testament": "old",
+  "category": "major_prophets",
+  "totalChapters": 6,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 38
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 33
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 72
+    }
+  ]
+}

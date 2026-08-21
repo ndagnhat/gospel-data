@@ -1,0 +1,24 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "2PE",
+  "name": "Thư 2 Phê-rô",
+  "abbreviation": "2Pr",
+  "sortOrder": 68,
+  "testament": "new",
+  "category": "letters_general",
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 18
+    }
+  ]
+}

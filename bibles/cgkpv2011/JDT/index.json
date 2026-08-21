@@ -1,0 +1,76 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "JDT",
+  "name": "Giu-đi-tha",
+  "abbreviation": "Gđt",
+  "sortOrder": 18,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 16,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 7
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 24
+    }
+  ]
+}

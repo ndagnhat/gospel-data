@@ -1,0 +1,82 @@
+{
+  "id": "2026-06-28",
+  "date": "2026-06-28",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XII Thường Niên",
+  "weekNumber": 12,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Mười Ba Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "2KI",
+      "startChapter": 4,
+      "startVerse": 8,
+      "endChapter": 4,
+      "endVerse": 16,
+      "displayReference": "2V 4, 8-11.14-16",
+      "sourceCitation": "2 Kings 4:8-11, 14-16a",
+      "selectedVerses": [
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        16
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 2,
+      "endChapter": 89,
+      "endVerse": 19,
+      "displayReference": "Tv 89, 2-3.16-19",
+      "sourceCitation": "Psalm 89:2-3, 16-17, 18-19",
+      "selectedVerses": [
+        2,
+        3,
+        16,
+        17,
+        18,
+        19
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 6,
+      "startVerse": 3,
+      "endChapter": 6,
+      "endVerse": 11,
+      "displayReference": "Rm 6, 3-4.8-11",
+      "sourceCitation": "Romans 6:3-4, 8-11",
+      "selectedVerses": [
+        3,
+        4,
+        8,
+        9,
+        10,
+        11
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 10,
+      "startVerse": 37,
+      "endChapter": 10,
+      "endVerse": 42,
+      "displayReference": "Mt 10, 37-42",
+      "sourceCitation": "Matthew 10:37-42",
+      "type": "gospel"
+    }
+  ]
+}

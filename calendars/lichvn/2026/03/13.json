@@ -1,0 +1,47 @@
+{
+  "id": "2026-03-13",
+  "date": "2026-03-13",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần III Mùa Chay",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Ba Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "HOS",
+      "startChapter": 14,
+      "startVerse": 2,
+      "endChapter": 14,
+      "endVerse": 10,
+      "displayReference": "Hs 14, 2-10",
+      "sourceCitation": "Hosea 14:2-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 81,
+      "startVerse": 6,
+      "endChapter": 81,
+      "endVerse": 8,
+      "displayReference": "Tv 81, 6-8",
+      "sourceCitation": "Psalm 81:6c-8a, 8bc-9, 10-11ab, 14 and 17",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 12,
+      "startVerse": 28,
+      "endChapter": 12,
+      "endVerse": 34,
+      "displayReference": "Mc 12, 28-34",
+      "sourceCitation": "Mark 12:28-34",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2026-03-08",
+  "date": "2026-03-08",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần III Mùa Chay",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Ba Mùa Chay",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "EXO",
+      "startChapter": 17,
+      "startVerse": 3,
+      "endChapter": 17,
+      "endVerse": 7,
+      "displayReference": "Xh 17, 3-7",
+      "sourceCitation": "Exodus 17:3-7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 95,
+      "startVerse": 1,
+      "endChapter": 95,
+      "endVerse": 9,
+      "displayReference": "Tv 95, 1-2.6-9",
+      "sourceCitation": "Psalm 95:1-2, 6-7, 8-9",
+      "selectedVerses": [
+        1,
+        2,
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "ROM",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 8,
+      "displayReference": "Rm 5, 1-2.5-8",
+      "sourceCitation": "Romans 5:1-2, 5-8",
+      "selectedVerses": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 4,
+      "startVerse": 5,
+      "endChapter": 4,
+      "endVerse": 42,
+      "displayReference": "Ga 4, 5-42",
+      "sourceCitation": "John 4:5-42",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2026-09-15",
+  "date": "2026-09-15",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIV Thường Niên",
+  "weekNumber": 24,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Đức Mẹ sầu bi",
+  "saintOfDay": "Đức Mẹ sầu bi",
+  "commemorations": [],
+  "color": "white",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 12,
+      "startVerse": 12,
+      "endChapter": 12,
+      "endVerse": 31,
+      "displayReference": "1Cr 12, 12-14.27-31",
+      "sourceCitation": "1 Corinthians 12:12-14, 27-31a",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 100,
+      "startVerse": 1,
+      "endChapter": 100,
+      "endVerse": 5,
+      "displayReference": "Tv 100, 1-5",
+      "sourceCitation": "Psalm 100:1b-2, 3, 4, 5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 19,
+      "startVerse": 25,
+      "endChapter": 19,
+      "endVerse": 27,
+      "displayReference": "Ga 19, 25-27",
+      "sourceCitation": "John 19:25-27",
+      "type": "gospel"
+    }
+  ]
+}

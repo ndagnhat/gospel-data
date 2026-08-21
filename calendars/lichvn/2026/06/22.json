@@ -1,0 +1,67 @@
+{
+  "id": "2026-06-22",
+  "date": "2026-06-22",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XII Thường Niên",
+  "weekNumber": 12,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Gio-an Phít-sơ, giám mục, và thánh Tô-ma Mo, tử đạo",
+  "saintOfDay": "Thánh Gio-an Phít-sơ, giám mục, và thánh Tô-ma Mo, tử đạo",
+  "commemorations": [
+    "Thánh Pao-li-nô, giám mục Nô-la",
+    "Thứ Hai trong tuần thứ Mười Hai Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "2KI",
+      "startChapter": 17,
+      "startVerse": 5,
+      "endChapter": 17,
+      "endVerse": 18,
+      "displayReference": "2V 17, 5-8.13-15.18",
+      "sourceCitation": "2 Kings 17:5-8, 13-15a, 18",
+      "selectedVerses": [
+        5,
+        6,
+        7,
+        8,
+        13,
+        14,
+        15,
+        18
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 60,
+      "startVerse": 3,
+      "endChapter": 60,
+      "endVerse": 13,
+      "displayReference": "Tv 60, 3-5.12-13",
+      "sourceCitation": "Psalm 60:3, 4-5, 12-13",
+      "selectedVerses": [
+        3,
+        4,
+        5,
+        12,
+        13
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 7,
+      "startVerse": 1,
+      "endChapter": 7,
+      "endVerse": 5,
+      "displayReference": "Mt 7, 1-5",
+      "sourceCitation": "Matthew 7:1-5",
+      "type": "gospel"
+    }
+  ]
+}

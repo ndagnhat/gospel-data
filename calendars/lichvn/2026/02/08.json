@@ -1,0 +1,57 @@
+{
+  "id": "2026-02-08",
+  "date": "2026-02-08",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IV Thường Niên",
+  "weekNumber": 4,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Năm Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 58,
+      "startVerse": 7,
+      "endChapter": 58,
+      "endVerse": 10,
+      "displayReference": "Is 58, 7-10",
+      "sourceCitation": "Isaiah 58:7-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 112,
+      "startVerse": 4,
+      "endChapter": 112,
+      "endVerse": 9,
+      "displayReference": "Tv 112, 4-9",
+      "sourceCitation": "Psalm 112:4-5, 6-7, 8-9",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1CO",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 5,
+      "displayReference": "1Cr 2, 1-5",
+      "sourceCitation": "1 Corinthians 2:1-5",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 5,
+      "startVerse": 13,
+      "endChapter": 5,
+      "endVerse": 16,
+      "displayReference": "Mt 5, 13-16",
+      "sourceCitation": "Matthew 5:13-16",
+      "type": "gospel"
+    }
+  ]
+}

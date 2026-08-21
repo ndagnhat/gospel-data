@@ -1,0 +1,49 @@
+{
+  "id": "2026-05-29",
+  "date": "2026-05-29",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần VIII Thường Niên",
+  "weekNumber": 8,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Phao-lô VI, giáo hoàng",
+  "saintOfDay": "Thánh Phao-lô VI, giáo hoàng",
+  "commemorations": [
+    "Thứ Sáu trong tuần thứ Tám Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1PE",
+      "startChapter": 4,
+      "startVerse": 7,
+      "endChapter": 4,
+      "endVerse": 13,
+      "displayReference": "1Pr 4, 7-13",
+      "sourceCitation": "1 Peter 4:7-13",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 96,
+      "startVerse": 10,
+      "endChapter": 96,
+      "endVerse": 13,
+      "displayReference": "Tv 96, 10-13",
+      "sourceCitation": "Psalm 96:10, 11-12, 13",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 11,
+      "startVerse": 11,
+      "endChapter": 11,
+      "endVerse": 26,
+      "displayReference": "Mc 11, 11-26",
+      "sourceCitation": "Mark 11:11-26",
+      "type": "gospel"
+    }
+  ]
+}

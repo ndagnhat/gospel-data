@@ -1,0 +1,57 @@
+{
+  "id": "2026-02-11",
+  "date": "2026-02-11",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần V Thường Niên",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Đức Mẹ Lộ-đức",
+  "saintOfDay": "Đức Mẹ Lộ-đức",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Năm Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1KI",
+      "startChapter": 10,
+      "startVerse": 1,
+      "endChapter": 10,
+      "endVerse": 10,
+      "displayReference": "1V 10, 1-10",
+      "sourceCitation": "1 Kings 10:1-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 37,
+      "startVerse": 5,
+      "endChapter": 37,
+      "endVerse": 40,
+      "displayReference": "Tv 37, 5-6.30-31.39-40",
+      "sourceCitation": "Psalm 37:5-6, 30-31, 39-40",
+      "selectedVerses": [
+        5,
+        6,
+        30,
+        31,
+        39,
+        40
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 7,
+      "startVerse": 14,
+      "endChapter": 7,
+      "endVerse": 23,
+      "displayReference": "Mc 7, 14-23",
+      "sourceCitation": "Mark 7:14-23",
+      "type": "gospel"
+    }
+  ]
+}

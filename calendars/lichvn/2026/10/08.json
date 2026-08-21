@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-08",
+  "date": "2026-10-08",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVII Thường Niên",
+  "weekNumber": 27,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "GAL",
+      "startChapter": 3,
+      "startVerse": 1,
+      "endChapter": 3,
+      "endVerse": 5,
+      "displayReference": "Gl 3, 1-5",
+      "sourceCitation": "Galatians 3:1-5",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 1,
+      "startVerse": 69,
+      "endChapter": 1,
+      "endVerse": 75,
+      "displayReference": "Lc 1, 69-75",
+      "sourceCitation": "Luke 1:69-70, 71-72, 73-75",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 5,
+      "endChapter": 11,
+      "endVerse": 13,
+      "displayReference": "Lc 11, 5-13",
+      "sourceCitation": "Luke 11:5-13",
+      "type": "gospel"
+    }
+  ]
+}

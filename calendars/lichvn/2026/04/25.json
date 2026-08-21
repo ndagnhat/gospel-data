@@ -1,0 +1,55 @@
+{
+  "id": "2026-04-25",
+  "date": "2026-04-25",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần III Mùa Phục Sinh",
+  "weekNumber": 3,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Mác-cô, tác giả sách Tin Mừng",
+  "saintOfDay": "Thánh Mác-cô, tác giả sách Tin Mừng",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "1PE",
+      "startChapter": 5,
+      "startVerse": 5,
+      "endChapter": 5,
+      "endVerse": 14,
+      "displayReference": "1Pr 5, 5-14",
+      "sourceCitation": "1 Peter 5:5b-14",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 2,
+      "endChapter": 89,
+      "endVerse": 17,
+      "displayReference": "Tv 89, 2-3.6-7.16-17",
+      "sourceCitation": "Psalm 89:2-3, 6-7, 16-17",
+      "selectedVerses": [
+        2,
+        3,
+        6,
+        7,
+        16,
+        17
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 16,
+      "startVerse": 15,
+      "endChapter": 16,
+      "endVerse": 20,
+      "displayReference": "Mc 16, 15-20",
+      "sourceCitation": "Mark 16:15-20",
+      "type": "gospel"
+    }
+  ]
+}

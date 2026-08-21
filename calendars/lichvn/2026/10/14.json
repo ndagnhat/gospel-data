@@ -1,0 +1,56 @@
+{
+  "id": "2026-10-14",
+  "date": "2026-10-14",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVIII Thường Niên",
+  "weekNumber": 28,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Ca-lít-tô I, giáo hoàng, tử đạo",
+  "saintOfDay": "Thánh Ca-lít-tô I, giáo hoàng, tử đạo",
+  "commemorations": [
+    "Thứ Tư trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm"
+  ],
+  "color": "red",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "GAL",
+      "startChapter": 5,
+      "startVerse": 18,
+      "endChapter": 5,
+      "endVerse": 25,
+      "displayReference": "Gl 5, 18-25",
+      "sourceCitation": "Galatians 5:18-25",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 6,
+      "displayReference": "Tv 1, 1-4.6",
+      "sourceCitation": "Psalm 1:1-2, 3, 4, 6",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 11,
+      "startVerse": 42,
+      "endChapter": 11,
+      "endVerse": 46,
+      "displayReference": "Lc 11, 42-46",
+      "sourceCitation": "Luke 11:42-46",
+      "type": "gospel"
+    }
+  ]
+}

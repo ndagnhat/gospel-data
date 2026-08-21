@@ -1,0 +1,55 @@
+{
+  "id": "2026-06-05",
+  "date": "2026-06-05",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IX Thường Niên",
+  "weekNumber": 9,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thánh Bô-ni-phát, giám mục, tử đạo",
+  "saintOfDay": "Thánh Bô-ni-phát, giám mục, tử đạo",
+  "commemorations": [],
+  "color": "red",
+  "rank": "memorial",
+  "readings": [
+    {
+      "bookCode": "2TM",
+      "startChapter": 3,
+      "startVerse": 10,
+      "endChapter": 3,
+      "endVerse": 17,
+      "displayReference": "2Tm 3, 10-17",
+      "sourceCitation": "2 Timothy 3:10-17",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 157,
+      "endChapter": 119,
+      "endVerse": 168,
+      "displayReference": "Tv 119, 157.160-161.165-166.168",
+      "sourceCitation": "Psalm 119:157, 160, 161, 165, 166, 168",
+      "selectedVerses": [
+        157,
+        160,
+        161,
+        165,
+        166,
+        168
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 12,
+      "startVerse": 35,
+      "endChapter": 12,
+      "endVerse": 37,
+      "displayReference": "Mc 12, 35-37",
+      "sourceCitation": "Mark 12:35-37",
+      "type": "gospel"
+    }
+  ]
+}

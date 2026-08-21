@@ -1,0 +1,88 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "WIS",
+  "name": "Khôn Ngoan",
+  "abbreviation": "Kn",
+  "sortOrder": 27,
+  "testament": "old",
+  "category": "wisdom",
+  "totalChapters": 19,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 4
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 22
+    }
+  ]
+}

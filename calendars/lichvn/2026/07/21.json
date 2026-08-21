@@ -1,0 +1,56 @@
+{
+  "id": "2026-07-21",
+  "date": "2026-07-21",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVI Thường Niên",
+  "weekNumber": 16,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thánh Lô-ren-xô Bơ-rin-đi-xi, linh mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Lô-ren-xô Bơ-rin-đi-xi, linh mục, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thứ Ba trong tuần thứ Mười Sáu Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "MIC",
+      "startChapter": 7,
+      "startVerse": 14,
+      "endChapter": 7,
+      "endVerse": 20,
+      "displayReference": "Mk 7, 14-15.18-20",
+      "sourceCitation": "Micah 7:14-15, 18-20",
+      "selectedVerses": [
+        14,
+        15,
+        18,
+        19,
+        20
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 85,
+      "startVerse": 2,
+      "endChapter": 85,
+      "endVerse": 8,
+      "displayReference": "Tv 85, 2-8",
+      "sourceCitation": "Psalm 85:2-4, 5-6, 7-8",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 12,
+      "startVerse": 46,
+      "endChapter": 12,
+      "endVerse": 50,
+      "displayReference": "Mt 12, 46-50",
+      "sourceCitation": "Matthew 12:46-50",
+      "type": "gospel"
+    }
+  ]
+}

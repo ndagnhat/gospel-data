@@ -1,0 +1,65 @@
+{
+  "id": "2026-04-02",
+  "date": "2026-04-02",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần VI Mùa Chay",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm Tuần Thánh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 61,
+      "startVerse": 1,
+      "endChapter": 61,
+      "endVerse": 9,
+      "displayReference": "Is 61, 1-3.6.8-9",
+      "sourceCitation": "Isaiah 61:1-3a, 6a, 8b-9",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        6,
+        8,
+        9
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 21,
+      "endChapter": 89,
+      "endVerse": 22,
+      "displayReference": "Tv 89, 21-22",
+      "sourceCitation": "Psalm 89:21-22, 25 and 27",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "REV",
+      "startChapter": 1,
+      "startVerse": 5,
+      "endChapter": 1,
+      "endVerse": 8,
+      "displayReference": "Kh 1, 5-8",
+      "sourceCitation": "Revelation 1:5-8",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 4,
+      "startVerse": 16,
+      "endChapter": 4,
+      "endVerse": 21,
+      "displayReference": "Lc 4, 16-21",
+      "sourceCitation": "Luke 4:16-21",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2026-01-16",
+  "date": "2026-01-16",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần I Thường Niên",
+  "weekNumber": 1,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Sáu",
+  "title": "Thứ Sáu trong tuần thứ Nhất Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "1SA",
+      "startChapter": 8,
+      "startVerse": 4,
+      "endChapter": 8,
+      "endVerse": 22,
+      "displayReference": "1Sm 8, 4-7.10-22",
+      "sourceCitation": "1 Samuel 8:4-7, 10-22a",
+      "selectedVerses": [
+        4,
+        5,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 89,
+      "startVerse": 16,
+      "endChapter": 89,
+      "endVerse": 19,
+      "displayReference": "Tv 89, 16-19",
+      "sourceCitation": "Psalm 89:16-17, 18-19",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 2,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 12,
+      "displayReference": "Mc 2, 1-12",
+      "sourceCitation": "Mark 2:1-12",
+      "type": "gospel"
+    }
+  ]
+}

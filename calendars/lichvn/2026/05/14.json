@@ -1,0 +1,59 @@
+{
+  "id": "2026-05-14",
+  "date": "2026-05-14",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần VI Mùa Phục Sinh",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thánh Mat-thi-a, tông đồ",
+  "saintOfDay": "Thánh Mat-thi-a, tông đồ",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 1,
+      "startVerse": 15,
+      "endChapter": 1,
+      "endVerse": 26,
+      "displayReference": "Cv 1, 15-17.20-26",
+      "sourceCitation": "Acts 1:15-17, 20-26",
+      "selectedVerses": [
+        15,
+        16,
+        17,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 113,
+      "startVerse": 1,
+      "endChapter": 113,
+      "endVerse": 8,
+      "displayReference": "Tv 113, 1-8",
+      "sourceCitation": "Psalm 113:1-2, 3-4, 5-6, 7-8",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 15,
+      "startVerse": 9,
+      "endChapter": 15,
+      "endVerse": 17,
+      "displayReference": "Ga 15, 9-17",
+      "sourceCitation": "John 15:9-17",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-28",
+  "date": "2026-10-28",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXX Thường Niên",
+  "weekNumber": 30,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thánh Si-mon và thánh Giu-đa, tông đồ",
+  "saintOfDay": "Thánh Si-mon và thánh Giu-đa, tông đồ",
+  "commemorations": [],
+  "color": "red",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "EPH",
+      "startChapter": 2,
+      "startVerse": 19,
+      "endChapter": 2,
+      "endVerse": 22,
+      "displayReference": "Ep 2, 19-22",
+      "sourceCitation": "Ephesians 2:19-22",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 19,
+      "startVerse": 2,
+      "endChapter": 19,
+      "endVerse": 5,
+      "displayReference": "Tv 19, 2-5",
+      "sourceCitation": "Psalm 19:2-3, 4-5",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 6,
+      "startVerse": 12,
+      "endChapter": 6,
+      "endVerse": 16,
+      "displayReference": "Lc 6, 12-16",
+      "sourceCitation": "Luke 6:12-16",
+      "type": "gospel"
+    }
+  ]
+}

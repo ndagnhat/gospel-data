@@ -1,0 +1,64 @@
+{
+  "id": "2026-05-31",
+  "date": "2026-05-31",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần VIII Thường Niên",
+  "weekNumber": 8,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Lễ Chúa Ba Ngôi",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "solemnity",
+  "readings": [
+    {
+      "bookCode": "EXO",
+      "startChapter": 34,
+      "startVerse": 4,
+      "endChapter": 34,
+      "endVerse": 9,
+      "displayReference": "Xh 34, 4-6.8-9",
+      "sourceCitation": "Exodus 34:4b-6, 8-9",
+      "selectedVerses": [
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "DAN",
+      "startChapter": 3,
+      "startVerse": 52,
+      "endChapter": 3,
+      "endVerse": 56,
+      "displayReference": "Đn 3, 52-56",
+      "sourceCitation": "Daniel 3:52, 53, 54, 55, 56",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "2CO",
+      "startChapter": 13,
+      "startVerse": 11,
+      "endChapter": 13,
+      "endVerse": 13,
+      "displayReference": "2Cr 13, 11-13",
+      "sourceCitation": "2 Corinthians 13:11-13",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 3,
+      "startVerse": 16,
+      "endChapter": 3,
+      "endVerse": 18,
+      "displayReference": "Ga 3, 16-18",
+      "sourceCitation": "John 3:16-18",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "PSA",
+  "name": "Thánh Vịnh",
+  "abbreviation": "Tv",
+  "sortOrder": 23,
+  "testament": "old",
+  "category": "wisdom",
+  "totalChapters": 150,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 6
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 7
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 6
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 7
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 5
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 51
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 32
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 6
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 25,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 26,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 27,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 28,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 29,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 30,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 31,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 32,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 33,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 34,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 35,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 36,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 37,
+      "totalVerses": 40
+    },
+    {
+      "chapterNumber": 38,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 39,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 40,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 41,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 42,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 43,
+      "totalVerses": 5
+    },
+    {
+      "chapterNumber": 44,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 45,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 46,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 47,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 48,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 49,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 50,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 51,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 52,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 53,
+      "totalVerses": 7
+    },
+    {
+      "chapterNumber": 54,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 55,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 56,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 57,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 58,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 59,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 60,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 61,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 62,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 63,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 64,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 65,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 66,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 67,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 68,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 69,
+      "totalVerses": 37
+    },
+    {
+      "chapterNumber": 70,
+      "totalVerses": 6
+    },
+    {
+      "chapterNumber": 71,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 72,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 73,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 74,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 75,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 76,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 77,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 78,
+      "totalVerses": 72
+    },
+    {
+      "chapterNumber": 79,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 80,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 81,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 82,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 83,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 84,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 85,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 86,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 87,
+      "totalVerses": 7
+    },
+    {
+      "chapterNumber": 88,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 89,
+      "totalVerses": 53
+    },
+    {
+      "chapterNumber": 90,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 91,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 92,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 93,
+      "totalVerses": 5
+    },
+    {
+      "chapterNumber": 94,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 95,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 96,
+      "totalVerses": 13
+    },
+    {
+      "chapterNumber": 97,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 98,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 99,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 100,
+      "totalVerses": 5
+    },
+    {
+      "chapterNumber": 101,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 102,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 103,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 104,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 105,
+      "totalVerses": 45
+    },
+    {
+      "chapterNumber": 106,
+      "totalVerses": 48
+    },
+    {
+      "chapterNumber": 107,
+      "totalVerses": 43
+    },
+    {
+      "chapterNumber": 108,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 109,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 110,
+      "totalVerses": 7
+    },
+    {
+      "chapterNumber": 111,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 112,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 113,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 114,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 115,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 116,
+      "totalVerses": 19
+    },
+    {
+      "chapterNumber": 117,
+      "totalVerses": 2
+    },
+    {
+      "chapterNumber": 118,
+      "totalVerses": 29
+    },
+    {
+      "chapterNumber": 119,
+      "totalVerses": 176
+    },
+    {
+      "chapterNumber": 120,
+      "totalVerses": 7
+    },
+    {
+      "chapterNumber": 121,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 122,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 123,
+      "totalVerses": 4
+    },
+    {
+      "chapterNumber": 124,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 125,
+      "totalVerses": 5
+    },
+    {
+      "chapterNumber": 126,
+      "totalVerses": 6
+    },
+    {
+      "chapterNumber": 127,
+      "totalVerses": 5
+    },
+    {
+      "chapterNumber": 128,
+      "totalVerses": 6
+    },
+    {
+      "chapterNumber": 129,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 130,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 131,
+      "totalVerses": 3
+    },
+    {
+      "chapterNumber": 132,
+      "totalVerses": 18
+    },
+    {
+      "chapterNumber": 133,
+      "totalVerses": 3
+    },
+    {
+      "chapterNumber": 134,
+      "totalVerses": 3
+    },
+    {
+      "chapterNumber": 135,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 136,
+      "totalVerses": 26
+    },
+    {
+      "chapterNumber": 137,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 138,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 139,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 140,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 141,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 142,
+      "totalVerses": 8
+    },
+    {
+      "chapterNumber": 143,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 144,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 145,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 146,
+      "totalVerses": 10
+    },
+    {
+      "chapterNumber": 147,
+      "totalVerses": 20
+    },
+    {
+      "chapterNumber": 148,
+      "totalVerses": 14
+    },
+    {
+      "chapterNumber": 149,
+      "totalVerses": 9
+    },
+    {
+      "chapterNumber": 150,
+      "totalVerses": 6
+    }
+  ]
+}

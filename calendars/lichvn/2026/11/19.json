@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-19",
+  "date": "2026-11-19",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXIII Thường Niên",
+  "weekNumber": 33,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Thứ Năm trong tuần thứ Ba Mươi-Ba Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "REV",
+      "startChapter": 5,
+      "startVerse": 1,
+      "endChapter": 5,
+      "endVerse": 10,
+      "displayReference": "Kh 5, 1-10",
+      "sourceCitation": "Revelation 5:1-10",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 149,
+      "startVerse": 1,
+      "endChapter": 149,
+      "endVerse": 9,
+      "displayReference": "Tv 149, 1-6.9",
+      "sourceCitation": "Psalm 149:1b-2, 3-4, 5-6b, 9b",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 19,
+      "startVerse": 41,
+      "endChapter": 19,
+      "endVerse": 44,
+      "displayReference": "Lc 19, 41-44",
+      "sourceCitation": "Luke 19:41-44",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "translation": "cgkpv2011",
+  "bookCode": "1SA",
+  "name": "Sa-mu-en 1",
+  "abbreviation": "1Sm",
+  "sortOrder": 9,
+  "testament": "old",
+  "category": "historical",
+  "totalChapters": 31,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 2,
+      "totalVerses": 36
+    },
+    {
+      "chapterNumber": 3,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 4,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 5,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 6,
+      "totalVerses": 21
+    },
+    {
+      "chapterNumber": 7,
+      "totalVerses": 17
+    },
+    {
+      "chapterNumber": 8,
+      "totalVerses": 22
+    },
+    {
+      "chapterNumber": 9,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 10,
+      "totalVerses": 27
+    },
+    {
+      "chapterNumber": 11,
+      "totalVerses": 15
+    },
+    {
+      "chapterNumber": 12,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 13,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 14,
+      "totalVerses": 52
+    },
+    {
+      "chapterNumber": 15,
+      "totalVerses": 35
+    },
+    {
+      "chapterNumber": 16,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 17,
+      "totalVerses": 58
+    },
+    {
+      "chapterNumber": 18,
+      "totalVerses": 30
+    },
+    {
+      "chapterNumber": 19,
+      "totalVerses": 24
+    },
+    {
+      "chapterNumber": 20,
+      "totalVerses": 42
+    },
+    {
+      "chapterNumber": 21,
+      "totalVerses": 16
+    },
+    {
+      "chapterNumber": 22,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 23,
+      "totalVerses": 28
+    },
+    {
+      "chapterNumber": 24,
+      "totalVerses": 23
+    },
+    {
+      "chapterNumber": 25,
+      "totalVerses": 44
+    },
+    {
+      "chapterNumber": 26,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 27,
+      "totalVerses": 12
+    },
+    {
+      "chapterNumber": 28,
+      "totalVerses": 25
+    },
+    {
+      "chapterNumber": 29,
+      "totalVerses": 11
+    },
+    {
+      "chapterNumber": 30,
+      "totalVerses": 31
+    },
+    {
+      "chapterNumber": 31,
+      "totalVerses": 13
+    }
+  ]
+}

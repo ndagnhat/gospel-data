@@ -1,0 +1,49 @@
+{
+  "id": "2026-02-21",
+  "date": "2026-02-21",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Mùa Chay",
+  "weekNumber": null,
+  "psalterWeek": 4,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Phê-rô Đa-mi-a-nô, giám mục, tiến sĩ Hội Thánh",
+  "saintOfDay": "Thánh Phê-rô Đa-mi-a-nô, giám mục, tiến sĩ Hội Thánh",
+  "commemorations": [
+    "Thứ Bảy sau Thứ Tư Lễ Tro"
+  ],
+  "color": "purple",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 58,
+      "startVerse": 9,
+      "endChapter": 58,
+      "endVerse": 14,
+      "displayReference": "Is 58, 9-14",
+      "sourceCitation": "Isaiah 58:9b-14",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 86,
+      "startVerse": 1,
+      "endChapter": 86,
+      "endVerse": 6,
+      "displayReference": "Tv 86, 1-6",
+      "sourceCitation": "Psalm 86:1-2, 3-4, 5-6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 5,
+      "startVerse": 27,
+      "endChapter": 5,
+      "endVerse": 32,
+      "displayReference": "Lc 5, 27-32",
+      "sourceCitation": "Luke 5:27-32",
+      "type": "gospel"
+    }
+  ]
+}

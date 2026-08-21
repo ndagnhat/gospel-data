@@ -1,0 +1,67 @@
+{
+  "id": "2026-10-11",
+  "date": "2026-10-11",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXVII Thường Niên",
+  "weekNumber": 27,
+  "psalterWeek": 4,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Hai Mươi-Tám Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 25,
+      "startVerse": 6,
+      "endChapter": 25,
+      "endVerse": 10,
+      "displayReference": "Is 25, 6-10",
+      "sourceCitation": "Isaiah 25:6-10a",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 23,
+      "startVerse": 1,
+      "endChapter": 23,
+      "endVerse": 6,
+      "displayReference": "Tv 23, 1-6",
+      "sourceCitation": "Psalm 23:1-3a, 3b-4, 5, 6",
+      "type": "psalm"
+    },
+    {
+      "bookCode": "PHP",
+      "startChapter": 4,
+      "startVerse": 12,
+      "endChapter": 4,
+      "endVerse": 20,
+      "displayReference": "Pl 4, 12-14.19-20",
+      "sourceCitation": "Philippians 4:12-14, 19-20",
+      "selectedVerses": [
+        12,
+        13,
+        14,
+        19,
+        20
+      ],
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 22,
+      "startVerse": 1,
+      "endChapter": 22,
+      "endVerse": 14,
+      "displayReference": "Mt 22, 1-14",
+      "sourceCitation": "Matthew 22:1-14",
+      "type": "gospel",
+      "alternatives": [
+        "Mt 22, 1-10"
+      ]
+    }
+  ]
+}

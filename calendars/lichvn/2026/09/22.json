@@ -1,0 +1,67 @@
+{
+  "id": "2026-09-22",
+  "date": "2026-09-22",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXV Thường Niên",
+  "weekNumber": 25,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Ba",
+  "title": "Thứ Ba trong tuần thứ Hai Mươi-Năm Mùa Quanh Năm",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "green",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "PRO",
+      "startChapter": 21,
+      "startVerse": 1,
+      "endChapter": 21,
+      "endVerse": 13,
+      "displayReference": "Cn 21, 1-6.10-13",
+      "sourceCitation": "Proverbs 21:1-6, 10-13",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        13
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 119,
+      "startVerse": 1,
+      "endChapter": 119,
+      "endVerse": 44,
+      "displayReference": "Tv 119, 1.27.30.34-35.44",
+      "sourceCitation": "Psalm 119:1, 27, 30, 34, 35, 44",
+      "selectedVerses": [
+        1,
+        27,
+        30,
+        34,
+        35,
+        44
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 8,
+      "startVerse": 19,
+      "endChapter": 8,
+      "endVerse": 21,
+      "displayReference": "Lc 8, 19-21",
+      "sourceCitation": "Luke 8:19-21",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2026-08-06",
+  "date": "2026-08-06",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XVIII Thường Niên",
+  "weekNumber": 18,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Năm",
+  "title": "Chúa Hiển Dung",
+  "saintOfDay": "Chúa Hiển Dung",
+  "commemorations": [],
+  "color": "white",
+  "rank": "feast",
+  "readings": [
+    {
+      "bookCode": "DAN",
+      "startChapter": 7,
+      "startVerse": 9,
+      "endChapter": 7,
+      "endVerse": 14,
+      "displayReference": "Đn 7, 9-10.13-14",
+      "sourceCitation": "Daniel 7:9-10, 13-14",
+      "selectedVerses": [
+        9,
+        10,
+        13,
+        14
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 97,
+      "startVerse": 1,
+      "endChapter": 97,
+      "endVerse": 9,
+      "displayReference": "Tv 97, 1-2.5-6.9",
+      "sourceCitation": "Psalm 97:1-2, 5-6, 9",
+      "selectedVerses": [
+        1,
+        2,
+        5,
+        6,
+        9
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "2PE",
+      "startChapter": 1,
+      "startVerse": 16,
+      "endChapter": 1,
+      "endVerse": 19,
+      "displayReference": "2Pr 1, 16-19",
+      "sourceCitation": "2 Peter 1:16-19",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 17,
+      "startVerse": 1,
+      "endChapter": 17,
+      "endVerse": 9,
+      "displayReference": "Mt 17, 1-9",
+      "sourceCitation": "Matthew 17:1-9",
+      "type": "gospel"
+    }
+  ]
+}

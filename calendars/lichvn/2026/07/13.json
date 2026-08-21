@@ -1,0 +1,55 @@
+{
+  "id": "2026-07-13",
+  "date": "2026-07-13",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XV Thường Niên",
+  "weekNumber": 15,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Hen-ri-cô",
+  "saintOfDay": "Thánh Hen-ri-cô",
+  "commemorations": [
+    "Thứ Hai trong tuần thứ Mười Lăm Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 1,
+      "startVerse": 10,
+      "endChapter": 1,
+      "endVerse": 17,
+      "displayReference": "Is 1, 10-17",
+      "sourceCitation": "Isaiah 1:10-17",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 50,
+      "startVerse": 8,
+      "endChapter": 50,
+      "endVerse": 23,
+      "displayReference": "Tv 50, 8-9.21.23",
+      "sourceCitation": "Psalm 50:8-9, 16bc-17, 21, 23",
+      "selectedVerses": [
+        8,
+        9,
+        21,
+        23
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 10,
+      "startVerse": 34,
+      "endChapter": 11,
+      "endVerse": 1,
+      "displayReference": "Mt 10, 34 – 11, 1",
+      "sourceCitation": "Matthew 10:34-11:1",
+      "type": "gospel"
+    }
+  ]
+}

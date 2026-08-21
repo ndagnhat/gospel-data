@@ -1,0 +1,55 @@
+{
+  "id": "2026-09-12",
+  "date": "2026-09-12",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXIII Thường Niên",
+  "weekNumber": 23,
+  "psalterWeek": 3,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Danh Rất Thánh trinh nữ Ma-ri-a",
+  "saintOfDay": "Danh Rất Thánh trinh nữ Ma-ri-a",
+  "commemorations": [
+    "Thứ Bảy trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "1CO",
+      "startChapter": 10,
+      "startVerse": 14,
+      "endChapter": 10,
+      "endVerse": 22,
+      "displayReference": "1Cr 10, 14-22",
+      "sourceCitation": "1 Corinthians 10:14-22",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 116,
+      "startVerse": 12,
+      "endChapter": 116,
+      "endVerse": 18,
+      "displayReference": "Tv 116, 12-13.17-18",
+      "sourceCitation": "Psalm 116:12-13, 17-18",
+      "selectedVerses": [
+        12,
+        13,
+        17,
+        18
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 6,
+      "startVerse": 43,
+      "endChapter": 6,
+      "endVerse": 49,
+      "displayReference": "Lc 6, 43-49",
+      "sourceCitation": "Luke 6:43-49",
+      "type": "gospel"
+    }
+  ]
+}

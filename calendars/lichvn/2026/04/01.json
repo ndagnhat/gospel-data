@@ -1,0 +1,54 @@
+{
+  "id": "2026-04-01",
+  "date": "2026-04-01",
+  "season": "lent",
+  "seasonName": "Mùa Chay",
+  "week": "Tuần VI Mùa Chay",
+  "weekNumber": 6,
+  "psalterWeek": 2,
+  "dayOfWeek": "Thứ Tư",
+  "title": "Thứ Tư Tuần Thánh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "purple",
+  "rank": "weekday",
+  "readings": [
+    {
+      "bookCode": "ISA",
+      "startChapter": 50,
+      "startVerse": 4,
+      "endChapter": 50,
+      "endVerse": 9,
+      "displayReference": "Is 50, 4-9",
+      "sourceCitation": "Isaiah 50:4-9a",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 69,
+      "startVerse": 8,
+      "endChapter": 69,
+      "endVerse": 22,
+      "displayReference": "Tv 69, 8-10.21-22",
+      "sourceCitation": "Psalm 69:8-10, 21-22, 31 and 33-34",
+      "selectedVerses": [
+        8,
+        9,
+        10,
+        21,
+        22
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MAT",
+      "startChapter": 26,
+      "startVerse": 14,
+      "endChapter": 26,
+      "endVerse": 25,
+      "displayReference": "Mt 26, 14-25",
+      "sourceCitation": "Matthew 26:14-25",
+      "type": "gospel"
+    }
+  ]
+}

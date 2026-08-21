@@ -1,0 +1,65 @@
+{
+  "id": "2026-05-03",
+  "date": "2026-05-03",
+  "season": "easter",
+  "seasonName": "Mùa Phục Sinh",
+  "week": "Tuần V Mùa Phục Sinh",
+  "weekNumber": 5,
+  "psalterWeek": 1,
+  "dayOfWeek": "Chúa Nhật",
+  "title": "Chúa Nhật thứ Năm Mùa Phục Sinh",
+  "saintOfDay": null,
+  "commemorations": [],
+  "color": "white",
+  "rank": "sunday",
+  "readings": [
+    {
+      "bookCode": "ACT",
+      "startChapter": 6,
+      "startVerse": 1,
+      "endChapter": 6,
+      "endVerse": 7,
+      "displayReference": "Cv 6, 1-7",
+      "sourceCitation": "Acts 6:1-7",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 33,
+      "startVerse": 1,
+      "endChapter": 33,
+      "endVerse": 19,
+      "displayReference": "Tv 33, 1-2.4-5.18-19",
+      "sourceCitation": "Psalm 33:1-2, 4-5, 18-19",
+      "selectedVerses": [
+        1,
+        2,
+        4,
+        5,
+        18,
+        19
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "1PE",
+      "startChapter": 2,
+      "startVerse": 4,
+      "endChapter": 2,
+      "endVerse": 9,
+      "displayReference": "1Pr 2, 4-9",
+      "sourceCitation": "1 Peter 2:4-9",
+      "type": "second_reading"
+    },
+    {
+      "bookCode": "JHN",
+      "startChapter": 14,
+      "startVerse": 1,
+      "endChapter": 14,
+      "endVerse": 12,
+      "displayReference": "Ga 14, 1-12",
+      "sourceCitation": "John 14:1-12",
+      "type": "gospel"
+    }
+  ]
+}

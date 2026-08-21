@@ -1,0 +1,64 @@
+{
+  "id": "2026-11-16",
+  "date": "2026-11-16",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần XXXIII Thường Niên",
+  "weekNumber": 33,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Hai",
+  "title": "Thánh Ghê-tơ-rút, trinh nữ",
+  "saintOfDay": "Thánh Ghê-tơ-rút, trinh nữ",
+  "commemorations": [
+    "Thánh nữ Ma-ga-ri-ta Tô-cách-lan",
+    "Thứ Hai trong tuần thứ Ba Mươi-Ba Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "REV",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 2,
+      "endVerse": 5,
+      "displayReference": "Kh 1, 1 – 2, 5",
+      "sourceCitation": "Revelation 1:1-4; 2:1-5",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 1,
+      "startVerse": 1,
+      "endChapter": 1,
+      "endVerse": 6,
+      "displayReference": "Tv 1, 1-4.6",
+      "sourceCitation": "Psalm 1:1-2, 3, 4, 6",
+      "selectedVerses": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "LUK",
+      "startChapter": 18,
+      "startVerse": 35,
+      "endChapter": 18,
+      "endVerse": 43,
+      "displayReference": "Lc 18, 35-43",
+      "sourceCitation": "Luke 18:35-43",
+      "type": "gospel"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2026-06-06",
+  "date": "2026-06-06",
+  "season": "ordinary",
+  "seasonName": "Mùa Thường Niên",
+  "week": "Tuần IX Thường Niên",
+  "weekNumber": 9,
+  "psalterWeek": 1,
+  "dayOfWeek": "Thứ Bảy",
+  "title": "Thánh Nô-bec-tô, giám mục",
+  "saintOfDay": "Thánh Nô-bec-tô, giám mục",
+  "commemorations": [
+    "Lễ Đức Mẹ ngày thứ bảy",
+    "Thứ Bảy trong tuần thứ Chín Mùa Quanh Năm"
+  ],
+  "color": "white",
+  "rank": "optional",
+  "readings": [
+    {
+      "bookCode": "2TM",
+      "startChapter": 4,
+      "startVerse": 1,
+      "endChapter": 4,
+      "endVerse": 8,
+      "displayReference": "2Tm 4, 1-8",
+      "sourceCitation": "2 Timothy 4:1-8",
+      "type": "first_reading"
+    },
+    {
+      "bookCode": "PSA",
+      "startChapter": 71,
+      "startVerse": 8,
+      "endChapter": 71,
+      "endVerse": 22,
+      "displayReference": "Tv 71, 8-9.16-17.22",
+      "sourceCitation": "Psalm 71:8-9, 14-15AB, 16-17, 22",
+      "selectedVerses": [
+        8,
+        9,
+        16,
+        17,
+        22
+      ],
+      "type": "psalm"
+    },
+    {
+      "bookCode": "MRK",
+      "startChapter": 12,
+      "startVerse": 38,
+      "endChapter": 12,
+      "endVerse": 44,
+      "displayReference": "Mc 12, 38-44",
+      "sourceCitation": "Mark 12:38-44",
+      "type": "gospel"
+    }
+  ]
+}
