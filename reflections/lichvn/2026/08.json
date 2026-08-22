@@ -1,0 +1,28 @@
+{
+  "id": "lichvn",
+  "year": 2026,
+  "month": 8,
+  "days": [
+    {
+      "date": "2026-08-21",
+      "kinds": [
+        "meditation",
+        "homily"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "kinds": [
+        "meditation",
+        "homily"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "kinds": [
+        "meditation",
+        "homily"
+      ]
+    }
+  ]
+}

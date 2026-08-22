@@ -1,0 +1,12 @@
+{
+  "id": "lichvn",
+  "calendarId": "lichvn",
+  "name": "Suy niệm & bàn giảng",
+  "language": "vi",
+  "years": [
+    2026
+  ],
+  "version": "20260822",
+  "updatedAt": "2026-08-22T15:40:00Z",
+  "note": "Các bài mang nhãn mẫu là dữ liệu minh họa để xem giao diện, chưa phải sưu tập chính thức."
+}

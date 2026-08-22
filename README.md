@@ -6,6 +6,7 @@ Hiện có:
 
 - **bibles/cgkpv2011** — Kinh Thánh CGKPV 2011 (73 sách)
 - **calendars/lichvn** — Lịch phụng vụ Giáo hội Việt Nam (2026)
+- **reflections/lichvn** — Suy niệm & bàn giảng (mẫu 21–23/08/2026)
 
 Thêm bản dịch mới: tạo thư mục `bibles/{id}/` theo cùng cấu trúc.  
 Thêm giáo phận / lịch mới: tạo `calendars/{id}/{year}/`.
@@ -58,6 +59,29 @@ GET /calendars/lichvn/2026/index.json
 GET /calendars/lichvn/2026/08.json
 GET /calendars/lichvn/2026/08/21.json
 ```
+
+
+### Suy niệm & bàn giảng
+
+| Mục | Path |
+|---|---|
+| Danh sách bộ sưu tập | `/reflections/index.json` |
+| Một bộ | `/reflections/{id}/index.json` |
+| Một tháng (ngày nào có bài) | `/reflections/{id}/{year}/{MM}.json` |
+| Một ngày | `/reflections/{id}/{year}/{MM}/{DD}.json` |
+
+Ví dụ:
+
+```
+GET /reflections/lichvn/2026/08/22.json
+```
+
+Mỗi ngày là một mảng `items`. Hai `kind`:
+
+- `meditation` — Suy niệm ngắn, có thể có `questions` và `closing`
+- `homily` — Bàn giảng dài hơn
+
+Các bài `"sample": true` là dữ liệu minh họa để xem giao diện.
 
 Bài đọc trong lịch chỉ lưu **tham chiếu** (`bookCode`, chương, câu). Lấy nguyên văn từ API Kinh Thánh rồi cắt theo `startVerse`/`endVerse` (hoặc `selectedVerses` nếu có).
 
