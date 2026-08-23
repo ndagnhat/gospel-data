@@ -79,7 +79,7 @@ GET /reflections/lichvn/2026/08/22.json
 Mỗi ngày là một mảng `items`. Hai `kind`:
 
 - `meditation` — Suy niệm ngắn, có thể có `questions` và `closing`
-- `homily` — Bàn giảng dài hơn
+- `homily` — Bàn giảng dài hơn; có thể có `videoUrl` (YouTube) để xem thay vì đọc, kèm `author` (người giảng) và `source` (mô tả nguồn)
 
 Các bài `"sample": true` là dữ liệu minh họa để xem giao diện.
 
